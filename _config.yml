@@ -8,7 +8,7 @@ title:               Kelly Heard
 tagline:             'Technology & Subject Matter Expert in Ecommerce'
 description:         'Currently @Sitecore. Technology, Photography and More!'
 url:                 http://heardk.github.io
-baseurl:             '/'
+baseurl:             /
 paginate:            5
 
 # About/contact
