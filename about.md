@@ -1,30 +1,77 @@
 ---
 layout: page
-title: About
+title: Bio
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+* Over 16 years of experience in consulting, development and solution architecture
+* Primary focus is on ecommerce, enterprise and web content management
+* Specific technologies include the Sitecore Experience Platform, Sitecore Commerce (previously Commerce Server) and SharePoint
+* Solid mix of business and technical experience and a passion for technology
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Work
 
-There are currently two themes built on Poole:
+<table><tr><th>Position</th><th>Company</th><th>Date</th>
+</tr>
+<tr>
+<td>Commerce Solution Architect</td>
+<td>Sitecore</td>
+<td>2014-Present</td>
+</tr>
+<tr>
+<td>Consultant</td>
+<td>A Hundred Answers</td>
+<td>2013-2014</td>
+</tr>
+<tr>
+<td>Business & Systems Analyst</td>
+<td>Nordion</td>
+<td>2010-2013</td>
+</tr>
+<tr>
+<td>Technical Product Manager</td>
+<td>Cactus Commerce</td>
+<td>2009-2010</td>
+</tr>
+<tr>
+<td>Commerce Solution Architect</td>
+<td>Cactus Commerce</td>
+<td>2007-2009</td>
+</tr>
+<tr>
+<td>Lead Software Developer</td>
+<td>Cactus Commerce</td>
+<td>2006-2007</td>
+</tr>
+<tr>
+<td>Consultant</td>
+<td>Progestic International</td>
+<td>2000-2003</td>
+</tr>
+<tr>
+<td>Consultant</td>
+<td>Hilton Consulting Group</td>
+<td>1999-2000</td>
+</tr>
+</table>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Courses
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Business Intelligence Reporting for Project Server 2010
+* Project Server 2010 for Administrators
+* Hyperion Planning 11.1.2: Create & Manage Applications
+* Oracle Essbase 11.1.2 Bootcamp Self-Study
 
-## Setup
+### Independent Coursework
 
-Some fun facts about the setup of this project include:
+* Ruby on Rails (The Pragmatic Studio)
+* React for Beginners (Wes Bos)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Certifications
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* Pragmatic Marketing Certified (2010)
+* Sitecore Developer Certification for CMS 7.0  (2014)
+* Sitecore Commerce Certification (2016)
 
-Thanks for reading!
+### Volunteer
+
+* Qualicum Graham Park Community Association - Webmaster (2015-present)
