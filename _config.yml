@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Kelly Heard
 tagline:             'Technology & Subject Matter Expert in Ecommerce'
 description:         'Currently @Sitecore. Technology, Photography and More!'
-url:                 http://heardk.github.io/
-baseurl:             'http://heardk.github.io'
+url:                 https://heardk.github.io/
+baseurl:             https://heardk.github.io
 paginate:            5
 
 # About/contact
