@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Latest Ecommerce News
+title: Ecommerce News
 ---
 
 News of interest from the ever changing world of ecommerce.
