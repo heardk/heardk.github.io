@@ -34,11 +34,11 @@ In 8.1, Commerce reporting was added to the Experience Profile with a focus on i
 
 **Best Selling Products and Most Viewed Categories**
 
-![](/public/82-reports-1.png)
+![](/public/images/82-reports-1.png)
 
 **Shopping Cart Activity**
 
-![](/public/82-reports-2.png)
+![](/public/images/82-reports-2.png)
 
 ## More
 
