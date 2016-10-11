@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        /blog/:title
-relative_permalinks: true
 
 # Setup
 title:            'Kelly Heard'
