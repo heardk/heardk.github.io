@@ -1,11 +1,3 @@
 #news {
     font-size: 85%;
 }
-
-#news table {
-  border: 0px;
-}
-#news td {
-  padding: 0;
-  border: 0px;
-}
