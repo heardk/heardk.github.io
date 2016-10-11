@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sitecore Commerce 8.2 - What's New
+slug: new-sitecore-commerce-82
 ---
 
 The release of Sitecore Commerce 8.2 marked another milestone in the continued development and improvement of our Commerce product. While there are great things planned for 8.3 and beyond, there are some significant improvements and new features that we can take advantage of now.
