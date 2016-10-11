@@ -2,6 +2,7 @@
 _gh_pages
 _site
 .ruby-version
+_local_config.yml
 
 # Numerous always-ignore extensions
 *.diff
