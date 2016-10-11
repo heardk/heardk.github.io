@@ -32,16 +32,16 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Merriweather", serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 1.5rem;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 1.8rem;
   }
 }
 

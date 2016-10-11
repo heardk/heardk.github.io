@@ -48,13 +48,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: "Merriweather", serif;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 1.8rem;
   }
 }
 
@@ -76,19 +76,21 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  /*text-decoration: underline;*/
+  color: #303030;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
-  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.9rem;
 }
 h2 {
   margin-top: 1rem;
