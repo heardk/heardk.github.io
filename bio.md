@@ -10,7 +10,7 @@ title: Bio
 
 ### Work
 
-<table><tr><th>Position</th><th>Company</th><th>Date</th>
+<table class="bio-table"><tr><th>Position</th><th>Company</th><th>Date</th>
 </tr>
 <tr>
 <td>Commerce Solution Architect</td>

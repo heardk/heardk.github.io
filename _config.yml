@@ -11,15 +11,24 @@ tagline:          ''
 description:      'Technology & Subject Matter Expert in Ecommerce'
 url:              https://kellyheard.com
 baseurl:          /
-
 author:
   name:           'Kelly Heard'
   url:            https://twitter.com/kellyheard
-
 paginate:         5
 
 # Custom vars
 version:          2.1.0
-
 github:
   repo:           #https://github.com/poole/hyde
+exclude:          [example-content.md, Gemfile, Gemfile.lock, README.Hyde.md, README.md, LICENSE.md]
+gems:             [jekyll-paginate, github-pages, jekyll-archives]
+
+# jekyll-archive
+# https://github.com/jekyll/jekyll-archives/tree/master/docs
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: 'category'
+  permalinks:
+    category: '/blog/category/:name/'

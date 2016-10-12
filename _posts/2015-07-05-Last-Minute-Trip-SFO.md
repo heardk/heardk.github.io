@@ -2,6 +2,7 @@
 layout: post
 title: Last Minute Trip to SFO
 slug: last-minute-trip-sfo
+categories: [Photo]
 ---
 
 I took a recent trip to San Francisco, following my wife as she was attending a conference. I've been there before, but took the time to get out and take some pictures of landmarks I hadn't had time to photograph last time. Photographs of the Golden Gate bridge are not new, but I wanted one of my own.
