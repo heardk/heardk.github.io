@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Kelly Heard</title>
- <link href="https://github-blog-heardk.c9users.io//atom.xml" rel="self"/>
- <link href="https://github-blog-heardk.c9users.io//"/>
- <updated>2016-10-15T20:47:53+00:00</updated>
- <id>https://github-blog-heardk.c9users.io/</id>
+ <link href="https://kellyheard.com/atom.xml" rel="self"/>
+ <link href="https://kellyheard.com/"/>
+ <updated>2016-10-15T21:16:22+00:00</updated>
+ <id>https://kellyheard.com</id>
  <author>
    <name>Kelly Heard</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Sitecore Commerce 8.2 - What's New</title>
-   <link href="https://github-blog-heardk.c9users.io//blog/new-sitecore-commerce-82"/>
+   <link href="https://kellyheard.com/blog/new-sitecore-commerce-82"/>
    <updated>2016-09-23T00:00:00+00:00</updated>
-   <id>https://github-blog-heardk.c9users.io//blog/new-sitecore-commerce-82</id>
+   <id>https://kellyheard.com/blog/new-sitecore-commerce-82</id>
    <content type="html">&lt;p&gt;The release of Sitecore Commerce 8.2 marked another milestone in the continued development and improvement of our Commerce product. While there are great things planned for 8.3 and beyond, there are some significant improvements and new features that we can take advantage of now.&lt;/p&gt;
 
 &lt;p&gt;The full release notes are &lt;a href=&quot;http://commercesdn.sitecore.net/SCpbCS82/releasenotes/en-us/index.html&quot;&gt;here&lt;/a&gt;, but let me walk you through some of what I think are the most exciting.&lt;/p&gt;
@@ -65,9 +65,9 @@
  
  <entry>
    <title>Sitecore Commerce Demo Source</title>
-   <link href="https://github-blog-heardk.c9users.io//blog/commerce-demo-source"/>
+   <link href="https://kellyheard.com/blog/commerce-demo-source"/>
    <updated>2015-10-10T00:00:00+00:00</updated>
-   <id>https://github-blog-heardk.c9users.io//blog/commerce-demo-source</id>
+   <id>https://kellyheard.com/blog/commerce-demo-source</id>
    <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx&quot;&gt;wrote about&lt;/a&gt; the release of the source code for our Sitecore Commerce Demo. Check it out for more details.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -76,9 +76,9 @@
  
  <entry>
    <title>Custom Product Relationships in Sitecore Commerce</title>
-   <link href="https://github-blog-heardk.c9users.io//blog/custom-product-relationships"/>
+   <link href="https://kellyheard.com/blog/custom-product-relationships"/>
    <updated>2015-08-19T00:00:00+00:00</updated>
-   <id>https://github-blog-heardk.c9users.io//blog/custom-product-relationships</id>
+   <id>https://kellyheard.com/blog/custom-product-relationships</id>
    <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/08/custom-product-relationships-in-sitecore-commerce.aspx&quot;&gt;wrote about&lt;/a&gt; creating custom product relationships to improve merchandiser experience.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/08/custom-product-relationships-in-sitecore-commerce.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -87,9 +87,9 @@
  
  <entry>
    <title>Custom Product Attributes in the External Setttings Field</title>
-   <link href="https://github-blog-heardk.c9users.io//blog/custom-product-attributes"/>
+   <link href="https://kellyheard.com/blog/custom-product-attributes"/>
    <updated>2015-08-18T00:00:00+00:00</updated>
-   <id>https://github-blog-heardk.c9users.io//blog/custom-product-attributes</id>
+   <id>https://kellyheard.com/blog/custom-product-attributes</id>
    <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;wrote about&lt;/a&gt; customizing product schemas with Sitecore Commerce pb Commerce Server.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -98,9 +98,9 @@
  
  <entry>
    <title>Last Minute Trip to SFO</title>
-   <link href="https://github-blog-heardk.c9users.io//blog/last-minute-trip-sfo"/>
+   <link href="https://kellyheard.com/blog/last-minute-trip-sfo"/>
    <updated>2015-07-05T00:00:00+00:00</updated>
-   <id>https://github-blog-heardk.c9users.io//blog/last-minute-trip-sfo</id>
+   <id>https://kellyheard.com/blog/last-minute-trip-sfo</id>
    <content type="html">&lt;p&gt;I took a recent trip to San Francisco, following my wife as she was attending a conference. I’ve been there before, but took the time to get out and take some pictures of landmarks I hadn’t had time to photograph last time. Photographs of the Golden Gate bridge are not new, but I wanted one of my own.&lt;/p&gt;
 
 &lt;p&gt;I spent a good part of one day at Baker Beach trying to get the shot you see here. And as you can also see, the weather wasn’t exactly the greatest, but still turned out to be a half-way decent shot.&lt;/p&gt;
