@@ -5,3 +5,30 @@
 .bio-table {
     font-size: 85%;
 }
+
+.sidebar {
+    background-image: url('/public/images/bkgd-dark.jpg');
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+}
+
+.sidebar-about .lead {
+    font-size: 1.3rem;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+}
+
+/*.sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    left:   1rem;
+    top:    1rem;
+}*/
+
+.related-posts h3 {
+  font-size: 85%;
+}
+
+.post-date {
+    font-size: 85%;
+}

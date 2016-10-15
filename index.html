@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }} | {{ post.categories | array_to_sentence_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }} | Posted in {% include post-cat-list.html content=post %}</span>
 
     {{ post.excerpt }}
   </div>
