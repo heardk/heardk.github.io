@@ -1,28 +1,113 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Kelly Heard</title>
+ <link href="https://github-blog-heardk.c9users.io//atom.xml" rel="self"/>
+ <link href="https://github-blog-heardk.c9users.io//"/>
+ <updated>2016-10-15T20:47:53+00:00</updated>
+ <id>https://github-blog-heardk.c9users.io/</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Kelly Heard</name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Sitecore Commerce 8.2 - What's New</title>
+   <link href="https://github-blog-heardk.c9users.io//blog/new-sitecore-commerce-82"/>
+   <updated>2016-09-23T00:00:00+00:00</updated>
+   <id>https://github-blog-heardk.c9users.io//blog/new-sitecore-commerce-82</id>
+   <content type="html">&lt;p&gt;The release of Sitecore Commerce 8.2 marked another milestone in the continued development and improvement of our Commerce product. While there are great things planned for 8.3 and beyond, there are some significant improvements and new features that we can take advantage of now.&lt;/p&gt;
+
+&lt;p&gt;The full release notes are &lt;a href=&quot;http://commercesdn.sitecore.net/SCpbCS82/releasenotes/en-us/index.html&quot;&gt;here&lt;/a&gt;, but let me walk you through some of what I think are the most exciting.&lt;/p&gt;
+
+&lt;h2 id=&quot;support-for-azure-web-apps&quot;&gt;Support for Azure Web Apps&lt;/h2&gt;
+
+&lt;p&gt;In 8.1, we were given new tools, in the form of PowerShell CmdLets, that make installing and configuring Commerce Server much easier. With that, came further support for Azure and the Sitecore Azure Module.&lt;/p&gt;
+
+&lt;p&gt;So long, farewell PuP, it’s been nice knowing you!&lt;/p&gt;
+
+&lt;p&gt;With the 8.2 release, we see added support for Azure Web Apps using registry-free COM and Commerce Server specific NuGet packages. Now you can deploy to the cloud without needing to install Commerce Server. There are some caveats though, like not being able to use Catalog Import/Export because of the COM+ requirement, so be sure to look at the release notes for more details.&lt;/p&gt;
+
+&lt;p&gt;More information on Azure Web Apps deployments for Sitecore Commerce can be found in the documentation &lt;a href=&quot;http://commercesdn.sitecore.net/SCpbCS82/SitecoreCommerceDeploymentGuide/en-us/index.html#c_BuidingAzurePaaSDeployment.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;custom-catalog-fields&quot;&gt;Custom Catalog Fields&lt;/h2&gt;
+
+&lt;p&gt;When creating the initial catalog schema, a decision needs to be made about where a particular field should be stored. Product data needed for the completed transaction is best stored in the Catalog. If the attribute is simply to enrich the way the product looks on the site, like images, videos or content, simply create the field in Sitecore.&lt;/p&gt;
+
+&lt;p&gt;Any of these product enrichment fields are attached to a product in the catalog using a field called &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;External Settings&lt;/a&gt;. The problem is if an external system provides updates to the catalog (like through the Catalog Web Service from an ERP or PIM) the external settings field could be lost, and with it, any fields you added to the data template.&lt;/p&gt;
+
+&lt;p&gt;With the launch of 8.2, you can now specify if you want to store these External Settings with the original product or in a separate product catalog. Now if a catalog is updated from a legacy system or through some kind of import, the External Settings field won’t be overwritten.&lt;/p&gt;
+
+&lt;p&gt;Note: Documentation is still being updated. I’ll provide details on how to do this soon.&lt;/p&gt;
+
+&lt;h2 id=&quot;commerce-reports&quot;&gt;Commerce Reports&lt;/h2&gt;
+
+&lt;p&gt;In 8.1, Commerce reporting was added to the Experience Profile with a focus on individual contacts. With the launch of 8.2, we see a number of new reports and charts added to Experience Analytics, providing a view of commerce data as it applies to all contacts and interactions.  A full list of these reports are available in the release notes, but here are the highlights:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Best Selling Products and Most Viewed Categories&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/82-reports-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shopping Cart Activity&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/82-reports-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;more&quot;&gt;More&lt;/h2&gt;
+
+&lt;p&gt;I should also point out that we’ve begun to restructure our Commerce documentation. All docs related to Commerce can now be found in one convenient place, at &lt;a href=&quot;https://doc.sitecore.net/sitecore_commerce&quot;&gt;doc.sitecore.net&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are many more enhancements and bug fixes. We’ll be talking more about them in the weeks to come, as we dive deeper into some of the new features.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally posted at &lt;a href=&quot;https://community.sitecore.net/technical_blogs/b/the_commerce_experience/posts/what-39-s-new-in-sitecore-commerce-8-2&quot;&gt;community.sitecore.net&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Sitecore Commerce Demo Source</title>
+   <link href="https://github-blog-heardk.c9users.io//blog/commerce-demo-source"/>
+   <updated>2015-10-10T00:00:00+00:00</updated>
+   <id>https://github-blog-heardk.c9users.io//blog/commerce-demo-source</id>
+   <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx&quot;&gt;wrote about&lt;/a&gt; the release of the source code for our Sitecore Commerce Demo. Check it out for more details.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Custom Product Relationships in Sitecore Commerce</title>
+   <link href="https://github-blog-heardk.c9users.io//blog/custom-product-relationships"/>
+   <updated>2015-08-19T00:00:00+00:00</updated>
+   <id>https://github-blog-heardk.c9users.io//blog/custom-product-relationships</id>
+   <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/08/custom-product-relationships-in-sitecore-commerce.aspx&quot;&gt;wrote about&lt;/a&gt; creating custom product relationships to improve merchandiser experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/08/custom-product-relationships-in-sitecore-commerce.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Custom Product Attributes in the External Setttings Field</title>
+   <link href="https://github-blog-heardk.c9users.io//blog/custom-product-attributes"/>
+   <updated>2015-08-18T00:00:00+00:00</updated>
+   <id>https://github-blog-heardk.c9users.io//blog/custom-product-attributes</id>
+   <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;wrote about&lt;/a&gt; customizing product schemas with Sitecore Commerce pb Commerce Server.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Last Minute Trip to SFO</title>
+   <link href="https://github-blog-heardk.c9users.io//blog/last-minute-trip-sfo"/>
+   <updated>2015-07-05T00:00:00+00:00</updated>
+   <id>https://github-blog-heardk.c9users.io//blog/last-minute-trip-sfo</id>
+   <content type="html">&lt;p&gt;I took a recent trip to San Francisco, following my wife as she was attending a conference. I’ve been there before, but took the time to get out and take some pictures of landmarks I hadn’t had time to photograph last time. Photographs of the Golden Gate bridge are not new, but I wanted one of my own.&lt;/p&gt;
+
+&lt;p&gt;I spent a good part of one day at Baker Beach trying to get the shot you see here. And as you can also see, the weather wasn’t exactly the greatest, but still turned out to be a half-way decent shot.&lt;/p&gt;
+
+&lt;p&gt;You can see the whole album on Flickr, &lt;a href=&quot;https://www.flickr.com/photos/greensuitcase/albums/72157654661669251&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
 
 </feed>

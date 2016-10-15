@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Sitecore Commerce 8.2 - What's New &middot; Kelly Heard
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="/public/css/app.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6595038-5', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Kelly Heard
+        </a>
+      </h1>
+      <p class="lead">Ecommerce, Technology, Photography & More</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/">Home</a>
+
+      
+
+      
+      
+        
+          
+        
+      
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/bio">Bio</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/contact">Where to Find Me</a>
+          
+        
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/news">Ecommerce News</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/newsletter">Subscribe to my Newsletter</a>
+          
+        
+      
+
+      <!--<a class="sidebar-nav-item" href="/archive/v2.1.0.zip">Download</a>
+      <a class="sidebar-nav-item" href="">GitHub project</a>
+      <span class="sidebar-nav-item">Currently v2.1.0</span>-->
+    </nav>
+
+    <p>&copy; 2016. All rights reserved.</p>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title">Sitecore Commerce 8.2 - What's New</h1>
+  <span class="post-date">23 Sep 2016 | Posted in 
+    
+    <a href='/blog/category/ecommerce'>ecommerce</a>
+
+    
+    <a href='/blog/category/sitecore-commerce'>sitecore-commerce</a>
+</span>
+  <p>The release of Sitecore Commerce 8.2 marked another milestone in the continued development and improvement of our Commerce product. While there are great things planned for 8.3 and beyond, there are some significant improvements and new features that we can take advantage of now.</p>
+
+<p>The full release notes are <a href="http://commercesdn.sitecore.net/SCpbCS82/releasenotes/en-us/index.html">here</a>, but let me walk you through some of what I think are the most exciting.</p>
+
+<h2 id="support-for-azure-web-apps">Support for Azure Web Apps</h2>
+
+<p>In 8.1, we were given new tools, in the form of PowerShell CmdLets, that make installing and configuring Commerce Server much easier. With that, came further support for Azure and the Sitecore Azure Module.</p>
+
+<p>So long, farewell PuP, it’s been nice knowing you!</p>
+
+<p>With the 8.2 release, we see added support for Azure Web Apps using registry-free COM and Commerce Server specific NuGet packages. Now you can deploy to the cloud without needing to install Commerce Server. There are some caveats though, like not being able to use Catalog Import/Export because of the COM+ requirement, so be sure to look at the release notes for more details.</p>
+
+<p>More information on Azure Web Apps deployments for Sitecore Commerce can be found in the documentation <a href="http://commercesdn.sitecore.net/SCpbCS82/SitecoreCommerceDeploymentGuide/en-us/index.html#c_BuidingAzurePaaSDeployment.html">here</a>.</p>
+
+<h2 id="custom-catalog-fields">Custom Catalog Fields</h2>
+
+<p>When creating the initial catalog schema, a decision needs to be made about where a particular field should be stored. Product data needed for the completed transaction is best stored in the Catalog. If the attribute is simply to enrich the way the product looks on the site, like images, videos or content, simply create the field in Sitecore.</p>
+
+<p>Any of these product enrichment fields are attached to a product in the catalog using a field called <a href="http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx">External Settings</a>. The problem is if an external system provides updates to the catalog (like through the Catalog Web Service from an ERP or PIM) the external settings field could be lost, and with it, any fields you added to the data template.</p>
+
+<p>With the launch of 8.2, you can now specify if you want to store these External Settings with the original product or in a separate product catalog. Now if a catalog is updated from a legacy system or through some kind of import, the External Settings field won’t be overwritten.</p>
+
+<p>Note: Documentation is still being updated. I’ll provide details on how to do this soon.</p>
+
+<h2 id="commerce-reports">Commerce Reports</h2>
+
+<p>In 8.1, Commerce reporting was added to the Experience Profile with a focus on individual contacts. With the launch of 8.2, we see a number of new reports and charts added to Experience Analytics, providing a view of commerce data as it applies to all contacts and interactions.  A full list of these reports are available in the release notes, but here are the highlights:</p>
+
+<p><strong>Best Selling Products and Most Viewed Categories</strong></p>
+
+<p><img src="/public/images/82-reports-1.png" alt="" /></p>
+
+<p><strong>Shopping Cart Activity</strong></p>
+
+<p><img src="/public/images/82-reports-2.png" alt="" /></p>
+
+<h2 id="more">More</h2>
+
+<p>I should also point out that we’ve begun to restructure our Commerce documentation. All docs related to Commerce can now be found in one convenient place, at <a href="https://doc.sitecore.net/sitecore_commerce">doc.sitecore.net</a>.</p>
+
+<p>There are many more enhancements and bug fixes. We’ll be talking more about them in the weeks to come, as we dive deeper into some of the new features.</p>
+
+<p><em>Originally posted at <a href="https://community.sitecore.net/technical_blogs/b/the_commerce_experience/posts/what-39-s-new-in-sitecore-commerce-8-2">community.sitecore.net</a></em></p>
+
+</div>
+
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/blog/commerce-demo-source">
+            Sitecore Commerce Demo Source
+            <small>10 Oct 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/custom-product-relationships">
+            Custom Product Relationships in Sitecore Commerce
+            <small>19 Aug 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/blog/custom-product-attributes">
+            Custom Product Attributes in the External Setttings Field
+            <small>18 Aug 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//kellyheard.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+<!-- News -->
+<script>
+        jQuery.get( "https://blogrollcontent.firebaseio.com/.json", function( response ) {
+            var html = "<table>";
+
+            for (var newsitem in response) {
+                html = html + "<tr><td><a href='" + response[newsitem].URL + "'>" + response[newsitem].Post + "</a></td><td><small>" + response[newsitem].Date + "</small></td></tr>";
+            }
+
+            html = html + "</table>";
+            var newsElement = document.getElementById("news");
+            if(newsElement != null)
+            {
+                newsElement.innerHTML = html;
+            }
+        } );
+</script>
+  </body>
+</html>
