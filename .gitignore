@@ -3,8 +3,6 @@ _gh_pages
 _site
 .ruby-version
 _local_config.yml
-Gemfile
-Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff
