@@ -20,7 +20,7 @@ paginate:         5
 version:          2.1.0
 github:
   repo:           #https://github.com/poole/hyde
-exclude:          [example-content.md, Gemfile, Gemfile.lock, README.Hyde.md, README.md, LICENSE.md]
+exclude:          [example-content.md, Gemfile, Gemfile.lock, README.Hyde.md, README.md, LICENSE.md, Rakefile, .travis.yml]
 gems:             [jekyll-paginate, github-pages, jekyll-archives]
 
 # jekyll-archive
