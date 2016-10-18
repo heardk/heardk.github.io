@@ -1,5 +1,7 @@
 # Kelly Heard
 
+[![Build Status](https://travis-ci.org/heardk/heardk.github.io.svg?branch=source)](https://travis-ci.org/heardk/heardk.github.io)
+
 Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using the [Hyde](http://hyde.getpoole.com/) theme
 
 ## License
