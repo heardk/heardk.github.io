@@ -5,4 +5,4 @@ title: Ecommerce News
 
 News of interest from the ever changing world of ecommerce.
 
-<div id="news"></div>
+<script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=klyhrd&count=40&tag=commerce"></script>
