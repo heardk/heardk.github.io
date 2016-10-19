@@ -29,7 +29,15 @@
     font-size: 85%;
 }
 
-.pin-title { font-size:75%;text-decoration:none;}
-.pin-description { color:#555; }
-.pin-tag { display: none; }
+.pin-title { 
+    font-size:85%;
+    text-decoration:none;
+}
+.pin-description { 
+    font-size:75%;
+    color:#555;
+}
+.pin-tag { 
+    display: none; 
+}
 
