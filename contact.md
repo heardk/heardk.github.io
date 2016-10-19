@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Where to Find Me
+title: Contact
 ---
 
 
