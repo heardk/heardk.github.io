@@ -141,6 +141,7 @@ DEPENDENCIES
   github-pages
   jekyll-archives
   jekyll-paginate
+  jekyll-seo-tag
   rake
   rake-jekyll
 

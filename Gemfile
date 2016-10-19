@@ -6,4 +6,5 @@ group :jekyll_plugins do
    gem "jekyll-archives"
    gem 'rake'
    gem 'rake-jekyll'
+   gem 'jekyll-seo-tag'
  end
