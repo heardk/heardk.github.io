@@ -4,13 +4,45 @@
  <title>Kelly Heard</title>
  <link href="https://kellyheard.com/atom.xml" rel="self"/>
  <link href="https://kellyheard.com/"/>
- <updated>2016-10-19T17:24:34+00:00</updated>
+ <updated>2016-10-25T19:07:38+00:00</updated>
  <id>https://kellyheard.com</id>
  <author>
    <name>Kelly Heard</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Ecommerce Links - One</title>
+   <link href="https://kellyheard.com/blog/ecommerce-links-one"/>
+   <updated>2016-10-25T00:00:00+00:00</updated>
+   <id>https://kellyheard.com/blog/ecommerce-links-one</id>
+   <content type="html">&lt;p&gt;Here are some recent articles and blog posts on all things ecommerce and retail. You’ll notice I named it “one”. I’m hoping to follow that up with a “two” and “three” and so on. Enjoy.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-science-of-smell-how-retailers-can-use-scent-marketing-to-influence-shoppershttpcompany-retailmyshopifycomblogsblogthe-science-of-smell-how-retailers-can-use-scent-marketing-to-make-more-sales-shopify&quot;&gt;&lt;a href=&quot;http://company-retail.myshopify.com/blogs/blog/the-science-of-smell-how-retailers-can-use-scent-marketing-to-make-more-sales&quot;&gt;The Science of Smell: How Retailers Can Use Scent Marketing to Influence Shoppers&lt;/a&gt; (Shopify)&lt;/h2&gt;
+
+&lt;p&gt;We’ve all walked into a mall and known instantly if there was an Abercrombie located somewhere inside. Many retailers use scent to help market their brand and improve conversion rates. Even smaller retailers can take advantage of Scent Marketing to improve in store experiences and keep customers there longer.&lt;/p&gt;
+
+&lt;h2 id=&quot;report-social-commerce-on-the-rise-despite-sluggish-business-readinesshttpwwwcmocomauarticle607234report-social-commerce-rise-despite-sluggish-business-readiness-cmo&quot;&gt;&lt;a href=&quot;http://www.cmo.com.au/article/607234/report-social-commerce-rise-despite-sluggish-business-readiness/&quot;&gt;Report: Social commerce on the rise despite sluggish business readiness&lt;/a&gt; (CMO)&lt;/h2&gt;
+
+&lt;p&gt;Apart from a small percentage of standout ecommerce purchasing experiences, most are not what I would consider worthy given the number of technology platforms that make this possible. This report identifies some interesting figures: “&lt;em&gt;..71 per cent use their mobile devices to make payments, yet only 49 per cent of businesses are mobile optimised. Almost one-third (31 per cent) of businesses stated they have no plans to optimise for mobile sales..&lt;/em&gt;”&lt;/p&gt;
+
+&lt;h2 id=&quot;using-behavioural-economics-and-dynamic-pricing-with-your-productshttpwwwmindtheproductcom201610using-behavioural-economics-dynamic-pricing-products-mind-the-product&quot;&gt;&lt;a href=&quot;http://www.mindtheproduct.com/2016/10/using-behavioural-economics-dynamic-pricing-products/&quot;&gt;Using Behavioural Economics and Dynamic Pricing With Your Products&lt;/a&gt; (Mind the Product)&lt;/h2&gt;
+
+&lt;p&gt;I often find myself falling for at least a couple of these pricing strategies; scarcity and value relativity come to mind. Watch the video and learn more about behavioural economics and how it can be used to influence customer buying behaviours. &lt;a href=&quot;http://www.mindtheproduct.com/2016/10/using-behavioural-economics-dynamic-pricing-products/&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-22-most-innovative-web-platforms-of-2016httpswwwfastcodesigncom3064301innovation-by-designthe-22-most-innovative-web-platforms-of-2016-fast-company-design&quot;&gt;&lt;a href=&quot;https://www.fastcodesign.com/3064301/innovation-by-design/the-22-most-innovative-web-platforms-of-2016&quot;&gt;The 22 Most Innovative Web Platforms Of 2016&lt;/a&gt; (Fast Company Design)&lt;/h2&gt;
+
+&lt;p&gt;Who doesn’t love a list of top &lt;em&gt;anything&lt;/em&gt;. This list takes us through some really great web platforms and applications, some I recognize but a few were new to me. My favourites: Avametric, SAP Build and Watson News Explorer. Check out the others.&lt;/p&gt;
+
+&lt;h2 id=&quot;research-why-68-of-users-abandon-their-carthttpbaymardcomblogecommerce-checkout-usability-report-and-benchmark-baymard-institute&quot;&gt;&lt;a href=&quot;http://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark&quot;&gt;Research: Why 68% of Users Abandon Their Cart&lt;/a&gt; (Baymard Institute)&lt;/h2&gt;
+
+&lt;p&gt;Retailers are always looking for ways to lower cart abandonment. Most would assume (incorrectly) that to do this requires a lot of development and redesign. According to the research, we can increase conversions by doing smaller page layout changes to make the process of buying simpler for the customer.&lt;/p&gt;
+
+&lt;p&gt;Bonus link: &lt;a href=&quot;http://baymard.com/checkout-usability/benchmark/step-type&quot;&gt;Checkout Step Types&lt;/a&gt; - navigate 50 ecommerce sites checkout processes to see what they get right and what they get wrong.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Sitecore Commerce 8.2 - What's New</title>
