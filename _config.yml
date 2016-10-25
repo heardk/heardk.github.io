@@ -26,6 +26,9 @@ gems:             [jekyll-paginate, github-pages, jekyll-archives, jekyll-seo-ta
 # jekyll-archive
 # https://github.com/jekyll/jekyll-archives/tree/master/docs
 
+# jekyll-seo-tag
+# https://github.com/jekyll/jekyll-seo-tag
+
 jekyll-archives:
   enabled:
     - categories
