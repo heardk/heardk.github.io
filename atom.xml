@@ -4,7 +4,7 @@
  <title>Kelly Heard</title>
  <link href="https://kellyheard.com/atom.xml" rel="self"/>
  <link href="https://kellyheard.com/"/>
- <updated>2016-11-10T14:39:13+00:00</updated>
+ <updated>2016-11-10T16:05:01+00:00</updated>
  <id>https://kellyheard.com</id>
  <author>
    <name>Kelly Heard</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Ecommerce Links - One</title>
-   <link href="https://kellyheard.com/blog/Ecommerce-Links-One"/>
+   <link href="https://kellyheard.com/blog/ecommerce-links-one"/>
    <updated>2016-10-25T00:00:00+00:00</updated>
-   <id>https://kellyheard.com/blog/Ecommerce-Links-One</id>
+   <id>https://kellyheard.com/blog/ecommerce-links-one</id>
    <content type="html">&lt;p&gt;Here are some recent articles and blog posts on all things ecommerce and retail. You’ll notice I named it “one”. I’m hoping to follow that up with a “two” and “three” and so on. Enjoy.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-science-of-smell-how-retailers-can-use-scent-marketing-to-influence-shoppershttpcompany-retailmyshopifycomblogsblogthe-science-of-smell-how-retailers-can-use-scent-marketing-to-make-more-sales-shopify&quot;&gt;&lt;a href=&quot;http://company-retail.myshopify.com/blogs/blog/the-science-of-smell-how-retailers-can-use-scent-marketing-to-make-more-sales&quot;&gt;The Science of Smell: How Retailers Can Use Scent Marketing to Influence Shoppers&lt;/a&gt; (Shopify)&lt;/h2&gt;
@@ -46,9 +46,9 @@
  
  <entry>
    <title>Sitecore Commerce 8.2 - What's New</title>
-   <link href="https://kellyheard.com/blog/Sitecore-Commerce-82"/>
+   <link href="https://kellyheard.com/blog/new-sitecore-commerce-82"/>
    <updated>2016-09-23T00:00:00+00:00</updated>
-   <id>https://kellyheard.com/blog/Sitecore-Commerce-82</id>
+   <id>https://kellyheard.com/blog/new-sitecore-commerce-82</id>
    <content type="html">&lt;p&gt;The release of Sitecore Commerce 8.2 marked another milestone in the continued development and improvement of our Commerce product. While there are great things planned for 8.3 and beyond, there are some significant improvements and new features that we can take advantage of now.&lt;/p&gt;
 
 &lt;p&gt;The full release notes are &lt;a href=&quot;http://commercesdn.sitecore.net/SCpbCS82/releasenotes/en-us/index.html&quot;&gt;here&lt;/a&gt;, but let me walk you through some of what I think are the most exciting.&lt;/p&gt;
@@ -97,9 +97,9 @@
  
  <entry>
    <title>Sitecore Commerce Demo Source</title>
-   <link href="https://kellyheard.com/blog/Sitecore-Commerce-Demo"/>
+   <link href="https://kellyheard.com/blog/commerce-demo-source"/>
    <updated>2015-10-10T00:00:00+00:00</updated>
-   <id>https://kellyheard.com/blog/Sitecore-Commerce-Demo</id>
+   <id>https://kellyheard.com/blog/commerce-demo-source</id>
    <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx&quot;&gt;wrote about&lt;/a&gt; the release of the source code for our Sitecore Commerce Demo. Check it out for more details.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -108,9 +108,9 @@
  
  <entry>
    <title>Custom Product Relationships in Sitecore Commerce</title>
-   <link href="https://kellyheard.com/blog/Custom-Product-Relationships"/>
+   <link href="https://kellyheard.com/blog/custom-product-relationships"/>
    <updated>2015-08-19T00:00:00+00:00</updated>
-   <id>https://kellyheard.com/blog/Custom-Product-Relationships</id>
+   <id>https://kellyheard.com/blog/custom-product-relationships</id>
    <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/08/custom-product-relationships-in-sitecore-commerce.aspx&quot;&gt;wrote about&lt;/a&gt; creating custom product relationships to improve merchandiser experience.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/08/custom-product-relationships-in-sitecore-commerce.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -119,9 +119,9 @@
  
  <entry>
    <title>Custom Product Attributes in the External Setttings Field</title>
-   <link href="https://kellyheard.com/blog/Custom-Product-Attributes"/>
+   <link href="https://kellyheard.com/blog/custom-product-attributes"/>
    <updated>2015-08-18T00:00:00+00:00</updated>
-   <id>https://kellyheard.com/blog/Custom-Product-Attributes</id>
+   <id>https://kellyheard.com/blog/custom-product-attributes</id>
    <content type="html">&lt;p&gt;On my Sitecore blog, The Commerce Experience, I &lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;wrote about&lt;/a&gt; customizing product schemas with Sitecore Commerce pb Commerce Server.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/02/custom-product-attributes-and-the-externalsettings-field.aspx&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
@@ -130,9 +130,9 @@
  
  <entry>
    <title>Last Minute Trip to SFO</title>
-   <link href="https://kellyheard.com/blog/Last-Minute-Trip-SFO"/>
+   <link href="https://kellyheard.com/blog/last-minute-trip-sfo"/>
    <updated>2015-07-05T00:00:00+00:00</updated>
-   <id>https://kellyheard.com/blog/Last-Minute-Trip-SFO</id>
+   <id>https://kellyheard.com/blog/last-minute-trip-sfo</id>
    <content type="html">&lt;p&gt;I took a recent trip to San Francisco, following my wife as she was attending a conference. I’ve been there before, but took the time to get out and take some pictures of landmarks I hadn’t had time to photograph last time. Photographs of the Golden Gate bridge are not new, but I wanted one of my own.&lt;/p&gt;
 
 &lt;p&gt;I spent a good part of one day at Baker Beach trying to get the shot you see here. And as you can also see, the weather wasn’t exactly the greatest, but still turned out to be a half-way decent shot.&lt;/p&gt;
