@@ -1,4 +1,0 @@
-{% for cat in include.content.categories %}
-    {% capture category %}{{ cat | slugify }}{% endcapture %}
-    <a href='{{ "/blog/category/" | append: category | relative_url }}'>{{ category }}</a>
-{% endfor %}
