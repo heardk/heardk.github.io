@@ -32,6 +32,9 @@ gems:             [jekyll, jekyll-paginate, jekyll-archives, jekyll-seo-tag, pin
 # Pinboard Gem
 # http://www.rubydoc.info/gems/pinboard/1.0.0
 
+# Rake Jekyll
+# https://github.com/jirutka/rake-jekyll
+
 jekyll-archives:
   enabled:
     - categories
