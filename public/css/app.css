@@ -30,14 +30,24 @@
 }
 
 .pin-title { 
-    font-size:85%;
+    font-size: large;
     text-decoration:none;
 }
 .pin-description { 
-    font-size:75%;
+    font-size: medium;
     color:#555;
 }
 .pin-tag { 
     display: none; 
+}
+.tools {
+    font-size:medium;
+    padding-top: 10px;
+}
+.tools a {
+    font-size:large;
+}
+.toolitem p {
+    margin-bottom: 15px;
 }
 
