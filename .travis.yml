@@ -1,9 +1,7 @@
 language: ruby
 sudo: false
 rvm: 2.2.0
-before_script:
-- chmod +x ./script/cibuild
-script: "./script/cibuild"
+script: bundle exec rake deploy
 branches:
   only:
   - source

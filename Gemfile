@@ -7,4 +7,6 @@ group :jekyll_plugins do
    gem 'jekyll-seo-tag'
    gem 'pinboard'
    gem 'markaby'
+   gem 'rake'
+   gem 'rake-jekyll'
  end
