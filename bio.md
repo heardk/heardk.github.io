@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-* Over 16 years of experience in consulting, development and solution architecture
+* 16 years of experience in consulting, development and solution architecture
 * Primary focus is on ecommerce, enterprise and web content management
 * Specific technologies include the Sitecore Experience Platform, Sitecore Commerce (previously Commerce Server) and SharePoint
 * Solid mix of business and technical experience and a passion for technology

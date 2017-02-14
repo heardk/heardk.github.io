@@ -3,6 +3,6 @@ layout: page
 title: Ecommerce News
 ---
 
-News from the fast-paced world of ecommerce, retail and technology.
+Interesting articles from the fast-paced world of ecommerce, retail and technology - curated by me!
 
 <script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=klyhrd&count=40&tag=commerce"></script>

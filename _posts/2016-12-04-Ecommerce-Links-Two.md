@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ecommerce Links - Two
+title: Ecommerce Trends - No. 2
 slug: ecommerce-links-two
-categories: [Ecommerce, Links]
-description: 'A series of interesting links on ecommerce, ecommerce technology and retail'
+categories: [Ecommerce, Links, Trends]
+description: 'A series of interesting articles on ecommerce, ecommerce technology and retail'
 ---
 
 The second series of ecommerce links discusses interactive email, products-as-a-service and a few posts on user experience. 

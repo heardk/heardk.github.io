@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ecommerce Links - One
+title: Ecommerce Trends - No. 1
 slug: ecommerce-links-one
-categories: [Ecommerce, Links]
-description: 'A series of interesting links on ecommerce and ecommerce technology'
+categories: [Ecommerce, Links, Trends]
+description: 'A series of interesting articles on ecommerce, ecommerce technology and retail'
 ---
 
 Here are some recent articles and blog posts on all things ecommerce and retail. You'll notice I named it "one". I'm hoping to follow that up with a "two" and "three" and so on. Enjoy.
