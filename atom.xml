@@ -4,7 +4,7 @@
  <title>Kelly Heard</title>
  <link href="https://kellyheard.com/atom.xml" rel="self"/>
  <link href="https://kellyheard.com/"/>
- <updated>2017-01-20T15:31:03+00:00</updated>
+ <updated>2017-02-14T02:20:37+00:00</updated>
  <id>https://kellyheard.com</id>
  <author>
    <name>Kelly Heard</name>
@@ -13,7 +13,31 @@
 
  
  <entry>
-   <title>Ecommerce Links - Two</title>
+   <title>Ecommerce Trends - No. 3</title>
+   <link href="https://kellyheard.com/blog/ecommerce-trends-three"/>
+   <updated>2017-01-31T00:00:00+00:00</updated>
+   <id>https://kellyheard.com/blog/ecommerce-trends-three</id>
+   <content type="html">&lt;p&gt;The state of mobile web isn’t what it should be and I like that others are pointing out this lack of usability. There are two such articles below, essentially warning us that we need to focus more on making these experiences better for customers. After all, the number of people using mobile browsers is only going to increase.&lt;/p&gt;
+
+&lt;h2 id=&quot;auto-detect-city-and-state-inputs-based-on-the-users-postal-codehttpsbaymardcomblogzip-code-auto-detection-baymard-institute&quot;&gt;&lt;a href=&quot;https://baymard.com/blog/zip-code-auto-detection&quot;&gt;Auto-Detect ‘City’ and ‘State’ Inputs Based on the User’s Postal Code&lt;/a&gt; (Baymard Institute)&lt;/h2&gt;
+&lt;p&gt;There are still many sites that could vastly improve their mobile experience. One such example, is reducing the complexity of the checkout process. According to &lt;a href=&quot;https://baymard.com/blog/checkout-flow-average-form-fields&quot;&gt;research&lt;/a&gt;, there are twice as many form fields as necessary. One suggestion in this article that I really like is to auto-fill the state and province fields based on the zip or postal code entered by the user. Even with the fields out of their traditional order (zip code first) users found that to be a great way to save time and reduce the complexity of the checkout.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-overcome-shopper-hesitations-to-buying-gifts-onlinehttpswwwinternetretailercomcommentary20161202how-overcome-shopper-hesitations-buying-gifts-online-internet-retailer&quot;&gt;&lt;a href=&quot;https://www.internetretailer.com/commentary/2016/12/02/how-overcome-shopper-hesitations-buying-gifts-online&quot;&gt;How to overcome shopper hesitations to buying gifts online&lt;/a&gt; (Internet Retailer)&lt;/h2&gt;
+&lt;p&gt;Ready for another new technology term? Gift Commerce or G-Commerce is used to describe the process of buying a product as a gift for someone else. Gift card sales are very strong, but some just don’t like the impersonal nature of buying someone a gift card. The article is about offering new features (and products) that cater to the gift buyer, like a gift guide, gift suggestions and gift wrapping. But it’s hard to buy a gift for someone when you need to know a size, favourite colour or even the correct shipping address in some cases. The answer? Get them to pick for themselves.&lt;/p&gt;
+
+&lt;h2 id=&quot;takeaways-from-nrfs-big-show-2017httpwwwretaildivecomnews4-takeaways-from-nrfs-big-show-2017434218-retail-dive&quot;&gt;&lt;a href=&quot;http://www.retaildive.com/news/4-takeaways-from-nrfs-big-show-2017/434218/&quot;&gt;4 takeaways from NRF’s Big Show 2017&lt;/a&gt; (Retail Dive)&lt;/h2&gt;
+&lt;p&gt;Other than 3 full days of standing, having interesting conversations with customers and booth swag, there were some interesting takeaways from the show. Retail Dive highlights these, but definitely two that top my list are more effort around omnichannel scenarios and thinking more like a digital native.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-mobile-website-suckshttpblogsforrestercomtedschadler17-01-22-yourmobilewebsitesucks-forrester&quot;&gt;&lt;a href=&quot;http://blogs.forrester.com/ted_schadler/17-01-22-your_mobile_website_sucks&quot;&gt;Your Mobile Website Sucks&lt;/a&gt; (Forrester)&lt;/h2&gt;
+&lt;p&gt;This a great part 2 to the first in the series, &lt;a href=&quot;http://blogs.forrester.com/ted_schadler/16-10-05-drunk_history_of_your_mobile_strategy&quot;&gt;A Drunk History of your Mobile Strategy&lt;/a&gt;. Of course, you have to access the research to really dig into the details, but these posts are a good start. A mobile strategy is not simply making your desktop site responsive, but addressing what exactly a customer is looking for when they browse your site from a phone or tablet. By 2019, 59% of web traffic will be mobile so it’s time to take a different approach to mobile.&lt;/p&gt;
+
+&lt;h2 id=&quot;successful-e-commerce-companies-that-made-it-big-with-content-marketinghttpwwwinccomsujan-patel7-successful-e-commerce-companies-that-made-it-big-with-content-marketinghtml-inc&quot;&gt;&lt;a href=&quot;http://www.inc.com/sujan-patel/7-successful-e-commerce-companies-that-made-it-big-with-content-marketing.html&quot;&gt;7 Successful E-Commerce Companies That Made It Big With Content Marketing&lt;/a&gt; (Inc.)&lt;/h2&gt;
+&lt;p&gt;Content marketing on your e-commerce site can drive addtional revenue, increase brand loyalty and also promote brand awareness. A couple of brands in this article have some great ideas on how to accomplish this. My favourite is Beardbrand, fostering a community of users around the idea of &lt;em&gt;urban beardsmen&lt;/em&gt;!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ecommerce Trends - No. 2</title>
    <link href="https://kellyheard.com/blog/ecommerce-links-two"/>
    <updated>2016-12-04T00:00:00+00:00</updated>
    <id>https://kellyheard.com/blog/ecommerce-links-two</id>
@@ -42,7 +66,7 @@
  </entry>
  
  <entry>
-   <title>Ecommerce Links - One</title>
+   <title>Ecommerce Trends - No. 1</title>
    <link href="https://kellyheard.com/blog/ecommerce-links-one"/>
    <updated>2016-10-25T00:00:00+00:00</updated>
    <id>https://kellyheard.com/blog/ecommerce-links-one</id>
