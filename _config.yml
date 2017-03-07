@@ -9,8 +9,8 @@ permalink:        /blog/:title
 title:            'Kelly Heard'
 tagline:          ''
 description:      'Blog - Ecommerce, Technology, Photography & Life'
-url:              https://kellyheard.com
-baseurl:          /
+url:              'https://kellyheard.com/'
+baseurl:          '/'
 author:
   name:           'Kelly Heard'
   twitter:        'kellyheard'
