@@ -26,7 +26,7 @@ gems:             [jekyll, jekyll-paginate, jekyll-archives, jekyll-seo-tag, pin
 collections:
   notes:
     output: true
-    permalink: /notes/:title
+    permalink: /:collection/:title
 
 jekyll-archives:
   enabled:
