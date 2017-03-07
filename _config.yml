@@ -23,17 +23,10 @@ github:
 exclude:          [example-content.md, Gemfile, Gemfile.lock, README.Hyde.md, Rakefile, .travis.yml, vendor]
 gems:             [jekyll, jekyll-paginate, jekyll-archives, jekyll-seo-tag, pinboard, markaby]
 
-# jekyll-archive
-# https://github.com/jekyll/jekyll-archives/tree/master/docs
-
-# jekyll-seo-tag
-# https://github.com/jekyll/jekyll-seo-tag
-
-# Pinboard Gem
-# http://www.rubydoc.info/gems/pinboard/1.0.0
-
-# Rake Jekyll
-# https://github.com/jirutka/rake-jekyll
+collections:
+  notes:
+    output: true
+    permalink: /notes/:title
 
 jekyll-archives:
   enabled:
