@@ -11,6 +11,9 @@ Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using
 - [Pinboard Gem](http://www.rubydoc.info/gems/pinboard/1.0.0)
 - [Rake Jekyll](https://github.com/jirutka/rake-jekyll)
 - [Jekyll Collections](https://jekyllrb.com/docs/collections/)
+- [Fleakr (flickr plugin)](https://github.com/reagent/fleakr)
+- [Flickr plugin for Jekyll](http://jonas.brusman.se/2012/04/15/flickr-plugin-for-jekyll/)
+- [Flickr embed](https://github.com/lawmurray/indii-jekyll-flickr)
 
 ## License
 

@@ -9,4 +9,5 @@ group :jekyll_plugins do
    gem 'markaby'
    gem 'rake'
    gem 'rake-jekyll'
+   gem 'fleakr'
  end
