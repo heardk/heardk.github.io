@@ -30,23 +30,23 @@
   ga('send', 'pageview');
 </script>
   <!-- Begin Jekyll SEO tag v2.0.0 -->
-<title>Sitecore Commerce Demo Source - Kelly Heard</title>
-<meta property="og:title" content="Sitecore Commerce Demo Source" />
-<meta name="description" content="A blog about the latest demo source" />
-<meta property="og:description" content="A blog about the latest demo source" />
-<link rel="canonical" href="https://kellyheard.com///blog/commerce-demo-source" />
-<meta property="og:url" content="https://kellyheard.com///blog/commerce-demo-source" />
+<title>Every Song Considered - Kelly Heard</title>
+<meta property="og:title" content="Every Song Considered" />
+<meta name="description" content="Bringing song lists from All Songs Considered together with Spotify previews" />
+<meta property="og:description" content="Bringing song lists from All Songs Considered together with Spotify previews" />
+<link rel="canonical" href="https://kellyheard.com///blog/every-song-considered" />
+<meta property="og:url" content="https://kellyheard.com///blog/every-song-considered" />
 <meta property="og:site_name" content="Kelly Heard" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2015-10-10T00:00:00+00:00" />
+<meta property="article:published_time" content="2017-03-15T00:00:00+00:00" />
 <script type="application/ld+json">
   {
     "@context": "http://schema.org",
     "@type": "BlogPosting",
-    "headline": "Sitecore Commerce Demo Source",
-    "datePublished": "2015-10-10T00:00:00+00:00",
-    "description": "A blog about the latest demo source",
-    "url": "https://kellyheard.com///blog/commerce-demo-source"
+    "headline": "Every Song Considered",
+    "datePublished": "2017-03-15T00:00:00+00:00",
+    "description": "Bringing song lists from All Songs Considered together with Spotify previews",
+    "url": "https://kellyheard.com///blog/every-song-considered"
   }
 </script>
 <!-- End Jekyll SEO tag -->
@@ -124,17 +124,42 @@
 
     <div class="content container">
       <div class="post">
-  <h1 class="post-title">Sitecore Commerce Demo Source</h1>
-  <span class="post-date">10 Oct 2015 | Posted in 
+  <h1 class="post-title">Every Song Considered</h1>
+  <span class="post-date">15 Mar 2017 | Posted in 
     
-    <a href='/blog/category/ecommerce'>ecommerce</a>
+    <a href='/blog/category/side-hustle'>side-hustle</a>
 
     
-    <a href='/blog/category/sitecore-commerce'>sitecore-commerce</a>
+    <a href='/blog/category/code'>code</a>
 </span>
-  <p>On my Sitecore blog, The Commerce Experience, I <a href="http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx">wrote about</a> the release of the source code for our Sitecore Commerce Demo. Check it out for more details.</p>
+  <p>I finally released a little side project. I’ve started so many but just never finished any of them. Either I lost interest, or something changed along the way that made me rethink the idea altogether.</p>
 
-<p><a href="http://www.sitecore.net/learn/blogs/technical-blogs/kelly-heard/posts/2015/10/commerce-demo-for-partners.aspx">Link</a></p>
+<blockquote>
+  <p>TLDR - I released a small side project called Every Song Considered. Listen to 30-second previews of songs from All Songs Considered. Visit here: <a href="http://everysong.rocks/">http://everysong.rocks/</a></p>
+</blockquote>
+
+<h3 id="npr">NPR</h3>
+
+<p><a href="http://www.npr.org/sections/allsongs/">All Songs Considered</a> is a fantastic podcast by the good folks at NPR. I’m a big fan of Bob and Robin and the music they (and others) share on the show. It introduces me to a lot of the music I end up listening to. The show’s blog posts on the NPR site don’t always include music, so I wanted a way to bring all the shows together that contained song lists and provide a consistent way to listen to them.</p>
+
+<p>With the help of the <a href="http://www.npr.org/api/index">NPR API</a> I was able to easily get a list of the shows and the attributes that go along with each. Apart from having to deal with inconsistencies in the data, a complete list of <em>All Songs</em> shows containing song lists was relatively straightforward to get. The next step was to display the list of songs, with artist and album information and a small image of the album cover. Previewing the song was tricky as this data wasn’t always avaialble.</p>
+
+<h3 id="spotify-to-the-rescue">Spotify to the rescue</h3>
+
+<p>With their extensive set of <a href="https://developer.spotify.com/web-api/">APIs</a>, I was able to get the song preview I was looking for. It would have been great to play the entire song, but for now the preview would do. There was a problem though. There was no common unique identifier between what I was getting from NPR and what I needed to get accurate data from Spotify.</p>
+
+<p>The UPC was my first try, but for some reason, they both use different UPCs to identify albums. I had to resort to searching against the Spotify API with artist, album and song information. In most cases, this method returns accurate results but there are edge cases where it might not. I haven’t seen this behaviour yet.</p>
+
+<h3 id="the-resulting-mvp">The Resulting MVP</h3>
+
+<p><img src="/public/images/2017-03-21_1617.png" alt="" /></p>
+
+<p>It’s certainly not going to win any design awards, but does what it’s supposed to.</p>
+
+<h3 id="whats-next">What’s Next</h3>
+
+<p>I am in the process of building some new functionality that will allow you to create Spotify playlists based on selected songs.</p>
+
 
 </div>
 
@@ -153,18 +178,18 @@
     
       <li>
         <h3>
-          <a href="/blog/every-song-considered">
-            Every Song Considered
-            <small>15 Mar 2017</small>
+          <a href="/blog/ecommerce-trends-three">
+            Ecommerce Trends - No. 3
+            <small>31 Jan 2017</small>
           </a>
         </h3>
       </li>
     
       <li>
         <h3>
-          <a href="/blog/ecommerce-trends-three">
-            Ecommerce Trends - No. 3
-            <small>31 Jan 2017</small>
+          <a href="/blog/ecommerce-links-two">
+            Ecommerce Trends - No. 2
+            <small>04 Dec 2016</small>
           </a>
         </h3>
       </li>
