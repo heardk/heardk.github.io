@@ -8,7 +8,7 @@ description: 'Bringing song lists from All Songs Considered together with Spotif
 
 I finally released a little side project. I've started so many but just never finished any of them. Either I lost interest, or something changed along the way that made me rethink the idea altogether.
 
-> TLDR - I released a small side project called Every Song Considered. Listen to 30-second previews of songs from All Songs Considered. Visit here: [http://everysong.rocks/](http://everysong.rocks/)
+{% tldr I released a small side project called Every Song Considered. Listen to 30-second previews of songs from All Songs Considered. Visit here: [http://everysong.rocks/](http://everysong.rocks/) %}
 
 ### NPR
 

@@ -14,6 +14,8 @@ Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using
 - [Fleakr (flickr plugin)](https://github.com/reagent/fleakr)
 - [Flickr plugin for Jekyll](http://jonas.brusman.se/2012/04/15/flickr-plugin-for-jekyll/)
 - [Flickr embed](https://github.com/lawmurray/indii-jekyll-flickr)
+- [Custom Jekyll Tags](https://blog.sverrirs.com/2016/04/custom-jekyll-tags.html)
+- [Markdown Content Processed in Plugin (SO)](http://stackoverflow.com/questions/19169849/how-to-get-markdown-processed-content-in-jekyll-tag-plugin)
 
 ## License
 

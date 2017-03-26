@@ -8,7 +8,7 @@ description: 'A simple plugin sample for Sitecore Commerce 8.2.1'
 
 The latest version of Sitecore Commerce was released back in January, with version 8.2.1. An update to that release is expected soon, but I thought I'd discuss some of the new capability around the plugin architecture. 
 
-> TLDR - I made a simple plugin for Sitecore Commerce 8.2.1. The source code is available on [Github](https://github.com/heardk/commerce-plugins/tree/master/Commerce.Plugin.Shared.Cart).
+{% tldr I made a simple plugin for Sitecore Commerce 8.2.1. The source code is available on [Github](https://github.com/heardk/commerce-plugins/tree/master/Commerce.Plugin.Shared.Cart) %}
 
 We wanted to make the process of adding your own custom business logic as easy as possible. Obviously, this is something that a developer is often required to do in an implementation. No solution is perfect out of the box.
 
