@@ -4,7 +4,7 @@
  <title>Kelly Heard</title>
  <link href="https://kellyheard.com//atom.xml" rel="self"/>
  <link href="https://kellyheard.com//"/>
- <updated>2017-03-26T15:28:04+00:00</updated>
+ <updated>2017-03-28T19:39:29+00:00</updated>
  <id>https://kellyheard.com/</id>
  <author>
    <name>Kelly Heard</name>
@@ -17,13 +17,13 @@
    <link href="https://kellyheard.com//blog/sitecore-commerce-plugin-sample"/>
    <updated>2017-03-21T00:00:00+00:00</updated>
    <id>https://kellyheard.com//blog/sitecore-commerce-plugin-sample</id>
-   <content type="html">&lt;p&gt;The latest version of Sitecore Commerce was released back in January, with version 8.2.1. An update to that release is expected soon, but I thought I’d discuss some of the new capability around the plugin architecture.&lt;/p&gt;
-
-&lt;div class=&quot;tldr&quot;&gt;
+   <content type="html">&lt;div class=&quot;tldr&quot;&gt;
             &lt;div class=&quot;tldrTitle&quot;&gt;tldr&lt;/div&gt;
             &lt;p&gt;I made a simple plugin for Sitecore Commerce 8.2.1. The source code is available on &lt;a href=&quot;https://github.com/heardk/commerce-plugins/tree/master/Commerce.Plugin.Shared.Cart&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 
             &lt;/div&gt;
+
+&lt;p&gt;The latest version of Sitecore Commerce was released back in January, with version 8.2.1. An update to that release is expected soon, but I thought I’d discuss some of the new capability around the plugin architecture.&lt;/p&gt;
 
 &lt;p&gt;We wanted to make the process of adding your own custom business logic as easy as possible. Obviously, this is something that a developer is often required to do in an implementation. No solution is perfect out of the box.&lt;/p&gt;
 
@@ -37,24 +37,20 @@
 
 &lt;p&gt;When the product is added to the basket, I check the current context and add the current shop name to the new component:&lt;/p&gt;
 
-&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;//Get shopname from context
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c#&quot; data-lang=&quot;c#&quot;&gt;&lt;span class=&quot;c1&quot;&gt;//Get shopname from context
 &lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shopname&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CommerceContext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetObjects&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Shop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;FirstOrDefault&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;c1&quot;&gt;//Add component to CartlineComponent
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShopName&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shopname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShopName&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shopname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
 &lt;p&gt;Now I need to display this value in the Customer &amp;amp; Orders Manager when a CSR looks at the line item details&lt;/p&gt;
 
-&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HasComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;())&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c#&quot; data-lang=&quot;c#&quot;&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;HasComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;())&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
 &lt;span class=&quot;kt&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sharedCartLineComponent&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;();&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;//Add shop name property to the line item view
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lineEntityView&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ViewProperty&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;ShopName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DisplayName&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Store&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-    &lt;span class=&quot;n&quot;&gt;IsReadOnly&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RawValue&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShopName&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lineEntityView&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Add&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ViewProperty&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Name&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;ShopName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DisplayName&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Store&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IsReadOnly&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RawValue&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sharedCartLineComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ShopName&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Be sure to check out the full code example on &lt;a href=&quot;https://github.com/heardk/commerce-plugins/tree/master/Commerce.Plugin.Shared.Cart&quot;&gt;GitHub&lt;/a&gt;, specifically &lt;code class=&quot;highlighter-rouge&quot;&gt;ConfigureSitecore.cs&lt;/code&gt;. This is where your plugin functionality gets injected into the Commerce Engine.&lt;/p&gt;
 
@@ -69,13 +65,13 @@
    <link href="https://kellyheard.com//blog/every-song-considered"/>
    <updated>2017-03-15T00:00:00+00:00</updated>
    <id>https://kellyheard.com//blog/every-song-considered</id>
-   <content type="html">&lt;p&gt;I finally released a little side project. I’ve started so many but just never finished any of them. Either I lost interest, or something changed along the way that made me rethink the idea altogether.&lt;/p&gt;
-
-&lt;div class=&quot;tldr&quot;&gt;
+   <content type="html">&lt;div class=&quot;tldr&quot;&gt;
             &lt;div class=&quot;tldrTitle&quot;&gt;tldr&lt;/div&gt;
             &lt;p&gt;I released a small side project called Every Song Considered. Listen to 30-second previews of songs from All Songs Considered. Visit here: &lt;a href=&quot;http://everysong.rocks/&quot;&gt;http://everysong.rocks/&lt;/a&gt;&lt;/p&gt;
 
             &lt;/div&gt;
+
+&lt;p&gt;I finally released a little side project. I’ve started so many but just never finished any of them. Either I lost interest, or something changed along the way that made me rethink the idea altogether.&lt;/p&gt;
 
 &lt;h3 id=&quot;npr&quot;&gt;NPR&lt;/h3&gt;
 

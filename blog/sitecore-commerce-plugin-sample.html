@@ -135,13 +135,13 @@
     
     <a href='/blog/category/sitecore-commerce'>sitecore-commerce</a>
 </span>
-  <p>The latest version of Sitecore Commerce was released back in January, with version 8.2.1. An update to that release is expected soon, but I thought I’d discuss some of the new capability around the plugin architecture.</p>
-
-<div class="tldr">
+  <div class="tldr">
             <div class="tldrTitle">tldr</div>
             <p>I made a simple plugin for Sitecore Commerce 8.2.1. The source code is available on <a href="https://github.com/heardk/commerce-plugins/tree/master/Commerce.Plugin.Shared.Cart">Github</a></p>
 
             </div>
+
+<p>The latest version of Sitecore Commerce was released back in January, with version 8.2.1. An update to that release is expected soon, but I thought I’d discuss some of the new capability around the plugin architecture.</p>
 
 <p>We wanted to make the process of adding your own custom business logic as easy as possible. Obviously, this is something that a developer is often required to do in an implementation. No solution is perfect out of the box.</p>
 
@@ -155,24 +155,20 @@
 
 <p>When the product is added to the basket, I check the current context and add the current shop name to the new component:</p>
 
-<div class="language-c# highlighter-rouge"><pre class="highlight"><code><span class="c1">//Get shopname from context
+<figure class="highlight"><pre><code class="language-c#" data-lang="c#"><span class="c1">//Get shopname from context
 </span><span class="kt">var</span> <span class="n">shopname</span> <span class="p">=</span> <span class="n">context</span><span class="p">.</span><span class="n">CommerceContext</span><span class="p">.</span><span class="n">GetObjects</span><span class="p">&lt;</span><span class="n">Shop</span><span class="p">&gt;().</span><span class="nf">FirstOrDefault</span><span class="p">().</span><span class="n">Name</span><span class="p">;</span>
 
 <span class="c1">//Add component to CartlineComponent
-</span><span class="n">arg</span><span class="p">.</span><span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">SharedCartLineComponent</span><span class="p">&gt;().</span><span class="n">ShopName</span> <span class="p">=</span> <span class="n">shopname</span><span class="p">;</span>
-</code></pre>
-</div>
+</span><span class="n">arg</span><span class="p">.</span><span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">SharedCartLineComponent</span><span class="p">&gt;().</span><span class="n">ShopName</span> <span class="p">=</span> <span class="n">shopname</span><span class="p">;</span></code></pre></figure>
+
 <p>Now I need to display this value in the Customer &amp; Orders Manager when a CSR looks at the line item details</p>
 
-<div class="language-c# highlighter-rouge"><pre class="highlight"><code><span class="k">if</span> <span class="p">(</span><span class="n">line</span><span class="p">.</span><span class="n">HasComponent</span><span class="p">&lt;</span><span class="n">SharedCartLineComponent</span><span class="p">&gt;())</span>
+<figure class="highlight"><pre><code class="language-c#" data-lang="c#"><span class="k">if</span> <span class="p">(</span><span class="n">line</span><span class="p">.</span><span class="n">HasComponent</span><span class="p">&lt;</span><span class="n">SharedCartLineComponent</span><span class="p">&gt;())</span>
 <span class="p">{</span>
 <span class="kt">var</span> <span class="n">sharedCartLineComponent</span> <span class="p">=</span> <span class="n">line</span><span class="p">.</span><span class="n">GetComponent</span><span class="p">&lt;</span><span class="n">SharedCartLineComponent</span><span class="p">&gt;();</span>
 <span class="c1">//Add shop name property to the line item view
-</span><span class="n">lineEntityView</span><span class="p">.</span><span class="n">Properties</span><span class="p">.</span><span class="nf">Add</span><span class="p">(</span><span class="k">new</span> <span class="n">ViewProperty</span> <span class="p">{</span> <span class="n">Name</span> <span class="p">=</span> <span class="s">"ShopName"</span><span class="p">,</span> <span class="n">DisplayName</span> <span class="p">=</span> <span class="s">"Store"</span><span class="p">,</span> 
-    <span class="n">IsReadOnly</span> <span class="p">=</span> <span class="k">true</span><span class="p">,</span> <span class="n">RawValue</span> <span class="p">=</span> <span class="n">sharedCartLineComponent</span><span class="p">.</span><span class="n">ShopName</span> <span class="p">});</span>
-<span class="p">}</span>
-</code></pre>
-</div>
+</span><span class="n">lineEntityView</span><span class="p">.</span><span class="n">Properties</span><span class="p">.</span><span class="nf">Add</span><span class="p">(</span><span class="k">new</span> <span class="n">ViewProperty</span> <span class="p">{</span> <span class="n">Name</span> <span class="p">=</span> <span class="s">"ShopName"</span><span class="p">,</span> <span class="n">DisplayName</span> <span class="p">=</span> <span class="s">"Store"</span><span class="p">,</span> <span class="n">IsReadOnly</span> <span class="p">=</span> <span class="k">true</span><span class="p">,</span> <span class="n">RawValue</span> <span class="p">=</span> <span class="n">sharedCartLineComponent</span><span class="p">.</span><span class="n">ShopName</span> <span class="p">});</span>
+<span class="p">}</span></code></pre></figure>
 
 <p>Be sure to check out the full code example on <a href="https://github.com/heardk/commerce-plugins/tree/master/Commerce.Plugin.Shared.Cart">GitHub</a>, specifically <code class="highlighter-rouge">ConfigureSitecore.cs</code>. This is where your plugin functionality gets injected into the Commerce Engine.</p>
 
