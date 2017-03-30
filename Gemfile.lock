@@ -4,11 +4,8 @@ GEM
     builder (3.2.2)
     colorator (1.1.0)
     ffi (1.9.14)
-    fleakr (0.7.1)
-      hpricot (>= 0.6.164)
-      loggable (>= 0.2.0)
+    flickraw (0.9.9)
     forwardable-extended (2.6.0)
-    hpricot (0.8.6)
     httparty (0.11.0)
       multi_json (~> 1.0)
       multi_xml (>= 0.5.2)
@@ -36,7 +33,6 @@ GEM
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
-    loggable (0.3.0)
     markaby (0.8.0)
       builder
     mercenary (0.3.6)
@@ -60,7 +56,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  fleakr
+  flickraw
   jekyll
   jekyll-archives
   jekyll-paginate
