@@ -1,7 +1,7 @@
 require 'flickraw'
 
-FlickRaw.api_key        = "7cdb288aac85d749395d9fa9c69465e0"
-FlickRaw.shared_secret  = "85155c1fc7e2e356"
+FlickRaw.api_key        = ENV["FLICKR_API"]
+FlickRaw.shared_secret  = ENV["FLICKR_SECRET"]
 
 module Jekyll
   module FlickrFilter
