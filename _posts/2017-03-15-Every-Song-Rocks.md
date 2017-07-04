@@ -31,5 +31,9 @@ It's certainly not going to win any design awards, but does what it's supposed t
 
 ### What's Next
 
-I am in the process of building some new functionality that will allow you to create Spotify playlists based on selected songs. 
+I am in the process of building some new functionality that will allow you to create Spotify playlists based on selected songs.
+
+### Update: July 2017
+
+Given some changes to the Spotify API, I've taken the site down until I get a chance to make the necessary changes.
 
