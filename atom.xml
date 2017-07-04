@@ -4,7 +4,7 @@
  <title>Kelly Heard</title>
  <link href="https://kellyheard.com//atom.xml" rel="self"/>
  <link href="https://kellyheard.com//"/>
- <updated>2017-05-25T15:29:16+00:00</updated>
+ <updated>2017-07-04T16:54:32+00:00</updated>
  <id>https://kellyheard.com/</id>
  <author>
    <name>Kelly Heard</name>
@@ -94,6 +94,10 @@
 &lt;h3 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h3&gt;
 
 &lt;p&gt;I am in the process of building some new functionality that will allow you to create Spotify playlists based on selected songs.&lt;/p&gt;
+
+&lt;h3 id=&quot;update-july-2017&quot;&gt;Update: July 2017&lt;/h3&gt;
+
+&lt;p&gt;Given some changes to the Spotify API, I’ve taken the site down until I get a chance to make the necessary changes.&lt;/p&gt;
 
 </content>
  </entry>

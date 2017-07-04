@@ -73,3 +73,20 @@ img {
   margin: 0px;
 }
 
+.hide {
+    display: none;
+}
+
+input, textarea, button {
+    font-size: 1.0em;
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #ddd;
+    padding: 0.9em;
+    margin-bottom: 0.9em;
+    width: 75%;
+}
+
+button {
+    width: 70px;
+    display: block;
+}
