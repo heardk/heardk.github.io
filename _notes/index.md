@@ -3,7 +3,6 @@ layout: page
 title: Notes
 ---
 
-I'm trying to do better at retaining the information I take in while reading. A method I've heard about is active reading, by highlighting different passages or areas of the book that are interesting and not being afraid to mark up the book making notes. The different files contained here is my attempt at doing this..and sharing it with you.
 <br />
 <br />
 <table class="bio-table">

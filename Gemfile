@@ -10,4 +10,5 @@ group :jekyll_plugins do
    gem 'rake'
    gem 'rake-jekyll'
    gem 'flickraw'
+   gem 'airrecord'
  end

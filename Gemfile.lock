@@ -1,8 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    airrecord (0.2.2)
+      faraday (~> 0.10)
+      net-http-persistent (~> 2.9)
     builder (3.2.2)
     colorator (1.1.0)
+    faraday (0.13.1)
+      multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
     flickraw (0.9.9)
     forwardable-extended (2.6.0)
@@ -38,6 +43,8 @@ GEM
     mercenary (0.3.6)
     multi_json (1.12.1)
     multi_xml (0.5.5)
+    multipart-post (2.0.0)
+    net-http-persistent (2.9.4)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pinboard (1.0.0)
@@ -56,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  airrecord
   flickraw
   jekyll
   jekyll-archives
@@ -67,4 +75,4 @@ DEPENDENCIES
   rake-jekyll
 
 BUNDLED WITH
-   1.13.6
+   1.15.4
