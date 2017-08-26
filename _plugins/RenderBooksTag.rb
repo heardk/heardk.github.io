@@ -10,8 +10,9 @@ module Jekyll
     
         def render(context)
             booktext = ""
-            Books.all.each do |book|
-                booktext << "<div class='tldr'><div class='tldrTitle'>" + book[:name] + "</div>" + book[:author] + "</div>"
+            bookList = Books.all(sort: { "Date Finished": "asc"}).find_all {|book| book[:read] == true}
+            bookList.each do |book|
+                booktext << "<div class='book'><div class='bookTitle'>" + book[:name] + "</div>" + book[:author] + "<img src='" + book[:cover][0]["url"] + "'/></div>"
             end
             booktext
         end
