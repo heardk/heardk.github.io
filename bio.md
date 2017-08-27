@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-* 16 years of experience in consulting, development and solution architecture
+* 17 years of experience in consulting, development and solution architecture
 * Primary focus is on ecommerce, enterprise and web content management
 * Specific technologies include the Sitecore Experience Platform, Sitecore Commerce (previously Commerce Server) and SharePoint
 * Solid mix of business and technical experience and a passion for technology
@@ -13,7 +13,7 @@ title: Bio
 <table class="bio-table"><tr><th>Position</th><th>Company</th><th>Date</th>
 </tr>
 <tr>
-<td>Commerce Solution Architect</td>
+<td>Ecommerce Solution Architect</td>
 <td>Sitecore</td>
 <td>2014-Present</td>
 </tr>
@@ -43,14 +43,14 @@ title: Bio
 <td>2006-2007</td>
 </tr>
 <tr>
-<td>Consultant</td>
-<td>Progestic International</td>
-<td>2000-2003</td>
+<td>Software Developer</td>
+<td>Cactus Commerce</td>
+<td>2003-2006</td>
 </tr>
 <tr>
-<td>Consultant</td>
-<td>Hilton Consulting Group</td>
-<td>1999-2000</td>
+<td>Developer/Consultant</td>
+<td>Hilton Consulting, Progestic</td>
+<td>1999-2003</td>
 </tr>
 </table>
 
