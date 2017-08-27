@@ -3,7 +3,7 @@
 }
 
 .sidebar {
-    background-image: url('/public/images/bkgd.jpg');
+    background-image: url('/public/images/bkgd-dark.jpg');
     background-repeat: no-repeat;
     background-size: auto 100%;
 }
@@ -89,4 +89,25 @@ input, textarea, button {
 button {
     width: 70px;
     display: block;
+}
+
+.bookWrapper {
+    padding: 15px;
+    overflow: hidden;
+    background-color: #FBFBFB;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.bookTitle {
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.bookImg img {
+    height: 125px;
+    width: auto;
+    float: left;
+    padding-right: 20px;
 }
