@@ -1,2 +1,14 @@
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}public/js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}public/js/pgwmodal.min.js"></script>
+<script>
+    $(function() {
+        $(".btnNotes").click(function() {
+            $.pgwModal({
+                target: '#dialog' + this.dataset.bookId,
+                title: 'Notes -- ' + this.dataset.bookTitle,
+                maxWidth: 600
+            })
+        });
+      });
+</script>

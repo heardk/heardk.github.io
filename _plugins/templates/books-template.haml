@@ -1,0 +1,15 @@
+- bookList.each do |book|
+    %div.bookWrapper
+        %div.bookImg
+            %img{:src => book[:cover][0]["url"]}
+        %div.bookTitle
+            %a{:href => book[:link]} #{book[:name]}
+        %div.bookAuthor by #{book[:author]}
+        %div 
+            Read: #{book[:date_finished].strftime('%b. %Y')}
+            %br/
+            Pages: #{book[:page_count]}
+            %br/
+            %br/
+            %a.btnNotes{:data => {:book_id => book.id, :book_title => book[:name]}} Notes
+        %div{:id => "dialog" + book.id, :style => "display: none;"} I'm a dialog #{book.id}

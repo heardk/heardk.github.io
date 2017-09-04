@@ -17,6 +17,8 @@ Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using
 - [FancyBox Image Plugin](http://fancyapps.com/fancybox/3/) 
 - [Jekyll Cheatsheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
 - [Airrecord - client for Airtable](https://github.com/sirupsen/airrecord)
+- [HAML Reference](http://haml.info/docs/yardoc/file.REFERENCE.html)
+- [PgwModal](http://pgwjs.com/pgwmodal/)
 
 ## License
 

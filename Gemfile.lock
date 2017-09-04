@@ -11,6 +11,9 @@ GEM
     ffi (1.9.14)
     flickraw (0.9.9)
     forwardable-extended (2.6.0)
+    haml (5.0.2)
+      temple (>= 0.8.0)
+      tilt
     httparty (0.11.0)
       multi_json (~> 1.0)
       multi_xml (>= 0.5.2)
@@ -58,6 +61,8 @@ GEM
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    temple (0.8.0)
+    tilt (2.0.8)
 
 PLATFORMS
   ruby
@@ -65,6 +70,7 @@ PLATFORMS
 DEPENDENCIES
   airrecord
   flickraw
+  haml
   jekyll
   jekyll-archives
   jekyll-paginate
