@@ -4,7 +4,6 @@ GEM
     airrecord (0.2.2)
       faraday (~> 0.10)
       net-http-persistent (~> 2.9)
-    builder (3.2.2)
     colorator (1.1.0)
     faraday (0.13.1)
       multipart-post (>= 1.2, < 3)
@@ -41,8 +40,6 @@ GEM
     listen (3.0.6)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9.7)
-    markaby (0.8.0)
-      builder
     mercenary (0.3.6)
     multi_json (1.12.1)
     multi_xml (0.5.5)
@@ -75,7 +72,6 @@ DEPENDENCIES
   jekyll-archives
   jekyll-paginate
   jekyll-seo-tag
-  markaby
   pinboard
   rake
   rake-jekyll

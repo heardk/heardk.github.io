@@ -3,13 +3,23 @@
         %div.bookImg
             %img{:src => book[:cover][0]["url"]}
         %div.bookTitle
-            %a{:href => book[:link]} #{book[:name]}
-        %div.bookAuthor by #{book[:author]}
+            #{book[:name]}
+        %div.bookAuthor 
+            by #{book[:author]} 
+            %a{:href => book[:link]} (buy)
         %div 
-            Read: #{book[:date_finished].strftime('%b. %Y')}
+            Read #{book[:date_finished].strftime('%B %Y')}
             %br/
-            Pages: #{book[:page_count]}
+            #{book[:page_count]} pages
             %br/
             %br/
-            %a.btnNotes{:data => {:book_id => book.id, :book_title => book[:name]}} Notes
-        %div{:id => "dialog" + book.id, :style => "display: none;"} I'm a dialog #{book.id}
+            - if book.fields.include? "Notes"
+                - notes = notesList.find_all { |note| note[:book].first == book.id }
+                %a.btnNotes{:data => {:book_id => book.id, :book_title => book[:name]}} Notes
+                %div{:id => "dialog" + book.id, :style => "display: none;"}
+                    - notes.each do |note|
+                        %h3 #{note[:name]}
+                        %p 
+                            :markdown
+                                #{note[:note]}
+

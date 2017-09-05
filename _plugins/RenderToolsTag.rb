@@ -1,10 +1,11 @@
-require 'markaby'
+require 'haml'
 
 module Jekyll
     class PinboardTools < Liquid::Tag
         
         PINBOARD = Pinboard::Client.new(:token => ENV["PIN_TOKEN"])
-        OUTPUT = Markaby::Builder.new
+        template = File.read(File.dirname(__FILE__) + '/templates/tools-template.haml')
+        Haml_Output = Haml::Engine.new(template)
         
         def initialize(tag_name, text, tokens)
             super
@@ -13,15 +14,7 @@ module Jekyll
     
         def render(context)
             tools = PINBOARD.posts(:tag => 'tools', :results => 100)
-            OUTPUT.div.tools do
-                tools.each do |tool|
-                    OUTPUT.div.toolitem do
-                        a "#{tool.description}", :href =>  tool.href
-                        p "#{tool.extended}"
-                    end
-                end 
-            end
-            return OUTPUT.to_s
+            Haml_Output.render(Object.new, :tools => tools)
         end
     end
 end

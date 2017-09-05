@@ -98,12 +98,10 @@ button {
     border-radius: 3px;
     margin-bottom: 20px;
     line-height: 22px;
-    height: auto;
 }
 
 .bookTitle {
     font-size: larger;
-    margin-top: 10px;
 }
 
 .bookAuthor {
@@ -112,28 +110,23 @@ button {
 }
 
 .bookImg img {
-    height: 145px;
-    width: 100px;
+    height: 150px;
+    width: auto;
     float: left;
-    padding-right: 20px;
-    padding-bottom: 20px;
+    margin-right: 20px;
 }
 
 .btnNotes {
-    -webkit-border-radius: 5;
-    -moz-border-radius: 5;
-    border-radius: 5px;
-    color: #ffffff;
+    color: #5E5E5E;
     font-size: 14px;
     font-family: sans-serif;
-    background: #3498db;
+    background-color: #CBCBCB;
+    border: 1px solid #5E5E5E;
     padding: 5px 10px 5px 10px;
     text-decoration: none;
   }
   
   .btnNotes:hover {
-    background: #3cb0fd;
-    text-decoration: none;
-    color: #ffffff;
     cursor: pointer;
+    color: #ffffff;
   }
