@@ -15,6 +15,8 @@
   <link rel="stylesheet" href="/public/css/hyde.css">
   <link rel="stylesheet" href="/public/css/app.css">
   <link rel="stylesheet" href="/public/css/jquery.fancybox.min.css" type="text/css" />
+  <link rel="stylesheet" href="/public/css/pgwmodal.min.css" type="text/css" />
+  <!-- <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css"> -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans">
 
   <!-- RSS -->
@@ -115,7 +117,7 @@
       <a class="sidebar-nav-item" href="/bio">Bio</a>
       <a class="sidebar-nav-item" href="/contact">Contact</a>
       <a class="sidebar-nav-item" href="/news">Ecommerce News</a>
-      <a class="sidebar-nav-item" href="/tools">Tools &amp; Products</a>
+      <a class="sidebar-nav-item" href="/tools">Product List</a>
       <a class="sidebar-nav-item" href="/books">Book List</a>
       <!--<a class="sidebar-nav-item" href="/archive/v2.1.0.zip">Download</a>
       <a class="sidebar-nav-item" href="">GitHub project</a>
@@ -130,6 +132,14 @@
     <div class="content container">
       <h1>Posts tagged with "Code"</h1>
 <br />
+  
+    
+        <h3 class="post-title">
+          <a href="/blog/over-engineering-side-projects">
+            Link: Over-Engineering Side Projects
+          </a>
+        </h1>
+        <span class="post-date">03 Sep 2017</span>
   
     
         <h3 class="post-title">
@@ -149,7 +159,19 @@
   
     </div>
 
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="/public/js/jquery.fancybox.min.js"></script>
+<script type="text/javascript" src="/public/js/pgwmodal.min.js"></script>
+<script>
+    $(function() {
+        $(".btnNotes").click(function() {
+            $.pgwModal({
+                target: '#dialog' + this.dataset.bookId,
+                title: 'Notes -- ' + this.dataset.bookTitle,
+                maxWidth: 600
+            })
+        });
+      });
+</script>
   </body>
 </html>

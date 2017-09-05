@@ -92,22 +92,41 @@ button {
 }
 
 .bookWrapper {
-    padding: 15px;
+    padding: 10px;
     overflow: hidden;
     background-color: #FBFBFB;
-    border-radius: 4px;
+    border-radius: 3px;
     margin-bottom: 20px;
+    line-height: 22px;
 }
 
 .bookTitle {
     font-size: larger;
-    font-weight: bold;
-    margin-bottom: 10px;
+}
+
+.bookAuthor {
+    margin-bottom: 15px;
+    font-size: smaller;
 }
 
 .bookImg img {
-    height: 125px;
+    height: 150px;
     width: auto;
     float: left;
-    padding-right: 20px;
+    margin-right: 20px;
 }
+
+.btnNotes {
+    color: #5E5E5E;
+    font-size: 14px;
+    font-family: sans-serif;
+    background-color: #CBCBCB;
+    border: 1px solid #5E5E5E;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  
+  .btnNotes:hover {
+    cursor: pointer;
+    color: #ffffff;
+  }
