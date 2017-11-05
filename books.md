@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book List
+title: Books
 ---
 <br/>
 {% books %}

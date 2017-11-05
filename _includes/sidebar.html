@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title }}
+          {{ site.title | upcase }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -27,14 +27,15 @@
       {% endfor %}-->
       <a class="sidebar-nav-item" href="/bio">Bio</a>
       <a class="sidebar-nav-item" href="/contact">Contact</a>
+      <a class="sidebar-nav-item" href="/projects">Projects</a>
       <a class="sidebar-nav-item" href="/news">Ecommerce News</a>
-      <a class="sidebar-nav-item" href="/tools">Product List</a>
-      <a class="sidebar-nav-item" href="/books">Book List</a>
+      <a class="sidebar-nav-item" href="/tools">Products</a>
+      <a class="sidebar-nav-item" href="/books">Books</a>
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>-->
     </nav>
 
-    <p>&copy;{{ site.time | date: '%Y' }} kelly heard</p>
+    <p>&copy; {{ site.time | date: '%Y' }}</p>
   </div>
 </div>

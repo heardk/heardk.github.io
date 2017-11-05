@@ -1,0 +1,32 @@
+name: Personal Website
+status: Ongoing
+link: https://kellyheard.com
+source: https://github.com/heardk/heardk.github.io/tree/source
+description: A blog and personal website
+highlights:
+  - name: Uses Jekyll site generator and GitHub Pages for a free and fast static website
+  - name: Custom Jekyll plugins using Ruby for Tools, Books, and News
+  - name: Pinboard.in is used to easily bookmark news and tools from the web and rendered on the site using their API and a custom plugin
+  - name: Airtable provides the backend for the book list and notes, rendered using their API and a custom plugin
+  - name: TravisCI is used for automatically managing builds
+tools:
+  - name: Jekyll
+    link: https://jekyllrb.com/
+
+  - name: GitHub Pages
+    link: https://pages.github.com/
+
+  - name: Ruby
+    link: https://www.ruby-lang.org/en/
+  
+  - name: HAML templating
+    link: http://haml.info/
+
+  - name: Airtable
+    link: https://airtable.com/
+
+  - name: Pinboard
+    link: https://pinboard.in/
+
+  - name: Travis CI
+    link: https://travis-ci.org/

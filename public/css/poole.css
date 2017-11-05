@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Merriweather", serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -67,7 +67,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #2f5398;
   text-decoration: none;
 }
 a strong {
@@ -77,12 +77,12 @@ a strong {
 a:hover,
 a:focus {
   /*text-decoration: underline;*/
-  color: #6a9fb5;
+  color: #268bd2;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  /*font-family: "Open Sans", sans-serif;*/
+  font-family: 'Lato', sans-serif;
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
