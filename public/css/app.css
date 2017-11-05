@@ -8,10 +8,17 @@
     background-size: auto 100%;
 }
 
+.sidebar-nav-item {
+    line-height: 1.25;
+  }
+
+.sidebar-about h1 {
+    text-shadow: 3px 3px 3px #8d8d8d;
+    line-height: 40px;
+  }
+
 .sidebar-about .lead {
-    font-size: 1.3rem;
-    font-weight: 800;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .related-posts h3 {
@@ -57,7 +64,6 @@
 .tldr .tldrTitle {
     font-weight: bold;
     color: #999999;
-    font-family: sans-serif;
     font-size: larger;
 }
 
@@ -79,7 +85,6 @@ img {
 
 input, textarea, button {
     font-size: 1.0em;
-    font-family: 'Open Sans', sans-serif;
     border: 1px solid #ddd;
     padding: 0.9em;
     margin-bottom: 0.9em;
@@ -87,8 +92,13 @@ input, textarea, button {
 }
 
 button {
-    width: 70px;
+    width: 90px;
+    height: 50px;
     display: block;
+    color: white;
+    background-color: #2f5398;
+    border: none;
+    text-decoration: none;
 }
 
 .bookWrapper {
@@ -118,14 +128,22 @@ button {
 
 .btnNotes {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
     background-color: #2f5398;
     border: none;
-    padding: 5px 25px;
+    padding: 5px 20px;
     text-decoration: none;
+    font-size: 85%;
   }
   
   .btnNotes:hover {
     cursor: pointer;
     color: #fafafa;
+  }
+
+  .projectTitle {
+    margin-top: 40px;
+    padding: 7px;
+    background-color: #e6e6e6;
+    border-radius: 3px;
+    margin-bottom: 20px;
   }
