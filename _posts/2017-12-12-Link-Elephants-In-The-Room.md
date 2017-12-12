@@ -2,7 +2,7 @@
 layout: post
 title: 'Link: Elephants In The Room'
 slug: elephants-in-the-room
-categories: [Links]
+categories: [Links, product management]
 description: 'Do not keep doubts to yourself and stop avoiding conflict'
 ---
 
