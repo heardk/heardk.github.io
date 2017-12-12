@@ -3,7 +3,7 @@ layout: post
 title: 'Link: Elephants In The Room'
 slug: elephants-in-the-room
 categories: [Links]
-description: 'Don't keep doubts to yourself and stop avoiding conflict'
+description: Don't keep doubts to yourself and stop avoiding conflict
 ---
 
 This is something that a lot of us struggle with, me included. It's time to start embracing conflict and make better products. 
