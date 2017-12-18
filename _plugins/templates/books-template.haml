@@ -8,9 +8,9 @@
             by #{book[:author]} 
             %a{:href => book[:link]} (buy)
         %div 
-            Read #{book[:date_finished].strftime('%B %Y')}
+            Read - #{book[:date_finished].strftime('%B %Y')}
             %br/
-            #{book[:page_count]} pages
+            Rating - #{book[:personal_rating]}
             %br/
             %br/
             - if book.fields.include? "Notes"
