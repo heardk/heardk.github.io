@@ -12,13 +12,9 @@
     line-height: 1.25;
   }
 
-.sidebar-about h1 {
-    text-shadow: 3px 3px 3px #8d8d8d;
-    line-height: 40px;
-  }
-
 .sidebar-about .lead {
     font-family: 'Lato', sans-serif;
+    line-height: 25px;
 }
 
 .related-posts h3 {
@@ -108,7 +104,6 @@ button {
 .bookWrapper {
     padding: 10px;
     overflow: hidden;
-    border-radius: 3px;
     margin-bottom: 20px;
     line-height: 22px;
 }
