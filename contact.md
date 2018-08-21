@@ -7,10 +7,9 @@ title: Contact
 
 - [Twitter](https://twitter.com/kellyheard)
 - [Instagram](https://www.instagram.com/mrkellyheard/)
-- [Flickr](https://www.flickr.com/photos/greensuitcase)
 - [LinkedIn](https://ca.linkedin.com/in/kellyheard)
 
-## Send a direct message
+## Message me!
 
 <form action="https://formspree.io/me@heard.email" method="POST">
     <input name="_replyto" placeholder="Your email" type="email">

@@ -8,11 +8,6 @@
             by #{book[:author]} 
             %a{:href => book[:link]} (buy)
         %div 
-            Read - #{book[:date_finished].strftime('%B %Y')}
-            %br/
-            Rating - #{book[:personal_rating]}
-            %br/
-            %br/
             - if book.fields.include? "Notes"
                 - notes = notesList.find_all { |note| note[:book].first == book.id }
                 %a.btnNotes{:data => {:book_id => book.id, :book_title => book[:name]}} Notes

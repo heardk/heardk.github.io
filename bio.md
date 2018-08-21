@@ -2,11 +2,14 @@
 layout: page
 title: Bio
 ---
+<br/>
 
-* 17 years of experience in consulting, development and solution architecture
-* Primary focus is on ecommerce, enterprise and web content management
-* Specific technologies include the Sitecore Experience Platform, Sitecore Commerce (previously Commerce Server) and SharePoint
-* Solid mix of business and technical experience and a passion for technology
+I'm a **product manager** for an **ecommerce** product and long time technologist in various development and solution architecture roles. I have a **passion** for all things **retail and technology** and I love to express creativity through photography.
+
+- 17 years of experience **helping customers** find solutions to business problems, in the form of **product management**, consulting, development, and solution architecture
+- Primary focus is on **ecommerce**, enterprise and web content management
+- Specific technologies include the Sitecore Experience Platform, Sitecore Commerce (previously Commerce Server) and SharePoint
+- Solid mix of business and technical experience and a **passion for technology**
 
 ### Work
 
