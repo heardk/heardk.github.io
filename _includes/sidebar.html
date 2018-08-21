@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
-          {{ site.title | upcase }}
+          {{ site.title }}
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
@@ -26,11 +26,12 @@
         {% endif %}
       {% endfor %}-->
       <a class="sidebar-nav-item" href="/bio">Bio</a>
-      <a class="sidebar-nav-item" href="/contact">Contact</a>
       <a class="sidebar-nav-item" href="/projects">Projects</a>
-      <a class="sidebar-nav-item" href="/news">Ecommerce News</a>
+      <a class="sidebar-nav-item" href="/contact">Contact</a>
+      --
       <a class="sidebar-nav-item" href="/tools">Tools</a>
       <a class="sidebar-nav-item" href="/books">Books</a>
+      <a class="sidebar-nav-item" href="/news">Ecommerce News</a>
       <a class="sidebar-nav-item" href="https://heard.photo">Photo Stories</a>
       <!--<a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>

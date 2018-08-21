@@ -14,7 +14,7 @@ baseurl:          '/'
 author:
   name:           'Kelly Heard'
   twitter:        'kellyheard'
-paginate:         5
+paginate:         8
 
 # Custom vars
 version:          2.1.0
