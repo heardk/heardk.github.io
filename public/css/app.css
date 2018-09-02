@@ -117,28 +117,18 @@ button {
     font-size: smaller;
 }
 
+.bookInfo {
+    font-size: smaller;
+}
+
 .bookImg img {
     height: 150px;
     width: auto;
     float: left;
     margin-right: 20px;
 }
-
-.btnNotes {
-    color: white;
-    background-color: #2f5398;
-    border: none;
-    padding: 5px 20px;
-    text-decoration: none;
-    font-size: 85%;
-  }
   
-  .btnNotes:hover {
-    cursor: pointer;
-    color: #fafafa;
-  }
-
-  .projectTitle {
+.projectTitle {
     margin-top: 40px;
     padding: 7px;
     background-color: #e6e6e6;
