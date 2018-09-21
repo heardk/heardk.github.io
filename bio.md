@@ -71,7 +71,7 @@ I'm a **product manager** for an **ecommerce** product and long time technologis
 
 ### Independent Coursework
 
-* Product Management Foundations - [Mind The Product](https://www.mindtheproduct.com/product-management-training/mind-product-training-public-workshops/)
+* Product Management Foundations (Mind The Product)
 * Ruby on Rails (The Pragmatic Studio)
 * React for Beginners (Wes Bos)
 
