@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-   gem 'jekyll', '>= 3.6.3'
-   gem 'jekyll-paginate'
-   gem 'jekyll-archives'
-   gem 'jekyll-seo-tag'
-   gem 'rake'
-   gem 'rake-jekyll'
- end
+# group :jekyll_plugins do
+#    gem 'jekyll', '>= 3.6.3'
+#    gem 'jekyll-paginate'
+#    gem 'jekyll-archives'
+#    gem 'jekyll-seo-tag'
+#    gem 'rake'
+#    gem 'rake-jekyll'
+#  end
+
+ gem 'github-pages', group: :jekyll_plugins
