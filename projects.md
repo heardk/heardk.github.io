@@ -7,7 +7,7 @@ Side Projects and Other Learning
 
 {% for project_hash in site.data.projects %}
 {% assign project = project_hash[1] %}
-<h3 class="projectTitle">
+<h3>
     <a href="{{ project.link }}">{{ project.name }}</a> ({{ project.status }})
 </h3>
 <p>{{ project.description }}</p>
