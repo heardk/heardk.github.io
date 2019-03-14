@@ -1,3 +1,12 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+}
+
+h1 {
+  font-size: 1.85rem;
+}
+
 .bio-table {
     font-size: 85%;
 }
@@ -13,8 +22,8 @@
   }
 
 .sidebar-about .lead {
-    font-family: 'Lato', sans-serif;
-    line-height: 25px;
+ 	font-family: 'Merriweather', serif;
+  	font-size: 2.2rem;
 }
 
 .related-posts h3 {
@@ -87,20 +96,6 @@ input, textarea, button {
     width: 75%;
 }
 
-form {
-    display: block;
-}
-
-button {
-    width: 90px;
-    height: 50px;
-    display: block;
-    color: white;
-    background-color: #2f5398;
-    border: none;
-    text-decoration: none;
-}
-
 .bookWrapper {
     padding: 10px;
     overflow: hidden;
@@ -121,11 +116,12 @@ button {
     font-size: smaller;
 }
 
-.bookImg img {
+.bookImg {
     height: 150px;
     width: auto;
     float: left;
     margin-right: 20px;
+	box-shadow: 2px 8px 8px -5px;
 }
   
 .projectTitle {
