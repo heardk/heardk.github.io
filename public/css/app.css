@@ -41,37 +41,6 @@ html {
 .pin-tag { 
     display: none; 
 }
-.tools {
-    font-size:medium;
-    padding-top: 10px;
-}
-.tools a {
-    font-size:large;
-}
-.toolitem p {
-    margin-bottom: 15px;
-}
-
-.tldr {
-  min-height: 20px;
-  padding: 10px;
-  margin-bottom: 15px;
-  background-color: #f5f5f5;
-  border: 1px solid #e3e3e3;
-  border-radius: 4px;
-  font-size: smaller;
-}
-
-.tldr .tldrTitle {
-    font-weight: bold;
-    color: #999999;
-    font-size: larger;
-}
-
-.tldr p {
-    margin: 0;
-    padding: 0;
-}
 
 img {
   display: inline-grid;
@@ -82,14 +51,6 @@ img {
 
 .hide {
     display: none;
-}
-
-input, textarea, button {
-    font-size: 1.0em;
-    border: 1px solid #ddd;
-    padding: 0.9em;
-    margin-bottom: 0.9em;
-    width: 75%;
 }
 
 .bookWrapper {
@@ -119,11 +80,3 @@ input, textarea, button {
     margin-right: 20px;
 	box-shadow: 2px 8px 8px -5px;
 }
-  
-.projectTitle {
-    margin-top: 40px;
-    padding: 7px;
-    background-color: #e6e6e6;
-    border-radius: 3px;
-    margin-bottom: 20px;
-  }
