@@ -13,14 +13,14 @@ html {
     background-size: auto 100%;
 }
 
-.sidebar-nav-item {
-    line-height: 1.25;
-  }
-
-.sidebar-about .lead {
-    font-family: 'Lato', sans-serif;
-    line-height: 25px;
+.sidebar-about h1 {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
 }
+
+.sidebar-nav-item {
+    line-height: 1.30;
+  }
 
 .related-posts h3 {
   font-size: 85%;
@@ -28,6 +28,10 @@ html {
 
 .post-date {
     font-size: 85%;
+}
+
+.post-title a {
+    color: #2f5398;
 }
 
 .pin-title { 
