@@ -22,8 +22,8 @@ h1 {
   }
 
 .sidebar-about .lead {
- 	font-family: 'Merriweather', serif;
-  	font-size: 2.2rem;
+    font-family: 'Lato', sans-serif;
+    line-height: 25px;
 }
 
 .related-posts h3 {
@@ -116,7 +116,7 @@ input, textarea, button {
     font-size: smaller;
 }
 
-.bookImg {
+.bookImg img {
     height: 150px;
     width: auto;
     float: left;
