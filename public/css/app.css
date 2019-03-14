@@ -12,7 +12,21 @@
     .sidebar {
       width: 18rem;
     }
-  }
+}
+
+.highlight {
+    margin-left: 0rem;
+}
+
+pre {
+    word-break: normal;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 42rem;
+    padding-left:  .75rem;
+}
 
 .sidebar-about h1 {
     font-family: 'Roboto', sans-serif;
@@ -27,8 +41,12 @@
   font-size: 85%;
 }
 
-.post-date {
-    font-size: 85%;
+.post-date .post-source {
+    font-size: smaller;
+}
+
+.post-source {
+    margin-top: 10px;
 }
 
 .post-title a {
