@@ -11,5 +11,3 @@ I took a recent trip to San Francisco, following my wife as she was attending a 
 I spent a good part of one day at Baker Beach trying to get the shot you see here. And as you can also see, the weather wasn't exactly the greatest, but still turned out to be a half-way decent shot.
 
 You can see the whole album on Flickr, [here](https://www.flickr.com/photos/greensuitcase/albums/72157654661669251).
-
-test test
