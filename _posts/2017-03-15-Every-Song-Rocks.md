@@ -33,5 +33,5 @@ I am in the process of building some new functionality that will allow you to cr
 
 ### Update: July 2017
 
-Given some changes to the Spotify API, I've taken the site down until I get a chance to make the necessary changes.
+Given some changes to the NPR API (they've deprecated the Stories API), I've taken the site down until I get a chance to make the necessary changes.
 
