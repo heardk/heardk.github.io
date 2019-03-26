@@ -6,4 +6,4 @@ categories: [Links]
 link: http://link.com 
 --- 
 
-tests update draft -- now publish test
+tests update draft -- now publish test -- and update again
