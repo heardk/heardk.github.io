@@ -6,4 +6,10 @@ categories: [Links]
 link: https://blog.stephsmith.io/you-dont-need-to-quit-your-job-to-make/ 
 --- 
 
+I'm always in need of a good reminder that browsing social media, watching YouTube or Netflix does not contribute to goals of _making_ something. The risk of our need to decompress after a _long day at work_ turns into an entire evening of watching Netflix. 
 
+| But what if we stopped imaging “me time” as relaxation time, but instead exactly as it is titled — time to focus on yourself and align with your goals. If you need rest, then rest. But if your goal is to one day become an entrepreneur, a significant portion of “me time” should be invested in getting there since it won’t happen on its own. “Me time” shouldn’t just be non-tiring activity, but anything that helps an individual get to the future state that they wish to be in.
+
+I completely agree that we actually do have a lot of time in our days to do something on the side, but 
+
+_Making_ is an important part of what I do in my personal time. Whether it's actually working towards a side project or just learning a new programming language
