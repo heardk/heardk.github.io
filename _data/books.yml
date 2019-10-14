@@ -1,3 +1,21 @@
+- title: Bad Blood
+  author: John Carreyro
+  rating: 5
+  pages: 352
+  date-finished: 31/10/2019
+  buy-url: https://www.amazon.ca/dp/152473165X/
+  cover-image-url: /public/images/badblood.jpg
+  notes-url:
+
+- title: Nutshell
+  author: Ian McEwan
+  rating: 3
+  pages: 208
+  date-finished: 01/10/2019
+  buy-url: https://www.amazon.ca/dp/0345812409/
+  cover-image-url: /public/images/nutshell.jpg
+  notes-url:
+
 - title: Cockpit Confidential
   author: Patrick Smith
   rating: 5
