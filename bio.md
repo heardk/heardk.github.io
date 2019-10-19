@@ -77,6 +77,7 @@ I'm a **product manager** for an **ecommerce** product and long time technologis
 
 ### Certifications
 
+* Pragmatic Marketing Certified (2019)
 * Pragmatic Marketing Certified (2010)
 * Sitecore Developer Certification for CMS 7.0  (2014)
 * Sitecore Commerce Certification (2016)
