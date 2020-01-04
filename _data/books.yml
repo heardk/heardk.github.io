@@ -1,3 +1,21 @@
+- title: "Normal People: A Novel"
+  author: Sally Rooney
+  rating: 5
+  pages: 288
+  date-finished: 14/01/2020
+  buy-url: https://www.amazon.ca/dp/0735276471/
+  cover-image-url: /public/images/normalpeople.jpg
+  notes-url:
+
+- title: Permanent Record
+  author: Edward Snowden
+  rating: 5
+  pages: 352
+  date-finished: 31/12/2019
+  buy-url: https://www.amazon.ca/dp/1250237238/
+  cover-image-url: /public/images/permanentrecord.jpg
+  notes-url:
+
 - title: Bad Blood
   author: John Carreyrou
   rating: 5
