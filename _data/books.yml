@@ -1,279 +1,250 @@
-- title: "Normal People: A Novel"
+---
+- title: 'Normal People: A Novel'
   author: Sally Rooney
   rating: 5
   pages: 288
   date-finished: 14/01/2020
   buy-url: https://www.amazon.ca/dp/0735276471/
-  cover-image-url: /public/images/normalpeople.jpg
-  notes-url:
-
+  cover-image-url: "/public/images/normalpeople.jpg"
+  notes-url: ''
 - title: Permanent Record
   author: Edward Snowden
   rating: 5
   pages: 352
   date-finished: 31/12/2019
   buy-url: https://www.amazon.ca/dp/1250237238/
-  cover-image-url: /public/images/permanentrecord.jpg
-  notes-url:
-
+  cover-image-url: "/public/images/permanentrecord.jpg"
+  notes-url: ''
 - title: Bad Blood
   author: John Carreyrou
   rating: 5
   pages: 352
   date-finished: 31/10/2019
   buy-url: https://www.amazon.ca/dp/152473165X/
-  cover-image-url: /public/images/badblood.jpg
-  notes-url:
-
+  cover-image-url: "/public/images/badblood.jpg"
+  notes-url: ''
 - title: Nutshell
   author: Ian McEwan
   rating: 3
   pages: 208
   date-finished: 01/10/2019
   buy-url: https://www.amazon.ca/dp/0345812409/
-  cover-image-url: /public/images/nutshell.jpg
-  notes-url:
-
+  cover-image-url: "/public/images/nutshell.jpg"
+  notes-url: ''
 - title: Cockpit Confidential
   author: Patrick Smith
   rating: 5
   pages: 287
   date-finished: 16/9/2019
   buy-url: https://www.amazon.ca/dp/1492663964/
-  cover-image-url: /public/images/cockpit-confidential.jpg
-  notes-url:
-
-- title: "What Do You Care What Other People Think?: Further Adventures of a Curious Character"
+  cover-image-url: "/public/images/cockpit-confidential.jpg"
+  notes-url: ''
+- title: 'What Do You Care What Other People Think?: Further Adventures of a Curious
+    Character'
   author: Richard P Feynman
   rating: 4
   pages: 256
   date-finished: 28/5/2019
   buy-url: https://www.amazon.ca/What-Care-Other-People-Think/dp/0393355640/
-  cover-image-url: /public/images/what-do-you-care.jpg
-  notes-url:
-
+  cover-image-url: "/public/images/what-do-you-care.jpg"
+  notes-url: ''
 - title: Spent
   author: Geoffrey Miller
   rating: 4
   pages: 416
   date-finished: 30/4/2019
   buy-url: https://www.amazon.ca/Spent-Geoffrey-Miller/dp/0670020621
-  cover-image-url: /public/images/spent.jpg
+  cover-image-url: "/public/images/spent.jpg"
   notes-url: https://docs.google.com/document/d/1HpXkiyAVkmgzSw98s6CsI7D4Dz8ER3K5MHbACu1cSgo/edit?usp=sharing
-
-- title: "Manhattan Beach: A Novel"
+- title: 'Manhattan Beach: A Novel'
   author: Jennifer Egan
   rating: 4
   pages: 449
   date-finished: 28/12/2018
   buy-url: http://a.co/d/1wlsax0
-  cover-image-url: /public/images/manhattan-beach-a-novel.jpg
-  notes-url: 
-
-- title: "Factfulness: Ten Reasons We're Wrong About the World"
+  cover-image-url: "/public/images/manhattan-beach-a-novel.jpg"
+  notes-url: ''
+- title: 'Factfulness: Ten Reasons We''re Wrong About the World'
   author: Hans Rosling
   rating: 5
   pages: 341
   date-finished: 01/12/2018
   buy-url: http://a.co/d/fH3xnwv
-  cover-image-url: /public/images/factfulness-ten-reasons-were-wrong-about-the-world.jpg
+  cover-image-url: "/public/images/factfulness-ten-reasons-were-wrong-about-the-world.jpg"
   notes-url: https://docs.google.com/document/d/1fyn8RzR7-Trni_hHa8MueDqITYsRAN4jgif_g-b_L6w/edit?usp=sharing
-
-- title: "Hooked: How to Build Habit-Forming Products"
+- title: 'Hooked: How to Build Habit-Forming Products'
   author: Nir Eyal
   rating: 4
   pages: 256
   date-finished: 23/11/2018
   buy-url: http://a.co/d/6EKlrro
-  cover-image-url: /public/images/hooked-how-to-build-habitforming-products.jpg
+  cover-image-url: "/public/images/hooked-how-to-build-habitforming-products.jpg"
   notes-url: https://docs.google.com/document/d/1nAqbKc0BxPOHxz_J7L09i3uDm33_EXX3YxtFoBonqQU/edit?usp=sharing
-
-- title: "Hillbilly Elegy"
+- title: Hillbilly Elegy
   author: J.D. Vance
   rating: 4
   pages: 257
   date-finished: 19/09/2018
   buy-url: http://a.co/d/fwBQy1F
-  cover-image-url: /public/images/hillbilly-elegy.jpg
-  notes-url: 
-
-- title: "Human Transit"
+  cover-image-url: "/public/images/hillbilly-elegy.jpg"
+  notes-url: ''
+- title: Human Transit
   author: Jarrett Walker
   rating: 5
   pages: 256
   date-finished: 01/09/2018
   buy-url: http://a.co/d/gpT1xBS
-  cover-image-url: /public/images/human-transit.jpg
+  cover-image-url: "/public/images/human-transit.jpg"
   notes-url: https://docs.google.com/document/d/1NRGcx7LSHOYvnyKzRlOOeqjkkoR7wi9P0je5R9HEln4/edit?usp=sharing
-
-- title: "The Nix"
+- title: The Nix
   author: Nathan Hill
   rating: 5
   pages: 752
   date-finished: 24/08/2018
   buy-url: http://a.co/d/fWkUVi2
-  cover-image-url: /public/images/the-nix.jpg
-  notes-url: 
-
-- title: "Enlightenment Now: The Case for Reason, Science, Humanism, and Progress"
+  cover-image-url: "/public/images/the-nix.jpg"
+  notes-url: ''
+- title: 'Enlightenment Now: The Case for Reason, Science, Humanism, and Progress'
   author: Steven Pinker
   rating: 4
   pages: 576
   date-finished: 29/06/2018
   buy-url: http://a.co/d/icgE7qm
-  cover-image-url: /public/images/enlightenment-now-the-case-for-reason-science-humanism-and-progress.jpg
-  notes-url: 
-
-- title: "Trust Me, I'm Lying: Confessions of a Media Manipulator"
+  cover-image-url: "/public/images/enlightenment-now-the-case-for-reason-science-humanism-and-progress.jpg"
+  notes-url: ''
+- title: 'Trust Me, I''m Lying: Confessions of a Media Manipulator'
   author: Ryan Holiday
   rating: 5
   pages: 352
   date-finished: 08/03/2018
   buy-url: http://a.co/d/8kdOwbi
-  cover-image-url: /public/images/trust-me-im-lying-confessions-of-a-media-manipulator.jpg
+  cover-image-url: "/public/images/trust-me-im-lying-confessions-of-a-media-manipulator.jpg"
   notes-url: https://docs.google.com/document/d/1UZR_vTMT4gmrdMz9Rya_8VY-6WJfhNGrhhLMQeyMPgw/edit?usp=sharing
-
-- title: "Alibaba: The House That Jack Ma Built"
+- title: 'Alibaba: The House That Jack Ma Built'
   author: Duncan Clark
   rating: 4
   pages: 264
   date-finished: 08/02/2018
   buy-url: http://a.co/d/0FFEEw0
-  cover-image-url: /public/images/alibaba-the-house-that-jack-ma-built.jpg
+  cover-image-url: "/public/images/alibaba-the-house-that-jack-ma-built.jpg"
   notes-url: https://docs.google.com/document/d/1o_IeObS_QIOt-o2YlfWl0nfI-3yV4IAufKm4nbPURI0/edit?usp=sharing
-
-- title: "The Man in the High Castle"
+- title: The Man in the High Castle
   author: Philip K. Dick
   rating: 4
   pages: 290
   date-finished: 03/02/2018
   buy-url: http://a.co/d/2V6pqBe
-  cover-image-url: /public/images/the-man-in-the-high-castle.jpg
-  notes-url: 
-
-- title: "The Hard Things About Hard Things"
+  cover-image-url: "/public/images/the-man-in-the-high-castle.jpg"
+  notes-url: ''
+- title: The Hard Things About Hard Things
   author: Ben Horowitz
   rating: 5
   pages: 275
   date-finished: 17/12/2017
   buy-url: http://a.co/d/4W3wVph
-  cover-image-url: /public/images/the-hard-things-about-hard-things.jpg
+  cover-image-url: "/public/images/the-hard-things-about-hard-things.jpg"
   notes-url: https://docs.google.com/document/d/1Up4ZKHyOwhBW5J1ywY312Zk6FgIhxzCbUJo3QYoqPXE/edit?usp=sharing
-
-- title: "Behavioural Economics: A Very Short Introduction"
+- title: 'Behavioural Economics: A Very Short Introduction'
   author: Michelle Baddeley
   rating: 4
   pages: 126
   date-finished: 10/12/2017
   buy-url: http://a.co/d/cIVsnvy
-  cover-image-url: /public/images/behavioural-economics-a-very-short-introduction.jpg
+  cover-image-url: "/public/images/behavioural-economics-a-very-short-introduction.jpg"
   notes-url: https://docs.google.com/document/d/1EmZfPPbBncV1P9TpxjXoVZD0EWkFwlof7_6DP43RitY/edit?usp=sharing
-
-- title: "Hipster Business Models"
+- title: Hipster Business Models
   author: Priceonomics
   rating: 4
   pages: 224
   date-finished: 11/11/2017
   buy-url: http://a.co/d/4Y19Gcj
-  cover-image-url: /public/images/hipster-business-models.jpg
+  cover-image-url: "/public/images/hipster-business-models.jpg"
   notes-url: https://docs.google.com/document/d/18EskxYVeM95h2c-bIqMoh6z1RchFKr9tOaMByeTyRww/edit?usp=sharing
-
-- title: "Cracking the PM Interview"
+- title: Cracking the PM Interview
   author: Gayle Laakmann McDowell & Jackie Bavard
   rating: 3
   pages: 340
   date-finished: 02/11/2017
   buy-url: http://a.co/d/4BS3pTw
-  cover-image-url: /public/images/cracking-the-pm-interview.jpg
+  cover-image-url: "/public/images/cracking-the-pm-interview.jpg"
   notes-url: https://docs.google.com/document/d/1YikxhPwuJj7pDDeHrcroLzSWNSJS0GRU-QnnJKoiRO8/edit?usp=sharing
-
-- title: "A Full Life: Reflections at Ninety"
+- title: 'A Full Life: Reflections at Ninety'
   author: Jimmy Carter
   rating: 4
   pages: 238
   date-finished: 22/08/2017
   buy-url: http://a.co/d/ae1ZDKw
-  cover-image-url: /public/images/a-full-life-reflections-at-ninety.jpg
+  cover-image-url: "/public/images/a-full-life-reflections-at-ninety.jpg"
   notes-url: https://docs.google.com/document/d/1aWE09c3KY1Om-vza13sgw8YYDtPSFICciu9lQIMoczE/edit?usp=sharing
-
-- title: "Happy City"
+- title: Happy City
   author: Charles Montgomery
   rating: 5
   pages: 313
   date-finished: 09/08/2017
   buy-url: http://a.co/d/cnrfeEO
-  cover-image-url: /public/images/happy-city.jpg
+  cover-image-url: "/public/images/happy-city.jpg"
   notes-url: https://docs.google.com/document/d/1pSLvTCaBGEgP5Bfso9GcaGOxpTYQ4H_LQ-M-2POZ-QA/edit?usp=sharing
-
-- title: "Option B"
+- title: Option B
   author: Sheryl Sandberg & Adam Grant
   rating: 4
   pages: 176
   date-finished: 04/07/2017
   buy-url: http://a.co/d/ba5Ozc2
-  cover-image-url: /public/images/option-b.jpg
-  notes-url: 
-
-- title: "Originals"
+  cover-image-url: "/public/images/option-b.jpg"
+  notes-url: ''
+- title: Originals
   author: Adam Grant
   rating: 4
   pages: 243
   date-finished: 03/07/2017
   buy-url: http://a.co/d/0QKFGhJ
-  cover-image-url: /public/images/originals.jpg
+  cover-image-url: "/public/images/originals.jpg"
   notes-url: https://docs.google.com/document/d/169nR5-twWZ1VnLu3IRZHfEWpPXb1_7ZxnKGMnvW-z7U/edit?usp=sharing
-
-- title: "Grinding It Out"
+- title: Grinding It Out
   author: Ray Kroc
   rating: 4
   pages: 199
   date-finished: 16/04/2017
   buy-url: http://a.co/d/h6yJyt7
-  cover-image-url: /public/images/grinding-it-out.jpg
-  notes-url: 
-
-- title: "10% Happier"
+  cover-image-url: "/public/images/grinding-it-out.jpg"
+  notes-url: ''
+- title: 10% Happier
   author: Dan Harris
   rating: 5
   pages: 221
   date-finished: 30/03/2017
   buy-url: http://a.co/d/aY1Vquy
-  cover-image-url: /public/images/10-happier.jpg
+  cover-image-url: "/public/images/10-happier.jpg"
   notes-url: https://docs.google.com/document/d/1NLhJ2UrOGJsuZ35ZoV3XjxBgh1jpCuGARcDpUC9sTUw/edit?usp=sharing
-
-- title: "Go Set A Watchman"
+- title: Go Set A Watchman
   author: Harper Lee
   rating: 4
   pages: 278
   date-finished: 11/03/2017
   buy-url: http://a.co/d/0PnRaft
-  cover-image-url: /public/images/go-set-a-watchman.jpg
-  notes-url: 
-
-- title: "Sam Walton: Made in America"
+  cover-image-url: "/public/images/go-set-a-watchman.jpg"
+  notes-url: ''
+- title: 'Sam Walton: Made in America'
   author: Sam Walton
   rating: 4
   pages: 332
   date-finished: 05/03/2017
   buy-url: http://a.co/d/6sV051j
-  cover-image-url: /public/images/sam-walton-made-in-america.jpg
+  cover-image-url: "/public/images/sam-walton-made-in-america.jpg"
   notes-url: https://docs.google.com/document/d/11fx6jtTu_5THai_48k912NCnrdFoWaq2ZeSXm3hd27k/edit?usp=sharing
-
-- title: "The 80/20 Principle"
+- title: The 80/20 Principle
   author: Richard Koch
   rating: 5
   pages: 290
   date-finished: 08/08/2016
   buy-url: http://a.co/d/fE7FaTC
-  cover-image-url: /public/images/the-8020-principle.jpg
+  cover-image-url: "/public/images/the-8020-principle.jpg"
   notes-url: https://docs.google.com/document/d/10180112hhLr0GG8TV-mj8V56diPeod9inSXkT3HXa10/edit?usp=sharing
-
-- title: "The Four Hour Body"
+- title: The Four Hour Body
   author: Tim Ferriss
   rating: 4
   pages: 593
   date-finished: 30/07/2016
   buy-url: http://a.co/d/89xJzBI
-  cover-image-url: /public/images/the-four-hour-body.jpg
-  notes-url: 
-
+  cover-image-url: "/public/images/the-four-hour-body.jpg"
+  notes-url: ''
