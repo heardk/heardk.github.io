@@ -9,6 +9,8 @@ sections:
 - type: document
   path: _includes/sidebar.html
   label: Sidebar Menu
+- type: heading
+  label: Content
 - type: directory
   path: _data
   label: Data
