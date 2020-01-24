@@ -32,6 +32,10 @@ sections:
 - type: document
   path: _includes/sidebar.html
   label: Sidebar
+- type: document
+  path: books.md
+  label: Books List
+  match: "**/*"
 upload_dir: public/images
 public_path: "/public/images"
 front_matter_path: ''
