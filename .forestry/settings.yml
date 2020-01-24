@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _includes/sidebar.html
   label: Sidebar Menu
-  match: "**/*"
 - type: directory
   path: _data
   label: Data

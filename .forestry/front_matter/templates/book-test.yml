@@ -1,0 +1,32 @@
+---
+label: Book Test
+hide_body: true
+fields:
+- type: field_group_list
+  name: Books
+  label: Books
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: author
+    label: author
+  - type: number
+    name: rating
+    label: rating
+  - type: number
+    name: pages
+    label: pages
+  - type: datetime
+    name: date-finished
+    label: date-finished
+  - type: text
+    name: buy-url
+    label: buy-url
+  - type: file
+    name: cover-image-url
+    label: cover-image-url
+  - type: text
+    name: notes-url
+    label: notes-url
