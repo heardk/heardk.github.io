@@ -8,7 +8,7 @@ sections:
   label: Page Templates
 - type: document
   path: _includes/sidebar.html
-  label: Sidebar Menu
+  label: Sidebar
 - type: heading
   label: Content
 - type: directory
