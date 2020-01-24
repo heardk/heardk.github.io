@@ -10,12 +10,21 @@ sections:
   path: _includes/sidebar.html
   label: Sidebar
 - type: heading
-  label: Content
+  label: Data
 - type: directory
   path: _data
-  label: Data
-  create: all
+  label: Books
+  create: documents
+  match: books.yml
+  templates:
+  - book-test
+- type: directory
+  path: _data/projects
+  label: Projects
+  create: documents
   match: "**/*"
+- type: heading
+  label: Content
 - type: jekyll-pages
   label: Pages
   create: documents
