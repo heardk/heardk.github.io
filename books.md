@@ -19,7 +19,7 @@ Reading List
 <div class="bookInfo">
 <strong>Read:</strong> {{ book.date-finished | date: "%B %Y" }}<br />
 <strong>Pages:</strong> {{ book.pages }}<br />
-{% if book.notes-url != nil %}
+{% if book.notes-url != '' %}
 <strong><a href="{{ book.notes-url }}" target="_blank">My Notes</a></strong>
 {% endif %}
 </div>
