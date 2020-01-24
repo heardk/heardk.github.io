@@ -18,3 +18,7 @@ fields:
 - type: textarea
   name: link
   label: link
+  default: ''
+  config:
+    required: true
+  description: Link Required for Link Post

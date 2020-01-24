@@ -14,7 +14,6 @@ sections:
 - type: document
   path: _data/books.yml
   label: Books
-  match: "**/*"
 - type: directory
   path: _data/projects
   label: Projects
