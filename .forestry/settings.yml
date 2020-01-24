@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Page Templates
 - type: document
   path: _includes/sidebar.html
   label: Sidebar Menu
