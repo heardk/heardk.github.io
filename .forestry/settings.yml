@@ -11,13 +11,10 @@ sections:
   label: Sidebar
 - type: heading
   label: Data
-- type: directory
-  path: _data
+- type: document
+  path: _data/books.yml
   label: Books
-  create: documents
-  match: books.yml
-  templates:
-  - book-test
+  match: "**/*"
 - type: directory
   path: _data/projects
   label: Projects
