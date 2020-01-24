@@ -1,0 +1,19 @@
+---
+label: Link Post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: list
+  name: categories
+  label: categories
+- type: textarea
+  name: link
+  label: link
