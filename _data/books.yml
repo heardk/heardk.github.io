@@ -1,4 +1,12 @@
 ---
+- title: Fahrenheit 451
+  author: Ray Bradbury
+  rating: 5
+  pages: 256
+  date-finished: 20/01/2020
+  buy-url: https://www.amazon.ca/dp/1451673310/
+  cover-image-url: "/public/images/41qI9quGIdL._SX324_BO1,204,203,200_.jpg"
+  notes-url: ''
 - title: 'Normal People: A Novel'
   author: Sally Rooney
   rating: 5
