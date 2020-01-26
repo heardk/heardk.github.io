@@ -33,5 +33,7 @@ fields:
   - type: text
     name: notes-url
     label: notes-url
+  config:
+    labelField: title
 pages:
 - _data/books.yml
