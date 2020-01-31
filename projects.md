@@ -7,29 +7,29 @@ Side Projects and Other Learning
 
 {% for project_hash in site.data.projects %}
 {% assign project = project_hash[1] %}
-<h2>
-    {{ project.name }}
-</h2>
-<p>{{ project.description }}</p>
+
+## {{ project.name }}
+
+{{ project.description }}
+
 <ul>
 {% for highlight in project.highlights %}
-    <li>{{ highlight.name }}</li>
+     <li>{{ highlight.name }}</li>
 {% endfor %}
 </ul>
+
+### Tools Used
+<div style="overflow-x:auto;">
 <table>
-    <thead>
+{% for tool in project.tools %}
     <tr>
-        <td colspan="2"><h4>Tools Used</h4></td>
-    </tr>
-    </thead>
-    <tbody>
-    {% for tool in project.tools %}
-    <tr>
-        <td>{{ tool.name }}</td><td><a href="{{ tool.link }}">{{ tool.link }}</a></td>
-    </tr>
-    {% endfor %}
-    </tbody>
+        <td>{{ tool.name }}</td>
+        <td><a href="{{ tool.link }}">{{ tool.link }}</a></td>
+     </tr>
+{% endfor %}
 </table>
+</div>
+
 <p>
 {% if project.source %}Source Code: <a href="{{ project.source }}">{{ project.source }}</a><br />{% endif %}
 Link: <a href="{{ project.link }}">{{ project.link }}</a>

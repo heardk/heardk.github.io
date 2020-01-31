@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Bio
+title: About Me
 ---
-<br/>
 
 I'm a **product manager** for an **ecommerce** product and long time technologist in various development and solution architecture roles. I have a **passion** for all things **retail and technology** and I love to express creativity through photography.
 
@@ -13,10 +12,10 @@ I'm a **product manager** for an **ecommerce** product and long time technologis
 
 ### Work
 
-<table class="bio-table"><tr><th>Position</th><th>Company</th><th>Date</th>
+<table><tr><th>Position</th><th>Company</th><th>Date</th>
 </tr>
 <tr>
-<td>Product Manager</td>
+<td>Senior Product Manager</td>
 <td>Sitecore</td>
 <td>2017-Present</td>
 </tr>
@@ -62,13 +61,6 @@ I'm a **product manager** for an **ecommerce** product and long time technologis
 </tr>
 </table>
 
-### Courses
-
-* Business Intelligence Reporting for Project Server 2010
-* Project Server 2010 for Administrators
-* Hyperion Planning 11.1.2: Create & Manage Applications
-* Oracle Essbase 11.1.2 Bootcamp Self-Study
-
 ### Independent Coursework
 
 * Product Management Foundations (Mind The Product)
@@ -81,7 +73,3 @@ I'm a **product manager** for an **ecommerce** product and long time technologis
 * Pragmatic Marketing Certified (2010)
 * Sitecore Developer Certification for CMS 7.0  (2014)
 * Sitecore Commerce Certification (2016)
-
-### Volunteer
-
-* Qualicum Graham Park Community Association - Webmaster (2015-present)

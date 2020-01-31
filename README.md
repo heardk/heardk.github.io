@@ -1,8 +1,6 @@
 # Kelly Heard
 
-[![Build Status](https://travis-ci.org/heardk/heardk.github.io.svg?branch=source)](https://travis-ci.org/heardk/heardk.github.io)
-
-Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using the [Hyde](http://hyde.getpoole.com/) theme
+Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using the [Plainwhite](https://github.com/thelehhman/plainwhite-jekyll) theme
 
 ## Helpful links
 
@@ -24,4 +22,4 @@ Blog and Personal Site built with [Jekyll](http://jekyllrb.com) and styled using
 
 All content created by me (posts, images, top-level pages, custom code) are copyright Kelly Heard. Permission is required to use these assets. 
 
-Other content (Jekyll, Hyde code) is licensed using the MIT license.
+Other content (Jekyll, Plainwhite theme) is licensed using the MIT license.

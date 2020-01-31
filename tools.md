@@ -1,8 +1,23 @@
 ---
-layout: page
-title: Tools & Products
+layout: data-page
+title: Useful Tools & Products
 ---
 
-Tools and products I find useful from around the web
-
-<script language="javascript" src="https://pinboard.in//widgets/v1/linkroll/?user=klyhrd&count=40&tag=tools"></script>
+<div style="overflow-x:auto;">
+<table class="datatable">
+<tr>
+    <th>Product</th>
+    <th>&nbsp;</th>
+    <th>Notes</th>
+    <th>Added</th>
+</tr>
+{% for tool in site.data.tools %}
+    <tr>
+        <td>{{ tool.tool | truncate: 50 }}</td>
+        <td><a href="{{ tool.url }}" target="_blank">(link)</a></td>
+        <td>{{ tool.notes | truncate: 65 }}</td>
+        <td>{{ tool.date-added | date: "%b %Y" }}</td>
+    </tr>
+{% endfor %}
+</table>
+</div>

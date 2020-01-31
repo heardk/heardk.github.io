@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+
 <div class="post-container">
+    {%- include data-nav.html -%}
     {%- if page.title -%}
         <h1 class="page-heading">{{ page.title | escape }}</h1>
     {%- endif -%}

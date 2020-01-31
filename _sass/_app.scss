@@ -1,0 +1,96 @@
+$bloquoteColor: #646464;
+$tableStriped: #f9f9f9;
+$tableHeader: #6b7d88;
+$tableHeaderText: #fff;
+$tableBorder: #e5e5e5;
+
+blockquote {
+    font-size: 14px;
+    line-height: 1.25;
+    margin-left: 25px;   
+}
+
+.post-source {
+    margin-top: 20px;
+}
+
+pre {
+    word-break: normal;
+    line-height: 1.5;
+}
+
+.pin-title { 
+    font-size: large;
+    text-decoration:none;
+}
+.pin-description { 
+    font-size: medium;
+    color:#555;
+}
+.pin-tag { 
+    display: none; 
+}
+
+.bookWrapper {
+    padding: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    line-height: 22px;
+}
+
+.bookTitle {
+    font-size: larger;
+}
+
+.bookAuthor {
+    margin-bottom: 15px;
+    font-size: smaller;
+}
+
+.bookInfo {
+    font-size: smaller;
+}
+
+.bookImg img {
+    height: 150px;
+    width: auto;
+    float: left;
+    margin-right: 20px;
+	box-shadow: 2px 8px 8px -5px;
+}
+
+/* Tables */
+
+table {
+    width: 85%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  th,
+  td {
+    padding: 2px 5px;
+    text-align: left;
+  }
+  th {
+    background-color: $tableHeader;
+    color: $tableHeaderText;
+  }
+  tbody tr:nth-child(odd) td {
+    background-color: $tableStriped;
+  }
+
+.datatable {
+    table {
+        width: 100%;
+    }
+    td {
+        padding: 3px;
+        white-space: nowrap;
+        font-size: smaller;
+        .bookImg {
+            height: auto;
+            max-width: 20px;
+            vertical-align: middle;   
+        }
+    }
+}

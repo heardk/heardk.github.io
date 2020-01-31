@@ -1,46 +1,48 @@
 ---
 layout: default
-title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      {% if post.layout == "link-post" %}
-        <a href="{{ post.link }}">
-          {{ post.title }} &rArr;
-        </a>
-      {% else %}
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
+{%- if site.posts.size > 0 -%}
+  <ul class="posts">
+    {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
+        {%- if post.layout == "link-post" -%}
+          <a class="post-link" href="{{ post.link }}">
+            <h2 class="post-title">{{ post.title }} &rArr;</h2>
+          </a>
+        {%- else -%}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <h2 class="post-title">{{ post.title | escape }}</h2>
+          </a>
+        {%- endif -%}
+        <!-- <div class="post-meta">
+          <ul class="post-categories">
+            {%- for tag in post.categories -%}
+              <li>{{ tag }}</li>
+            {%- endfor -%}
+          </ul>
+          <div class="post-date">
+            <i class="icon-calendar"></i>
+            {{ post.date | date: date_format }}</div>
+        </div> -->
+        <div class="post">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- else -%}
+            {{ post.content }}
+          {%- endif -%}
+        </div>
+        {% if post.layout == "link-post" %}
+        <div class="post-source">
+          Source: <a href="{{ post.link }}">{{ post.link | truncate: 55 }}</a>
+        </div>
       {% endif %}
-    </h1>
-    <span class="post-date">{{ post.date | date_to_string }} <!--| Posted in {% include post-cat-list.html content=post %} --></span>
-    {{ post.content }}
-    {% if post.layout == "link-post" %}
-      <span class="post-source">
-        Source: <a href="{{ post.link }}">{{ post.link }}</a>
-      </span>
-      {% endif %}
-  </div>
-  {% endfor %}
-</div>
+      </li>
+    {%- endfor -%}
+  </ul>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+  <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
+		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
+{%- endif -%}
