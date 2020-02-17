@@ -3,17 +3,41 @@ layout: data-page
 title: Reading List
 ---
 
+{% for book in site.data.books %}
+    {% if book.date-finished != nil %}
+        {% capture bookFinishedYear %}{{ book.date-finished | date: "%Y" }}{% endcapture %}
+        {% capture currentYear %}{{ "now" | date: "%Y" }}{% endcapture %}
+        {% assign numPagesRead = numPagesRead | plus: book.pages %}
+        {% assign numBooksRead = numBooksRead | plus: 1 %}
+        {% if bookFinishedYear == currentYear %}
+            {% assign numBooksCurrentYear = numBooksCurrentYear | plus: 1 %}
+        {% endif %}
+        {% if book.notes-url != '' %}
+            {% assign numBookNotes = numBookNotes | plus: 1 %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+<div class="stats">
+    <ul>
+        <li>Books Read in {{ "now" | date: "%Y" }}: <span class="statsBold">{{ numBooksCurrentYear}}</span></li>
+        <li>Books Read: <span class="statsBold">{{ numBooksRead }}</span></li>
+        <li>Total Pages: <span class="statsBold">{{ numPagesRead }}</span></li>
+        <li>Books with Notes: <span class="statsBold">{{ numBookNotes }}</span></li>
+    </ul>
+</div>
+
 <div style="overflow-x:auto;">
 <table class="datatable">
 <tr>
-    <th>&nbsp;</th>
-    <th>Title</th>
+    <th colspan="2">Title</th>
     <th>Author</th>
     <th>Read</th>
     <th>Pages</th>
     <th>Buy</th>
     <th>Notes</th>
 </tr>
+
 {% for book in site.data.books %}
 {% if book.date-finished != nil %}
     <tr>
