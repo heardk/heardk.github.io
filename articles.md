@@ -1,6 +1,6 @@
 ---
 layout: data-page
-title: News
+title: Articles
 ---
 
 {% for newsitem in site.data.news %}
