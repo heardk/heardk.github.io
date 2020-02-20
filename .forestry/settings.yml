@@ -9,6 +9,14 @@ sections:
 - type: document
   path: _data/books.yml
   label: Books
+- type: document
+  path: _data/tools.yml
+  label: Tools
+  match: "**/*"
+- type: document
+  path: _data/news.yml
+  label: Articles
+  match: "**/*"
 - type: directory
   path: _data/projects
   label: Projects
