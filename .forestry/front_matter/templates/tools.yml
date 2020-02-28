@@ -18,6 +18,7 @@ fields:
       date_format: 
       time_format: 
       display_utc: false
+      export_format: MMM YYYY
     default: now
   - type: text
     name: url
