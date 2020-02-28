@@ -1,6 +1,6 @@
 ---
 - tool: Tailwind UI
-  date-added: 
+  date-added: 28/02/2020
   url: https://tailwindui.com/
   notes: Beautiful UI components, crafted by the creators of Tailwind CSS
 - tool: 'Userbase: Logins and persistence for static sites'
