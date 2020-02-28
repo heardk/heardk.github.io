@@ -9,9 +9,16 @@ fields:
   - type: text
     name: tool
     label: tool
-  - type: text
-    name: date-added
+  - name: date-added
+    type: datetime
     label: date-added
+    description: Date tool was added
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    default: now
   - type: text
     name: url
     label: url
