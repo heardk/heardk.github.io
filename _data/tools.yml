@@ -1,2000 +1,2187 @@
-- tool: "Userbase: Logins and persistence for static sites"
+---
+- tool: Tailwind UI
+  date-added: 2/28/2020
+  url: https://tailwindui.com/
+  notes: Beautiful UI components, crafted by the creators of Tailwind CSS
+- tool: 'Userbase: Logins and persistence for static sites'
   date-added: 29/01/2020
   url: https://userbase.com/
-  notes: "Create secure and private web apps using only static JavaScript, HTML, and CSS."
-- tool: "Diary Email"
+  notes: Create secure and private web apps using only static JavaScript, HTML, and
+    CSS.
+- tool: Diary Email
   date-added: 15/01/2020
   url: https://diaryemail.com/
-  notes: "Diary as simple as it gets Write private diary using good old email!"
-- tool: "Paperbits - Drag 'n' drop content builder for web apps"
-  date-added: 08/01/2020
+  notes: Diary as simple as it gets Write private diary using good old email!
+- tool: Paperbits - Drag 'n' drop content builder for web apps
+  date-added: '08/01/2020'
   url: https://paperbits.io/
-  notes: "Give your users a tool to create professional web pages, forms, email templates and more."
-- tool: "JournalBot"
+  notes: Give your users a tool to create professional web pages, forms, email templates
+    and more.
+- tool: JournalBot
   date-added: 22/12/2019
   url: https://www.journalbotapp.com/?ref=producthunt
-  notes: "JournalBot is a journal that you text just like a friend. It's journaling for those who don't have time to journal."
-- tool: "TickTick: Todo list, checklist and task manager"
+  notes: JournalBot is a journal that you text just like a friend. It's journaling
+    for those who don't have time to journal.
+- tool: 'TickTick: Todo list, checklist and task manager'
   date-added: 21/12/2019
   url: https://ticktick.com/home
-  notes: "Organize everything in life. Whether there is a work-related task or a personal goal, TickTick is here to help you manage all your to-dos."
-- tool: "Free for developers"
+  notes: Organize everything in life. Whether there is a work-related task or a personal
+    goal, TickTick is here to help you manage all your to-dos.
+- tool: Free for developers
   date-added: 20/12/2019
   url: https://free-for.dev/
-  notes: "Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions"
-- tool: "Spider Pro"
+  notes: Developers and Open Source authors now have a massive amount of services
+    offering free tiers, but it can be hard to find them all in order to make informed
+    decisions
+- tool: Spider Pro
   date-added: 18/10/2019
   url: https://tryspider.com/
-  notes: "The easiest way to scrape the internet."
-- tool: "n8n.io - Workflow Automation"
+  notes: The easiest way to scrape the internet.
+- tool: n8n.io - Workflow Automation
   date-added: 15/10/2019
   url: https://n8n.io/
-  notes: "Open Source Alternative for Zapier/tray.io"
-- tool: "jsonbox.io | HTTP based JSON storage"
+  notes: Open Source Alternative for Zapier/tray.io
+- tool: jsonbox.io | HTTP based JSON storage
   date-added: 20/09/2019
   url: https://jsonbox.io/
-  notes: "jsonbox.io lets you store, read & modify JSON data over HTTP APIs for free."
-- tool: "Clubhouse - Project Management for Software Teams"
+  notes: jsonbox.io lets you store, read & modify JSON data over HTTP APIs for free.
+- tool: Clubhouse - Project Management for Software Teams
   date-added: 13/09/2019
   url: https://clubhouse.io/
-  notes: "Clubhouse is the first project management platform for software development that brings everyone on every team together to build better products."
-- tool: "Web Clipper"
-  date-added: 09/09/2019
+  notes: Clubhouse is the first project management platform for software development
+    that brings everyone on every team together to build better products.
+- tool: Web Clipper
+  date-added: '09/09/2019'
   url: https://clipper.website/
-  notes: "Save anything on the web to anywhere"
-- tool: "Lunch Money - A new budgeting tool"
+  notes: Save anything on the web to anywhere
+- tool: Lunch Money - A new budgeting tool
   date-added: 06/09/2019
   url: https://lunchmoney.cc/
-  notes: "Meet your biggest cheerleader in budgeting"
-- tool: "Zepel - The online project management tool for software teams"
+  notes: Meet your biggest cheerleader in budgeting
+- tool: Zepel - The online project management tool for software teams
   date-added: 06/09/2019
   url: https://zepel.io/
-  notes: "Zepel adapts to the way your software product team really works... So you can plan features, collaborate across disciplines and ship great software every time."
-- tool: "No Code List"
+  notes: Zepel adapts to the way your software product team really works... So you
+    can plan features, collaborate across disciplines and ship great software every
+    time.
+- tool: No Code List
   date-added: 19/08/2019
   url: https://x.workandwhistle.co/no-code-list/
-  notes: "A List of \"No Code\" Software"
-- tool: "Drafts. Where Text Starts."
+  notes: A List of "No Code" Software
+- tool: Drafts. Where Text Starts.
   date-added: 10/08/2019
   url: https://getdrafts.com/
-  notes: "Drafts lets you turn text into action – it’s a quick notebook, handy editor, and writing automation tool, all in one."
-- tool: "Retool – The fast way to build internal tools."
-  date-added: 09/08/2019
+  notes: Drafts lets you turn text into action – it’s a quick notebook, handy editor,
+    and writing automation tool, all in one.
+- tool: Retool – The fast way to build internal tools.
+  date-added: '09/08/2019'
   url: https://retool.com/
-  notes: "Custom internal tools have the same building blocks. Retool gives you those building blocks, so you can build tools much faster."
-- tool: "SeekWell"
-  date-added: 09/08/2019
+  notes: Custom internal tools have the same building blocks. Retool gives you those
+    building blocks, so you can build tools much faster.
+- tool: SeekWell
+  date-added: '09/08/2019'
   url: https://seekwell.io/
-  notes: "SeekWell helps data teams write SQL faster and automate dashboards in Google Sheets"
-- tool: "Kirby - The file-based content management system"
-  date-added: 08/08/2019
+  notes: SeekWell helps data teams write SQL faster and automate dashboards in Google
+    Sheets
+- tool: Kirby - The file-based content management system
+  date-added: '08/08/2019'
   url: https://getkirby.com/
-  notes: "Kirby is the content management system that adapts to your projects like no other"
-- tool: "API-based & Headless CMS as a Service - Storyblok"
-  date-added: 08/08/2019
+  notes: Kirby is the content management system that adapts to your projects like
+    no other
+- tool: API-based & Headless CMS as a Service - Storyblok
+  date-added: '08/08/2019'
   url: https://www.storyblok.com/
-  notes: "The Only Headless CMS with a Visual Editor"
-- tool: "Really Simple Store"
+  notes: The Only Headless CMS with a Visual Editor
+- tool: Really Simple Store
   date-added: 01/08/2019
   url: https://reallysimplestore.com/
-  notes: "Use Really Simple Store products with almost any website platform- including custom built websites. Or use the store that comes out of the box. Or both. Run everything from Really Simple Store's no-code backend"
-- tool: "Makepad"
+  notes: Use Really Simple Store products with almost any website platform- including
+    custom built websites. Or use the store that comes out of the box. Or both. Run
+    everything from Really Simple Store's no-code backend
+- tool: Makepad
   date-added: 28/07/2019
   url: https://makepad.live/
-  notes: "Makepad is designed and created for individuals looking to organise projects with a productivity tool that doesn't cost the earth to use."
-- tool: "Summarize"
+  notes: Makepad is designed and created for individuals looking to organise projects
+    with a productivity tool that doesn't cost the earth to use.
+- tool: Summarize
   date-added: 17/07/2019
   url: https://www.producthunt.com/posts/summarize
-  notes: "Remember the books you read through organized notes"
-- tool: "Stein"
+  notes: Remember the books you read through organized notes
+- tool: Stein
   date-added: 17/07/2019
   url: https://steinhq.com/
-  notes: "Ship fast and manage your data with ease. Connect to Google Sheets. Use Google Sheets as your no-setup data store. Build fast and get a familiar interface for managing the data, with the open source Stein."
-- tool: "ImportDoc"
+  notes: Ship fast and manage your data with ease. Connect to Google Sheets. Use Google
+    Sheets as your no-setup data store. Build fast and get a familiar interface for
+    managing the data, with the open source Stein.
+- tool: ImportDoc
   date-added: 15/07/2019
   url: https://importdoc.com/
-  notes: "Use the content of a Google Doc in any web page"
-- tool: "Nuclino"
+  notes: Use the content of a Google Doc in any web page
+- tool: Nuclino
   date-added: 10/07/2019
   url: https://www.nuclino.com/
-  notes: "Nuclino brings all your team's knowledge, docs, and projects together in one place."
-- tool: "TodoX"
+  notes: Nuclino brings all your team's knowledge, docs, and projects together in
+    one place.
+- tool: TodoX
   date-added: 31/05/2019
   url: https://todox.app/
-  notes: "TodoX is a simple and straightforward personal task manager, a mix of classic TODO list with Trello-like boards"
-- tool: "Glide – Amazing apps from Google Sheets"
+  notes: TodoX is a simple and straightforward personal task manager, a mix of classic
+    TODO list with Trello-like boards
+- tool: Glide – Amazing apps from Google Sheets
   date-added: 31/05/2019
   url: https://www.glideapps.com/
-  notes: "Create an app from a Google Sheet in 5 minutes, for free"
-- tool: "Focused, beautiful & free blogging – Proseful"
+  notes: Create an app from a Google Sheet in 5 minutes, for free
+- tool: Focused, beautiful & free blogging – Proseful
   date-added: 18/05/2019
   url: https://proseful.com/
-  notes: "Focused, beautiful & free blogging"
-- tool: "Platoforms"
+  notes: Focused, beautiful & free blogging
+- tool: Platoforms
   date-added: 12/05/2019
   url: https://www.platoforms.com/
-  notes: "Convert PDF to Web Form, Best Way to Fill and Distribute Your PDF"
-- tool: "Brandfetch | Design API"
+  notes: Convert PDF to Web Form, Best Way to Fill and Distribute Your PDF
+- tool: Brandfetch | Design API
   date-added: 07/05/2019
   url: https://www.brandfetch.io/
-  notes: "Connect & engage by creating tailor-made experiences using our easy-to-use Design API"
-- tool: "Kollate – The best bookmarking and note-taking app."
+  notes: Connect & engage by creating tailor-made experiences using our easy-to-use
+    Design API
+- tool: Kollate – The best bookmarking and note-taking app.
   date-added: 02/05/2019
   url: https://kollate.io/
-  notes: "Kollate is a personal knowledge management tool which allows you to bookmark links and write beautiful notes."
-- tool: "1MB"
+  notes: Kollate is a personal knowledge management tool which allows you to bookmark
+    links and write beautiful notes.
+- tool: 1MB
   date-added: 28/04/2019
   url: https://1mb.site/
-  notes: "1MB is a free and easy static website host."
-- tool: "Cardbox • The first place to connect"
+  notes: 1MB is a free and easy static website host.
+- tool: Cardbox • The first place to connect
   date-added: 26/04/2019
   url: https://cardbox.app/
-  notes: "Cardbox reimagines the address book as a social network—in the purest sense. Connect and stay connected in a central place, without all the noise."
-- tool: "mockit · An open source tool to mock endpoints"
+  notes: Cardbox reimagines the address book as a social network—in the purest sense.
+    Connect and stay connected in a central place, without all the noise.
+- tool: mockit · An open source tool to mock endpoints
   date-added: 26/04/2019
   url: https://mockit.netlify.com/
-  notes: "An open source tool to mock endpoints"
-- tool: "OpenShot Video Editor"
+  notes: An open source tool to mock endpoints
+- tool: OpenShot Video Editor
   date-added: 23/04/2019
   url: https://www.openshot.org/
-  notes: "We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor"
-- tool: "Spider - a smart point&click web scraping tool"
+  notes: We designed OpenShot Video Editor to be an easy to use, quick to learn, and
+    surprisingly powerful video editor
+- tool: Spider - a smart point&click web scraping tool
   date-added: 18/04/2019
   url: https://spider.amie-chen.com/
-  notes: "Turn websites into organized data without coding"
-- tool: "Typora — a markdown editor, markdown reader."
+  notes: Turn websites into organized data without coding
+- tool: Typora — a markdown editor, markdown reader.
   date-added: 15/04/2019
   url: https://typora.io/
-  notes: ""
-- tool: "The foundation for your cloud-powered mobile & web apps"
+  notes: ''
+- tool: The foundation for your cloud-powered mobile & web apps
   date-added: 15/04/2019
   url: https://aws-amplify.github.io/
-  notes: "Amplify your apps. Build on a flexible, scalable, and reliable serverless backend."
-- tool: "CodeX Editor"
+  notes: Amplify your apps. Build on a flexible, scalable, and reliable serverless
+    backend.
+- tool: CodeX Editor
   date-added: 02/04/2019
   url: https://codex.so/editor
-  notes: "Block style visual editor for beautiful pages"
-- tool: "Transfer Playlists Between Music Services! 100% free"
+  notes: Block style visual editor for beautiful pages
+- tool: Transfer Playlists Between Music Services! 100% free
   date-added: 25/03/2019
   url: https://www.tunemymusic.com/
-  notes: "Transfer your music library from any music service to any other you want! Supports Spotify, TIDAL, Apple Music, YouTube and many more"
-- tool: "Mercury Web Parser by Postlight"
+  notes: Transfer your music library from any music service to any other you want!
+    Supports Spotify, TIDAL, Apple Music, YouTube and many more
+- tool: Mercury Web Parser by Postlight
   date-added: 22/03/2019
   url: https://mercury.postlight.com/web-parser/
-  notes: "Make semantic sense out of any web article. Mercury Web Parser turns web articles into structured content reliably and easily."
-- tool: "The Ruby on Rails SaaS Template | Bullet Train"
+  notes: Make semantic sense out of any web article. Mercury Web Parser turns web
+    articles into structured content reliably and easily.
+- tool: The Ruby on Rails SaaS Template | Bullet Train
   date-added: 19/03/2019
   url: https://bullettrain.co/
-  notes: "Bullet Train saves you weeks of development by starting you off with all the features that are the same in every SaaS, so you can focus on what makes your app unique."
-- tool: "ApproveAPI - Provide real-time user approval and secondary verifications for any workflow via email, SMS, and mobile push."
+  notes: Bullet Train saves you weeks of development by starting you off with all
+    the features that are the same in every SaaS, so you can focus on what makes your
+    app unique.
+- tool: ApproveAPI - Provide real-time user approval and secondary verifications for
+    any workflow via email, SMS, and mobile push.
   date-added: 15/03/2019
   url: https://approveapi.com/
-  notes: "A simple API to request a user's real-time approval on anything via email, sms + mobile push."
-- tool: "Stuff - Invitations to private and public events"
+  notes: A simple API to request a user's real-time approval on anything via email,
+    sms + mobile push.
+- tool: Stuff - Invitations to private and public events
   date-added: 15/03/2019
   url: https://stuff.li/en
-  notes: "Create awesome invitations to small and large events."
-- tool: "Architect serverless framework"
+  notes: Create awesome invitations to small and large events.
+- tool: Architect serverless framework
   date-added: 21/02/2019
   url: https://arc.codes/
-  notes: "The simplest, most powerful way to build serverless applications"
-- tool: "cloudquery"
+  notes: The simplest, most powerful way to build serverless applications
+- tool: cloudquery
   date-added: 21/02/2019
   url: https://github.com/t9tio/cloudquery
-  notes: "Turn any website to serverless API (support SPA!)"
-- tool: "Flatfile | Import CSV files to any web app"
+  notes: Turn any website to serverless API (support SPA!)
+- tool: Flatfile | Import CSV files to any web app
   date-added: 21/02/2019
   url: https://flatfile.io/
-  notes: "The new standard for data import. Giving your customers a good data import experience shouldn't require weeks of engineering and design work. Built for developers with a turnkey JavaScript API."
-- tool: "Marp"
+  notes: The new standard for data import. Giving your customers a good data import
+    experience shouldn't require weeks of engineering and design work. Built for developers
+    with a turnkey JavaScript API.
+- tool: Marp
   date-added: 20/02/2019
   url: https://yhatt.github.io/marp/
-  notes: "Markdown Presentation Writer"
-- tool: "HelloPDF"
+  notes: Markdown Presentation Writer
+- tool: HelloPDF
   date-added: 14/02/2019
   url: https://hellopdf.co/
-  notes: "Simple and Modern Web to pdf converter for developers"
-- tool: "Tokimeki Unfollow ✨"
+  notes: Simple and Modern Web to pdf converter for developers
+- tool: Tokimeki Unfollow ✨
   date-added: 12/02/2019
   url: https://tokimeki-unfollow.glitch.me/
-  notes: "Do you think your feed sucks because you follow too many accounts? You're in the right place!"
-- tool: "Cardigan: Delete old Tweets"
+  notes: Do you think your feed sucks because you follow too many accounts? You're
+    in the right place!
+- tool: 'Cardigan: Delete old Tweets'
   date-added: 12/02/2019
   url: https://www.gocardigan.com/
-  notes: "Cardigan helps you find and delete old tweets and likes."
-- tool: "Note-taking App with Robust Markdown Editor - Inkdrop"
+  notes: Cardigan helps you find and delete old tweets and likes.
+- tool: Note-taking App with Robust Markdown Editor - Inkdrop
   date-added: 11/02/2019
   url: https://inkdrop.app/
-  notes: "Jot down your daily hacking endeavors. The Note-Taking App for Markdown Lovers"
-- tool: "My Brand New Logo – logo maker"
-  date-added: 08/02/2019
+  notes: Jot down your daily hacking endeavors. The Note-Taking App for Markdown Lovers
+- tool: My Brand New Logo – logo maker
+  date-added: '08/02/2019'
   url: https://mybrandnewlogo.com/
-  notes: "A professional design for everyone"
-- tool: "Sheety"
+  notes: A professional design for everyone
+- tool: Sheety
   date-added: 04/02/2019
   url: https://sheety.co/
-  notes: "Turn any Google sheet into an API instantly, for free."
-- tool: "Getform"
+  notes: Turn any Google sheet into an API instantly, for free.
+- tool: Getform
   date-added: 01/02/2019
   url: https://getform.io/
-  notes: "Easy form endpoints. Form backend platform for designers  and developers"
-- tool: "Key Passages"
+  notes: Easy form endpoints. Form backend platform for designers  and developers
+- tool: Key Passages
   date-added: 15/01/2019
   url: https://keypassages.shoalsoft.ltd/
-  notes: "Physical books. Digital notes."
-- tool: "Gitpod - Code Now!"
+  notes: Physical books. Digital notes.
+- tool: Gitpod - Code Now!
   date-added: 14/01/2019
   url: https://www.gitpod.io/
-  notes: "One-Click Online IDE for GitHub and other code hosting platforms."
-- tool: "Software For Projects"
+  notes: One-Click Online IDE for GitHub and other code hosting platforms.
+- tool: Software For Projects
   date-added: 10/01/2019
   url: https://softwareforprojects.com/
-  notes: "Find the project & task management software to suit your business."
-- tool: "API Marketplace - Free Public & Open Rest APIs"
+  notes: Find the project & task management software to suit your business.
+- tool: API Marketplace - Free Public & Open Rest APIs
   date-added: 10/01/2019
   url: https://english.api.rakuten.net/
-  notes: "Discover and connect to thousands of APIs in the world's largest API Hub"
-- tool: "Wireframing Tool for Professionals"
+  notes: Discover and connect to thousands of APIs in the world's largest API Hub
+- tool: Wireframing Tool for Professionals
   date-added: 10/01/2019
   url: https://wireframesketcher.com/
-  notes: "WireframeSketcher is a wireframing tool that helps designers, developers and product managers"
-- tool: "Bootstrap Shuffle"
-  date-added: 09/01/2019
+  notes: WireframeSketcher is a wireframing tool that helps designers, developers
+    and product managers
+- tool: Bootstrap Shuffle
+  date-added: '09/01/2019'
   url: https://bootstrapshuffle.com/
-  notes: "Bootstrap builder for busy developers"
-- tool: "POLAR - Easily manage your reading including PDFs, web content, and notes."
-  date-added: 09/01/2019
+  notes: Bootstrap builder for busy developers
+- tool: POLAR - Easily manage your reading including PDFs, web content, and notes.
+  date-added: '09/01/2019'
   url: https://getpolarized.io/
-  notes: "A powerful document manager for Mac, Windows, and Linux for managing web content, books, and notes and supports tagging, annotation, highlighting and keeps track of your reading progress."
-- tool: "rrweb.io"
+  notes: A powerful document manager for Mac, Windows, and Linux for managing web
+    content, books, and notes and supports tagging, annotation, highlighting and keeps
+    track of your reading progress.
+- tool: rrweb.io
   date-added: 05/01/2019
   url: https://www.rrweb.io/
-  notes: "rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely."
-- tool: "Jekyll without plugins"
+  notes: rrweb is an open source web session replay library, which provides easy-to-use
+    APIs to record user's interactions and replay it remotely.
+- tool: Jekyll without plugins
   date-added: 04/01/2019
   url: https://jekyllcodex.org/without-plugins/
-  notes: "Plugin-free solutions: Jekyll plugins can alter the way the HTML is generated, but most functionalities do not require that."
-- tool: "Ceev"
+  notes: 'Plugin-free solutions: Jekyll plugins can alter the way the HTML is generated,
+    but most functionalities do not require that.'
+- tool: Ceev
   date-added: 03/01/2019
   url: https://ceev.io/
-  notes: "Ceev gives you the tools you need to get the job you deserve. Design a resume, create an online portfolio, find a job."
-- tool: "Graphite"
+  notes: Ceev gives you the tools you need to get the job you deserve. Design a resume,
+    create an online portfolio, find a job.
+- tool: Graphite
   date-added: 03/01/2019
   url: https://www.graphitedocs.com/
-  notes: "Work anywhere without worrying about your data. All your work, files, and messages—encrypted, shareable, decentralized"
-- tool: "Milanote"
+  notes: Work anywhere without worrying about your data. All your work, files, and
+    messages—encrypted, shareable, decentralized
+- tool: Milanote
   date-added: 03/01/2019
   url: https://www.milanote.com/
-  notes: "Imagine the possibilities. Milanote is a tool for planning creative projects."
-- tool: "Real World Data in Real Time API"
+  notes: Imagine the possibilities. Milanote is a tool for planning creative projects.
+- tool: Real World Data in Real Time API
   date-added: 03/01/2019
   url: https://www.hooksdata.io/
-  notes: "Real World Data in Real Time API. Get updates about thousands of topics in a single API."
-- tool: "PaperCSS"
+  notes: Real World Data in Real Time API. Get updates about thousands of topics in
+    a single API.
+- tool: PaperCSS
   date-added: 03/01/2019
   url: https://www.getpapercss.com/
-  notes: "The less formal CSS framework."
-- tool: "Bruck"
+  notes: The less formal CSS framework.
+- tool: Bruck
   date-added: 20/12/2018
   url: https://github.com/Heydon/bruck
-  notes: "A prototyping system built with web components and the Houdini Paint API"
-- tool: "Promomatic"
+  notes: A prototyping system built with web components and the Houdini Paint API
+- tool: Promomatic
   date-added: 14/12/2018
   url: https://www.promomatic.com/
-  notes: "Easily create beautiful app store assets"
-- tool: "Zipsell"
+  notes: Easily create beautiful app store assets
+- tool: Zipsell
   date-added: 14/12/2018
   url: https://www.zipsell.org/
-  notes: "Zipsell is a free, open source and self-hosted platform for selling digital downloads like ebooks"
-- tool: "Smart websites at your service"
+  notes: Zipsell is a free, open source and self-hosted platform for selling digital
+    downloads like ebooks
+- tool: Smart websites at your service
   date-added: 14/12/2018
   url: https://www.b12.io/
-  notes: "Grow your business with an AI-built website"
-- tool: "Journal - Save ideas, Write notes, Get organized."
+  notes: Grow your business with an AI-built website
+- tool: Journal - Save ideas, Write notes, Get organized.
   date-added: 07/12/2018
   url: https://usejournal.com/
-  notes: "Whether you're researching competition, planning a trip, or just want to remember something later - Journal keeps your ideas organized."
-- tool: "Introducing asdfasdf.co"
+  notes: Whether you're researching competition, planning a trip, or just want to
+    remember something later - Journal keeps your ideas organized.
+- tool: Introducing asdfasdf.co
   date-added: 07/12/2018
   url: https://blog.usejournal.com/introducing-asdfasdf-co-emails-from-the-internets-gibberish-form-fills-52aad86af33a
-  notes: "A public wildcard email address. All emails sent to any of these domains will appear in the list in 30 seconds or less."
-- tool: "Bubbl.us - brainstorm and mind map online"
+  notes: A public wildcard email address. All emails sent to any of these domains
+    will appear in the list in 30 seconds or less.
+- tool: Bubbl.us - brainstorm and mind map online
   date-added: 03/12/2018
   url: https://bubbl.us/
-  notes: "Brainstorming made simple"
-- tool: "Sitejet.io - Design Better Websites. Faster."
+  notes: Brainstorming made simple
+- tool: Sitejet.io - Design Better Websites. Faster.
   date-added: 22/11/2018
   url: https://www.sitejet.io/en
-  notes: "Sitejet helps you to be more successful through a more efficient CMS, automation and project management."
-- tool: "You Don't Need WordPress"
+  notes: Sitejet helps you to be more successful through a more efficient CMS, automation
+    and project management.
+- tool: You Don't Need WordPress
   date-added: 22/11/2018
   url: https://www.youdontneedwp.com/
-  notes: "You Don't Need WordPress. Create A Blog With Only Google Docs"
-- tool: "Simple Diagrams"
+  notes: You Don't Need WordPress. Create A Blog With Only Google Docs
+- tool: Simple Diagrams
   date-added: 21/11/2018
   url: https://www.simplediagrams.com/
-  notes: "A desktop app for creating fast, clear sketches of problems, processes, workflows, ideas and more!"
-- tool: "A Better CMS - TakeShape, a Headless GraphQL CMS"
+  notes: A desktop app for creating fast, clear sketches of problems, processes, workflows,
+    ideas and more!
+- tool: A Better CMS - TakeShape, a Headless GraphQL CMS
   date-added: 20/11/2018
   url: https://www.takeshape.io/
-  notes: "A stress-free Headless CMS, GraphQL API, and Static Site Generator to help you get your projects done."
-- tool: "everyday | Habit tracker to help you form good habits"
+  notes: A stress-free Headless CMS, GraphQL API, and Static Site Generator to help
+    you get your projects done.
+- tool: everyday | Habit tracker to help you form good habits
   date-added: 20/11/2018
   url: https://everyday.app/
-  notes: "Every day, it gets a little easier. But you gotta do it every day, that's the hard part."
-- tool: "Write Freely"
+  notes: Every day, it gets a little easier. But you gotta do it every day, that's
+    the hard part.
+- tool: Write Freely
   date-added: 16/11/2018
   url: https://writefreely.org/
-  notes: "Write Freely is free and open source software for starting a minimalist, federated blog — or an entire community."
-- tool: "Write.as — Distraction-free blogging and writing platform"
+  notes: Write Freely is free and open source software for starting a minimalist,
+    federated blog — or an entire community.
+- tool: Write.as — Distraction-free blogging and writing platform
   date-added: 16/11/2018
   url: https://write.as/
-  notes: "Minimalist, privacy-focused, writing and publishing platform"
-- tool: "CommentBox.io"
+  notes: Minimalist, privacy-focused, writing and publishing platform
+- tool: CommentBox.io
   date-added: 15/11/2018
   url: https://commentbox.io/
-  notes: "No ads. No Tracking. Just Comments. Hosted commenting that's painless to embed, a pleasure to use, and a breeze to moderate."
-- tool: "grid.studio"
+  notes: No ads. No Tracking. Just Comments. Hosted commenting that's painless to
+    embed, a pleasure to use, and a breeze to moderate.
+- tool: grid.studio
   date-added: 13/11/2018
   url: https://grid.studio/grid-studio
-  notes: "Progressive websites with simple drag'n'drop"
-- tool: "GraphJS"
+  notes: Progressive websites with simple drag'n'drop
+- tool: GraphJS
   date-added: 11/11/2018
   url: https://graphjs.com/
-  notes: "Make any website social with just a few lines of code."
-- tool: "Millow"
+  notes: Make any website social with just a few lines of code.
+- tool: Millow
   date-added: 10/11/2018
   url: https://millow.app/
-  notes: "Millow helps you stay connected with friends you care about. Never go too long without catching up again."
-- tool: "Good, Cheap and Fast - Spend Less Time and Money Shopping"
+  notes: Millow helps you stay connected with friends you care about. Never go too
+    long without catching up again.
+- tool: Good, Cheap and Fast - Spend Less Time and Money Shopping
   date-added: 10/11/2018
   url: https://www.goodcheapandfast.com/
-  notes: "I find products with tons of positive reviews, then I scrub away the fake ones. Then, I remove the products with above-average prices."
-- tool: "Personal CRM done right - Monica"
+  notes: I find products with tons of positive reviews, then I scrub away the fake
+    ones. Then, I remove the products with above-average prices.
+- tool: Personal CRM done right - Monica
   date-added: 03/11/2018
   url: https://www.monicahq.com/
-  notes: "Open source personal CRM. Monica helps you organize the social interactions with your loved ones."
-- tool: "Micro.blog"
+  notes: Open source personal CRM. Monica helps you organize the social interactions
+    with your loved ones.
+- tool: Micro.blog
   date-added: 03/11/2018
   url: https://micro.blog/
-  notes: "Micro.blog is a blog hosting platform with a safe community for microblogs. A timeline to follow friends and discover new posts. Easy posting to your own site."
-- tool: "WunderMail for Gmail - Your native mail client for Windows 10"
+  notes: Micro.blog is a blog hosting platform with a safe community for microblogs.
+    A timeline to follow friends and discover new posts. Easy posting to your own
+    site.
+- tool: WunderMail for Gmail - Your native mail client for Windows 10
   date-added: 26/10/2018
   url: https://wundermail.app/
-  notes: "WunderMail for Gmail. Makes Gmail Wonderful."
-- tool: "Extract structured data from any website"
+  notes: WunderMail for Gmail. Makes Gmail Wonderful.
+- tool: Extract structured data from any website
   date-added: 14/10/2018
   url: https://microlink.io/
-  notes: "Microlink is a powerful API for developers with top notch tecnologies of the industry."
-- tool: "Mixnode"
+  notes: Microlink is a powerful API for developers with top notch tecnologies of
+    the industry.
+- tool: Mixnode
   date-added: 13/10/2018
   url: https://www.mixnode.com/
-  notes: "Turn the web into a database. A fast, flexible and massively scalable platform to extract and analyze data from the web"
-- tool: "Async: Team communication for engineers to achieve deep work."
+  notes: Turn the web into a database. A fast, flexible and massively scalable platform
+    to extract and analyze data from the web
+- tool: 'Async: Team communication for engineers to achieve deep work.'
   date-added: 04/10/2018
   url: https://async-await.com/
-  notes: "Async is a one-of-a-kind communication and project management tool for small teams of software engineers"
-- tool: "Open source SaaS boilerplate"
+  notes: Async is a one-of-a-kind communication and project management tool for small
+    teams of software engineers
+- tool: Open source SaaS boilerplate
   date-added: 29/09/2018
   url: https://async-await.com/open-source
-  notes: "SaaS boilerplate - build your own SaaS business in no time"
-- tool: "Unicorn Platform"
+  notes: SaaS boilerplate - build your own SaaS business in no time
+- tool: Unicorn Platform
   date-added: 28/09/2018
   url: https://unicornplatform.com/
-  notes: "Unicorn Platform is a modern static landing page generator for startups"
-- tool: "Tools of The Trade, from Hacker News."
+  notes: Unicorn Platform is a modern static landing page generator for startups
+- tool: Tools of The Trade, from Hacker News.
   date-added: 14/09/2018
   url: https://github.com/cjbarber/ToolsOfTheTrade
-  notes: "Hacker News Tools of the Trade "
-- tool: "rwtxt"
+  notes: 'Hacker News Tools of the Trade '
+- tool: rwtxt
   date-added: 14/09/2018
   url: https://rwtxt.com/public
-  notes: "This is rwtxt, a space for reading and writing text which you can useas a blog, a pastebin, or a notepad."
-- tool: "Workorder"
+  notes: This is rwtxt, a space for reading and writing text which you can useas a
+    blog, a pastebin, or a notepad.
+- tool: Workorder
   date-added: 07/09/2018
   url: https://workorder.io/
-  notes: "Create an Ordering + Checkout Page For Your Services"
-- tool: "Select Star SQL"
+  notes: Create an Ordering + Checkout Page For Your Services
+- tool: Select Star SQL
   date-added: 04/09/2018
   url: https://selectstarsql.com/
-  notes: "This is an interactive book which aims to be the best place on the internet for learning SQL. It is free of charge, free of ads and doesn't require registration or downloads. "
-- tool: "Free Conference Calls"
+  notes: 'This is an interactive book which aims to be the best place on the internet
+    for learning SQL. It is free of charge, free of ads and doesn''t require registration
+    or downloads. '
+- tool: Free Conference Calls
   date-added: 03/09/2018
   url: https://www.uberconference.com/
-  notes: "Conferencing made easy. UberConference provides everything you need for effective meetings, minus all the stuff you don't."
-- tool: "Knack - Online database software made easy"
+  notes: Conferencing made easy. UberConference provides everything you need for effective
+    meetings, minus all the stuff you don't.
+- tool: Knack - Online database software made easy
   date-added: 03/09/2018
   url: https://www.knack.com/
-  notes: "At its core Knack is an easy online database"
-- tool: "OneGraph"
+  notes: At its core Knack is an easy online database
+- tool: OneGraph
   date-added: 01/09/2018
   url: https://www.onegraph.com/
-  notes: "Build robust integrations 10x to 100x faster. Connect Stripe, Salesforce, Zendesk, Twitter, GitHub, and more through the power of GraphQL"
-- tool: "OpenPhone - Small Business Phone System"
+  notes: Build robust integrations 10x to 100x faster. Connect Stripe, Salesforce,
+    Zendesk, Twitter, GitHub, and more through the power of GraphQL
+- tool: OpenPhone - Small Business Phone System
   date-added: 01/09/2018
   url: https://www.openphone.co/
-  notes: "Get your business phone number, instantly. "
-- tool: "RSSHub"
+  notes: 'Get your business phone number, instantly. '
+- tool: RSSHub
   date-added: 28/08/2018
   url: https://docs.rsshub.app/en/#special-thanks
-  notes: "RSSHub is a lightweight and extensible RSS feed aggregator, it's able to generate feeds from pretty much everything"
-- tool: "Stylus Labs"
+  notes: RSSHub is a lightweight and extensible RSS feed aggregator, it's able to
+    generate feeds from pretty much everything
+- tool: Stylus Labs
   date-added: 28/08/2018
   url: http://www.styluslabs.com/
-  notes: "A word processor for handwriting"
-- tool: "Pandoc - About pandoc"
+  notes: A word processor for handwriting
+- tool: Pandoc - About pandoc
   date-added: 28/08/2018
   url: https://pandoc.org/
-  notes: "If you need to convert files from one markup format into another, pandoc is your swiss-army knife"
-- tool: "Zube | Agile project management with a seamless GitHub integration"
+  notes: If you need to convert files from one markup format into another, pandoc
+    is your swiss-army knife
+- tool: Zube | Agile project management with a seamless GitHub integration
   date-added: 22/08/2018
   url: https://zube.io/
-  notes: "Product and developer collaboration, solved. Zube lets the product team work alongside the developers. Featuring an outstanding integration with GitHub Issues."
-- tool: "CodeSandbox: Online Code Editor Tailored for Web Application Development"
+  notes: Product and developer collaboration, solved. Zube lets the product team work
+    alongside the developers. Featuring an outstanding integration with GitHub Issues.
+- tool: 'CodeSandbox: Online Code Editor Tailored for Web Application Development'
   date-added: 22/08/2018
   url: https://codesandbox.io/
-  notes: "The online code editor for the web"
-- tool: "electron/fiddle: 🚀 The easiest way to get started with Electron"
+  notes: The online code editor for the web
+- tool: "electron/fiddle: \U0001F680 The easiest way to get started with Electron"
   date-added: 17/08/2018
   url: https://github.com/electron/fiddle
-  notes: "Electron Fiddle lets you create and play with small Electron experiments."
-- tool: "Retool"
-  date-added: 09/08/2018
+  notes: Electron Fiddle lets you create and play with small Electron experiments.
+- tool: Retool
+  date-added: '09/08/2018'
   url: https://tryretool.com/
-  notes: "Custom internal tools have the same building blocks. Retool gives you those building blocks, so you can build them much faster."
-- tool: "txxt - sms notepad"
+  notes: Custom internal tools have the same building blocks. Retool gives you those
+    building blocks, so you can build them much faster.
+- tool: txxt - sms notepad
   date-added: 04/08/2018
   url: https://txxt.app/
-  notes: "write notes as text messages & view them on the web"
-- tool: "Standups — Supercharged video standups for teams"
+  notes: write notes as text messages & view them on the web
+- tool: Standups — Supercharged video standups for teams
   date-added: 04/08/2018
   url: https://standups.io/
-  notes: "Supercharged video standups for teams. Get teams to engage better by helping them make regular video check-ins from any timezone in the world"
-- tool: "FYI - Search and organize all your documents in one place"
+  notes: Supercharged video standups for teams. Get teams to engage better by helping
+    them make regular video check-ins from any timezone in the world
+- tool: FYI - Search and organize all your documents in one place
   date-added: 31/07/2018
   url: https://usefyi.com/
-  notes: "Search and organize all your documents in one place"
-- tool: "newCo"
+  notes: Search and organize all your documents in one place
+- tool: newCo
   date-added: 30/07/2018
   url: https://www.newco.app/
-  notes: "Learn to build a side project and features, without code"
-- tool: "μPad"
+  notes: Learn to build a side project and features, without code
+- tool: μPad
   date-added: 27/07/2018
   url: https://getmicropad.com/
-  notes: "A powerful note-taking app that respects your freedoms and runs on everything"
-- tool: "Second Passport/Dual Citizenship Information - Visa Requirements, Comparisons, Best second nationality/passport"
+  notes: A powerful note-taking app that respects your freedoms and runs on everything
+- tool: Second Passport/Dual Citizenship Information - Visa Requirements, Comparisons,
+    Best second nationality/passport
   date-added: 27/07/2018
   url: http://multinational.io/
-  notes: "Find out the best second passport for you"
-- tool: "Figma: the collaborative interface design tool."
+  notes: Find out the best second passport for you
+- tool: 'Figma: the collaborative interface design tool.'
   date-added: 27/07/2018
   url: https://www.figma.com/
-  notes: "Turn Ideas Into Products Faster. Design, prototype, and gather feedback all in one place with Figma."
-- tool: "Zulip"
+  notes: Turn Ideas Into Products Faster. Design, prototype, and gather feedback all
+    in one place with Figma.
+- tool: Zulip
   date-added: 27/07/2018
   url: https://zulipchat.com/
-  notes: "The world’s most productive group chat. Zulip combines the immediacy of Slack with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones."
-- tool: "Slab - Your Team's Long Term Memory"
+  notes: The world’s most productive group chat. Zulip combines the immediacy of Slack
+    with an email threading model. With Zulip, you can catch up on important conversations
+    while ignoring irrelevant ones.
+- tool: Slab - Your Team's Long Term Memory
   date-added: 25/07/2018
   url: https://slab.com/
-  notes: "Your team's long-term memory. Capture, retain, and share your team's knowledge and expertise."
-- tool: "Plasso – Storefront"
+  notes: Your team's long-term memory. Capture, retain, and share your team's knowledge
+    and expertise.
+- tool: Plasso – Storefront
   date-added: 20/07/2018
   url: https://plasso.com/storefront
-  notes: "Accept payments and sell anything. Powerful and easy product sales. Sell subscriptions, physical and digital goods, charge for services, accept donations, sell pre-orders and more. Storefront makes it all too easy."
-- tool: "Announcing idyll.pub"
+  notes: Accept payments and sell anything. Powerful and easy product sales. Sell
+    subscriptions, physical and digital goods, charge for services, accept donations,
+    sell pre-orders and more. Storefront makes it all too easy.
+- tool: Announcing idyll.pub
   date-added: 19/07/2018
   url: https://idyll.pub/post/announcing-idyll-pub-0a3eff0661df3446a915700d/
-  notes: "Publish interactive blog posts and explorable explanations with Idyll's free hosting service."
-- tool: "Navigate your web - Gurn"
+  notes: Publish interactive blog posts and explorable explanations with Idyll's free
+    hosting service.
+- tool: Navigate your web - Gurn
   date-added: 13/07/2018
   url: https://www.gurn.io/
-  notes: "Use words, not bookmarks. Getting to your documents, websites and tools should be this easy."
-- tool: "GraphCMS - The GraphQL Headless CMS"
+  notes: Use words, not bookmarks. Getting to your documents, websites and tools should
+    be this easy.
+- tool: GraphCMS - The GraphQL Headless CMS
   date-added: 04/07/2018
   url: https://graphcms.com/
-  notes: "Bring content to any platform. You build essential GraphQL content infrastructure for your digital products. We build a headless CMS for your content creators."
-- tool: "Material Dashboard"
+  notes: Bring content to any platform. You build essential GraphQL content infrastructure
+    for your digital products. We build a headless CMS for your content creators.
+- tool: Material Dashboard
   date-added: 29/06/2018
   url: https://github.com/creativetimofficial/material-dashboard
-  notes: "Material Dashboard - Open Source Bootstrap 4 Material Design Admin"
-- tool: "Strapdown.js - Instant and elegant Markdown documents"
+  notes: Material Dashboard - Open Source Bootstrap 4 Material Design Admin
+- tool: Strapdown.js - Instant and elegant Markdown documents
   date-added: 22/06/2018
   url: http://strapdownjs.com/
-  notes: "Strapdown.js makes it embarrassingly simple to create elegant Markdown documents."
-- tool: "Devpen"
+  notes: Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.
+- tool: Devpen
   date-added: 22/06/2018
   url: https://devpen.io/
-  notes: "Markdown Editor with GitHub Style"
-- tool: "Blot"
+  notes: Markdown Editor with GitHub Style
+- tool: Blot
   date-added: 22/06/2018
   url: https://blot.im/
-  notes: "Blot is a blogging platform with no interface. It creates a special folder in your Dropbox and publishes files you put inside. The point of all this — the reason Blot exists — is so you can use your favorite tools to create whatever you publish."
-- tool: "Generate beautiful list sites from your spreadsheets in seconds"
+  notes: Blot is a blogging platform with no interface. It creates a special folder
+    in your Dropbox and publishes files you put inside. The point of all this — the
+    reason Blot exists — is so you can use your favorite tools to create whatever
+    you publish.
+- tool: Generate beautiful list sites from your spreadsheets in seconds
   date-added: 11/06/2018
   url: http://spreadsheet2site.com/
-  notes: "Turn your spreadsheet into a website. Generate beautiful list sites from your data "
-- tool: "Drag and Drop Mobile App Builder for iOS and Android"
+  notes: 'Turn your spreadsheet into a website. Generate beautiful list sites from
+    your data '
+- tool: Drag and Drop Mobile App Builder for iOS and Android
   date-added: 10/06/2018
   url: https://thunkable.com/#/
-  notes: "Build your own apps. Thunkable enables anyone to create beautiful and powerful apps."
-- tool: "Ionic Creator - Rapid Mobile App Builder"
+  notes: Build your own apps. Thunkable enables anyone to create beautiful and powerful
+    apps.
+- tool: Ionic Creator - Rapid Mobile App Builder
   date-added: 10/06/2018
   url: https://ionicframework.com/pro/creator
-  notes: "Build amazing mobile apps, faster.Creator is a simple drag-&-drop tool for going from  idea to App Store, with just the drag of a mouse."
-- tool: "repl.it - Online REPL, Compiler & IDE"
+  notes: Build amazing mobile apps, faster.Creator is a simple drag-&-drop tool for
+    going from  idea to App Store, with just the drag of a mouse.
+- tool: repl.it - Online REPL, Compiler & IDE
   date-added: 10/06/2018
   url: https://repl.it
-  notes: ""
-- tool: "Get EarTrumpet - Microsoft Store"
+  notes: ''
+- tool: Get EarTrumpet - Microsoft Store
   date-added: 05/06/2018
   url: https://www.microsoft.com/en-ca/p/eartrumpet/9nblggh516xp?rtc=1
-  notes: "EarTrumpet is a volume control app for both classic and modern Windows applications."
-- tool: "Skaffolder - Create a fully working prototype within minutes"
+  notes: EarTrumpet is a volume control app for both classic and modern Windows applications.
+- tool: Skaffolder - Create a fully working prototype within minutes
   date-added: 05/06/2018
   url: https://www.skaffolder.com/
-  notes: "Create a working prototype within minutes. Fully customizable, multilanguage, high quality source code"
-- tool: "The Visual Workspace | Whimsical"
+  notes: Create a working prototype within minutes. Fully customizable, multilanguage,
+    high quality source code
+- tool: The Visual Workspace | Whimsical
   date-added: 31/05/2018
   url: https://whimsical.co/
-  notes: "Collaborate on your ideas visually. Lightning fast."
-- tool: "Checkout Page"
+  notes: Collaborate on your ideas visually. Lightning fast.
+- tool: Checkout Page
   date-added: 27/05/2018
   url: https://checkoutpage.co/
-  notes: "No-code checkout pages for Stripe Start selling anything online within minutes"
-- tool: "Screely - Generate Beautiful Images"
+  notes: No-code checkout pages for Stripe Start selling anything online within minutes
+- tool: Screely - Generate Beautiful Images
   date-added: 25/05/2018
   url: https://www.screely.com/
-  notes: "Screely instantly turns your screenshot or design into a beautiful image you can share anywhere. No Photoshop or Sketch templates necessary! "
-- tool: "Wired Elements"
+  notes: 'Screely instantly turns your screenshot or design into a beautiful image
+    you can share anywhere. No Photoshop or Sketch templates necessary! '
+- tool: Wired Elements
   date-added: 25/05/2018
   url: https://wiredjs.com/
-  notes: "A set of common UI elements with a hand-drawn, sketchy look. These can be used for wireframes, mockups, or just the fun hand-drawn look. "
-- tool: "bookclub"
+  notes: 'A set of common UI elements with a hand-drawn, sketchy look. These can be
+    used for wireframes, mockups, or just the fun hand-drawn look. '
+- tool: bookclub
   date-added: 17/05/2018
   url: https://bookclub.cool/
-  notes: "Build your digital bookshelf - Log and share the books you read."
-- tool: "Yatter - Save time on Social Media - Schedule Together"
+  notes: Build your digital bookshelf - Log and share the books you read.
+- tool: Yatter - Save time on Social Media - Schedule Together
   date-added: 15/05/2018
   url: https://yatter.social/
-  notes: "Yatter is the place to manage social media content, media and collaborations."
-- tool: "File Sync & Backup Software | GoodSync"
+  notes: Yatter is the place to manage social media content, media and collaborations.
+- tool: File Sync & Backup Software | GoodSync
   date-added: 10/05/2018
   url: https://www.goodsync.com/
-  notes: "Take the Hassle Out of File Backup & Synchronization"
-- tool: "Handwrytten: Automated handwritten notes"
-  date-added: 08/05/2018
+  notes: Take the Hassle Out of File Backup & Synchronization
+- tool: 'Handwrytten: Automated handwritten notes'
+  date-added: '08/05/2018'
   url: https://www.handwrytten.com/
-  notes: "Quality cards. Your words. In pen and ink"
-- tool: "npoint.io - JSON storage with schema validation"
+  notes: Quality cards. Your words. In pen and ink
+- tool: npoint.io - JSON storage with schema validation
   date-added: 07/05/2018
   url: https://www.npoint.io/
-  notes: "JSON storage bins that won't break your app"
-- tool: "beets: the music geek‘s media organizer"
+  notes: JSON storage bins that won't break your app
+- tool: 'beets: the music geek‘s media organizer'
   date-added: 04/05/2018
   url: http://beets.io/
-  notes: "Beets is the media library management system for obsessive-compulsive music geeks"
-- tool: "VS Code Can Do That?"
+  notes: Beets is the media library management system for obsessive-compulsive music
+    geeks
+- tool: VS Code Can Do That?
   date-added: 30/04/2018
   url: https://vscodecandothat.com/
-  notes: "All the best things about Visual Studio Code that nobody ever bothered to tell you"
-- tool: "HoneyMoney.io — personal finance tool for savers"
+  notes: All the best things about Visual Studio Code that nobody ever bothered to
+    tell you
+- tool: HoneyMoney.io — personal finance tool for savers
   date-added: 30/04/2018
   url: https://honeymoney.io/
-  notes: "Do You Want to Gain Total Control of Your Money? In an Easy and Relaxed Way?"
-- tool: "Umbrella Note"
+  notes: Do You Want to Gain Total Control of Your Money? In an Easy and Relaxed Way?
+- tool: Umbrella Note
   date-added: 20/04/2018
   url: https://umbrellanote.com/
-  notes: "A simple, beautiful and powerful open source application for writing and taking notes. "
-- tool: "QueryStorm"
+  notes: 'A simple, beautiful and powerful open source application for writing and
+    taking notes. '
+- tool: QueryStorm
   date-added: 16/04/2018
   url: https://www.querystorm.com/
-  notes: "Plug&play SQL and C# support for Excel"
-- tool: "Spoke · Employee request management software"
+  notes: Plug&play SQL and C# support for Excel
+- tool: Spoke · Employee request management software
   date-added: 06/04/2018
   url: https://www.askspoke.com/
-  notes: "The simpler, smarter way to manage workplace requests"
-- tool: "Mobile Forms Software and Data Collection App - Device Magic"
+  notes: The simpler, smarter way to manage workplace requests
+- tool: Mobile Forms Software and Data Collection App - Device Magic
   date-added: 06/04/2018
   url: https://www.devicemagic.com/#homePage
-  notes: "Mobile Forms Software & Data Collection App Ditch Paperwork • Automate Your Processes • Move to Mobile Forms"
-- tool: "Hotspot Shield – Free VPN for Secure, Private, and Unrestricted Internet Access"
+  notes: Mobile Forms Software & Data Collection App Ditch Paperwork • Automate Your
+    Processes • Move to Mobile Forms
+- tool: Hotspot Shield – Free VPN for Secure, Private, and Unrestricted Internet Access
   date-added: 06/04/2018
   url: https://www.hotspotshield.com/
-  notes: "500 million users access the Internet securely through Hotspot Shield"
-- tool: "Storyboarder - The best and easiest way to storyboard"
+  notes: 500 million users access the Internet securely through Hotspot Shield
+- tool: Storyboarder - The best and easiest way to storyboard
   date-added: 03/04/2018
   url: https://wonderunit.com/storyboarder/
-  notes: "Storyboarder makes it easy to visualize a story as fast you can draw stick figures"
-- tool: "PartsTech - Your Auto Parts Search Engine"
+  notes: Storyboarder makes it easy to visualize a story as fast you can draw stick
+    figures
+- tool: PartsTech - Your Auto Parts Search Engine
   date-added: 28/03/2018
   url: https://www.partstech.com/
-  notes: "PartsTech is an auto parts search engine and ordering system designed to help you find the right parts for the job in a single search."
-- tool: "Shop-Ware | Paperless Auto Shop Management Software. In the Cloud."
+  notes: PartsTech is an auto parts search engine and ordering system designed to
+    help you find the right parts for the job in a single search.
+- tool: Shop-Ware | Paperless Auto Shop Management Software. In the Cloud.
   date-added: 28/03/2018
   url: https://www.shop-ware.com/
-  notes: "Shop-Ware delivers innovative shop management software"
-- tool: "Free tools to take control of your finances"
+  notes: Shop-Ware delivers innovative shop management software
+- tool: Free tools to take control of your finances
   date-added: 25/03/2018
   url: https://www.financialtoolbelt.com/
-  notes: ""
-- tool: "Macro"
+  notes: ''
+- tool: Macro
   date-added: 16/03/2018
   url: https://usemacro.github.io/
-  notes: "Be more efficient on your favourite websites with new keyboard shortcuts."
-- tool: "Lonely Page – One page is all you need"
+  notes: Be more efficient on your favourite websites with new keyboard shortcuts.
+- tool: Lonely Page – One page is all you need
   date-added: 16/03/2018
   url: http://www.lonelypage.io/
-  notes: "Create and design your landing, event, business or profile page with the simplest, most flexible one-page builder you've ever used."
-- tool: "Google Sheet Add-On - Web scraping"
+  notes: Create and design your landing, event, business or profile page with the
+    simplest, most flexible one-page builder you've ever used.
+- tool: Google Sheet Add-On - Web scraping
   date-added: 14/03/2018
   url: https://link.fish/google-sheet-add-on/
-  notes: "Extract data from websites and add to your spreadsheet with just a few clicks."
-- tool: "Responsive web design tool, CMS, and hosting platform | Webflow"
+  notes: Extract data from websites and add to your spreadsheet with just a few clicks.
+- tool: Responsive web design tool, CMS, and hosting platform | Webflow
   date-added: 02/03/2018
   url: https://webflow.com/
-  notes: "Webflow gives designers and developers the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you."
-- tool: "Smartcar"
+  notes: Webflow gives designers and developers the power to design, build, and launch
+    responsive websites visually, while writing clean, semantic code for you.
+- tool: Smartcar
   date-added: 01/03/2018
   url: https://smartcar.com/
-  notes: "Smartcar enables apps to easily and securely communicate with vehicles."
-- tool: "Anchor - The easiest way to make a podcast"
+  notes: Smartcar enables apps to easily and securely communicate with vehicles.
+- tool: Anchor - The easiest way to make a podcast
   date-added: 26/02/2018
   url: https://anchor.fm/
-  notes: "Record a high-quality podcast, host unlimited episodes, and distribute everywhere with just one click. Plus, it’s 100% free."
-- tool: "Flourish | Data Visualisation & Storytelling"
-  date-added: 09/02/2018
+  notes: Record a high-quality podcast, host unlimited episodes, and distribute everywhere
+    with just one click. Plus, it’s 100% free.
+- tool: Flourish | Data Visualisation & Storytelling
+  date-added: '09/02/2018'
   url: https://flourish.studio/
-  notes: "Quickly turn your spreadsheets into stunning online charts, maps and interactive stories"
-- tool: "Darkroom"
+  notes: Quickly turn your spreadsheets into stunning online charts, maps and interactive
+    stories
+- tool: Darkroom
   date-added: 01/02/2018
   url: https://www.darkroom.tech/
-  notes: "The Easiest Way To Sell Fine Art Prints"
-- tool: "Jitsi"
+  notes: The Easiest Way To Sell Fine Art Prints
+- tool: Jitsi
   date-added: 26/01/2018
   url: https://jitsi.org/
-  notes: "The most innovative opensource video conferencing community. Period."
-- tool: "Docusaurus"
-  date-added: 09/01/2018
+  notes: The most innovative opensource video conferencing community. Period.
+- tool: Docusaurus
+  date-added: '09/01/2018'
   url: http://docusaurus.io/
-  notes: "Easy to Maintain Open Source Documentation Websites"
-- tool: "Listly  |  Fully-automated Web Scraping"
+  notes: Easy to Maintain Open Source Documentation Websites
+- tool: Listly  |  Fully-automated Web Scraping
   date-added: 05/01/2018
   url: http://listly.io/
-  notes: "Webpage to Excel. The Fastest Web Scraping Tool "
-- tool: "Welcome to swimlanes.io"
+  notes: 'Webpage to Excel. The Fastest Web Scraping Tool '
+- tool: Welcome to swimlanes.io
   date-added: 22/12/2017
   url: https://swimlanes.io/
-  notes: "swimlanes.io is a simple online tool for creating sequence diagrams."
-- tool: "LiteDB :: A .NET embedded NoSQL database"
+  notes: swimlanes.io is a simple online tool for creating sequence diagrams.
+- tool: 'LiteDB :: A .NET embedded NoSQL database'
   date-added: 20/12/2017
   url: http://www.litedb.org/
-  notes: "An open source MongoDB-like database with zero configuration - mobile ready"
-- tool: "Joplin"
+  notes: An open source MongoDB-like database with zero configuration - mobile ready
+- tool: Joplin
   date-added: 03/12/2017
   url: http://joplin.cozic.net/
-  notes: "An open source note taking and to-do application with synchronisation capabilities."
-- tool: "Beat impulse buying and download the Icebox chrome extension"
+  notes: An open source note taking and to-do application with synchronisation capabilities.
+- tool: Beat impulse buying and download the Icebox chrome extension
   date-added: 24/11/2017
   url: https://www.finder.com/icebox
-  notes: ""
-- tool: "Ninite - Install or Update Multiple Apps at Once"
+  notes: ''
+- tool: Ninite - Install or Update Multiple Apps at Once
   date-added: 16/11/2017
   url: https://ninite.com/
-  notes: "Install and Update All Your Programs at Once. No toolbars. No clicking next. Just pick your apps and go."
-- tool: "Devhints"
+  notes: Install and Update All Your Programs at Once. No toolbars. No clicking next.
+    Just pick your apps and go.
+- tool: Devhints
   date-added: 10/11/2017
   url: https://devhints.io/
-  notes: "TL;DR for developer documentation"
-- tool: "Station • One app to rule them all"
+  notes: TL;DR for developer documentation
+- tool: Station • One app to rule them all
   date-added: 10/11/2017
   url: https://getstation.com/
-  notes: "Station is the first smart workstation for busy people. A single place for all of your work applications."
-- tool: "Shards"
-  date-added: 09/11/2017
+  notes: Station is the first smart workstation for busy people. A single place for
+    all of your work applications.
+- tool: Shards
+  date-added: '09/11/2017'
   url: https://designrevision.com/downloads/shards/
-  notes: "A free and modern UI toolkit for web makers based on the popular Bootstrap 4 framework."
-- tool: "Markdown Here"
+  notes: A free and modern UI toolkit for web makers based on the popular Bootstrap
+    4 framework.
+- tool: Markdown Here
   date-added: 07/11/2017
   url: http://markdown-here.com/index.html
-  notes: "Markdown Here will help you to write email more quickly and powerfully than you thought possible."
-- tool: "Anvil - Drag and Drop Python Web App Builder"
+  notes: Markdown Here will help you to write email more quickly and powerfully than
+    you thought possible.
+- tool: Anvil - Drag and Drop Python Web App Builder
   date-added: 03/11/2017
   url: https://anvil.works/
-  notes: "Web apps made simple."
-- tool: "Shift - The Best Desktop Email Client for Gmail and Outlook.com"
+  notes: Web apps made simple.
+- tool: Shift - The Best Desktop Email Client for Gmail and Outlook.com
   date-added: 02/11/2017
   url: https://tryshift.com/
-  notes: "Get sh*t done across Mail, Calendar & Drive. Access Chrome Extensions, Google Services, and all of your favorite apps. Did we mention Unified Search?"
-- tool: "Square Register: Our New POS Solution | Square"
+  notes: Get sh*t done across Mail, Calendar & Drive. Access Chrome Extensions, Google
+    Services, and all of your favorite apps. Did we mention Unified Search?
+- tool: 'Square Register: Our New POS Solution | Square'
   date-added: 30/10/2017
   url: https://squareup.com/hardware/register
-  notes: "The turning point for point of sale"
-- tool: "Giving social networking back to you - The Mastodon Project"
+  notes: The turning point for point of sale
+- tool: Giving social networking back to you - The Mastodon Project
   date-added: 27/10/2017
   url: https://joinmastodon.org/
-  notes: "Social networking, back in your hands. The world’s largest free, open-source, decentralized microblogging network"
-- tool: "Balsamiq Cloud"
+  notes: Social networking, back in your hands. The world’s largest free, open-source,
+    decentralized microblogging network
+- tool: Balsamiq Cloud
   date-added: 26/10/2017
   url: https://balsamiq.cloud/
-  notes: "Fast, Approachable, Collaborative Wireframing"
-- tool: "Readspike - Simple news aggregator"
+  notes: Fast, Approachable, Collaborative Wireframing
+- tool: Readspike - Simple news aggregator
   date-added: 23/10/2017
   url: https://readspike.com/
-  notes: ""
-- tool: "Coda"
+  notes: ''
+- tool: Coda
   date-added: 22/10/2017
   url: https://coda.io/welcome
-  notes: "It’s a new day  for docs."
-- tool: "Telegram Messenger"
+  notes: It’s a new day  for docs.
+- tool: Telegram Messenger
   date-added: 11/10/2017
   url: https://telegram.org/
-  notes: "A new era of messaging"
-- tool: "Cloud Firestore | Firebase"
+  notes: A new era of messaging
+- tool: Cloud Firestore | Firebase
   date-added: 03/10/2017
   url: https://firebase.google.com/products/firestore
-  notes: "Store and sync app data at global scale"
-- tool: "Readwise"
+  notes: Store and sync app data at global scale
+- tool: Readwise
   date-added: 29/09/2017
   url: https://readwise.io/
-  notes: "Readwise sends you a daily email resurfacing your best Kindle highlights"
-- tool: "Moo.do"
+  notes: Readwise sends you a daily email resurfacing your best Kindle highlights
+- tool: Moo.do
   date-added: 28/09/2017
   url: https://www.moo.do/
-  notes: "Moo.do is a powerful organization system, connected to all your services, with email and calendar built-in."
-- tool: "Better Than Bookmarks - Toby"
+  notes: Moo.do is a powerful organization system, connected to all your services,
+    with email and calendar built-in.
+- tool: Better Than Bookmarks - Toby
   date-added: 25/09/2017
   url: https://www.gettoby.com/
-  notes: "Bookmarks are for books, not browsers. Organize your browser tabs into Toby so you can access key resources in one click instead of seven."
-- tool: "plainJS - The Vanilla JavaScript Repository"
+  notes: Bookmarks are for books, not browsers. Organize your browser tabs into Toby
+    so you can access key resources in one click instead of seven.
+- tool: plainJS - The Vanilla JavaScript Repository
   date-added: 25/09/2017
   url: https://plainjs.com/
-  notes: "Vanilla JavaScript for building powerful web applications without jQuery"
-- tool: "Franchise: a sql notebook"
+  notes: Vanilla JavaScript for building powerful web applications without jQuery
+- tool: 'Franchise: a sql notebook'
   date-added: 23/09/2017
   url: https://franchise.cloud/
-  notes: "An open-source notebook for sql "
-- tool: "Bubble - Visual Programming"
+  notes: 'An open-source notebook for sql '
+- tool: Bubble - Visual Programming
   date-added: 23/09/2017
   url: https://bubble.is/
-  notes: "You don't need to be a coder. Build software by pointing and clicking"
-- tool: "Surge"
+  notes: You don't need to be a coder. Build software by pointing and clicking
+- tool: Surge
   date-added: 22/09/2017
   url: https://surge.sh/
-  notes: "Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line."
-- tool: "Octopus"
+  notes: Simple, single-command web publishing. Publish HTML, CSS, and JS for free,
+    without leaving the command line.
+- tool: Octopus
   date-added: 15/09/2017
   url: https://github.com/livechat/octopus
-  notes: "Internal wiki with diagrams for software and product teams"
-- tool: "Topicbox: modern group email discussions"
+  notes: Internal wiki with diagrams for software and product teams
+- tool: 'Topicbox: modern group email discussions'
   date-added: 15/09/2017
   url: https://www.topicbox.com/
-  notes: "Boost your team’s knowledge with a powerful shared archive."
-- tool: "Build a Bot with Zero Coding"
+  notes: Boost your team’s knowledge with a powerful shared archive.
+- tool: Build a Bot with Zero Coding
   date-added: 15/09/2017
   url: https://github.com/Viber/build-a-bot-with-zero-coding
-  notes: "An example of using Google Sheets to create a Viber survey chat bot without a backend server"
-- tool: "Siteleaf - A friendly CMS for your static site"
+  notes: An example of using Google Sheets to create a Viber survey chat bot without
+    a backend server
+- tool: Siteleaf - A friendly CMS for your static site
   date-added: 13/09/2017
   url: https://www.siteleaf.com/
-  notes: "Siteleaf is a content management system designed for a better web."
-- tool: "The Cloud CMS for Jekyll - CloudCannon"
+  notes: Siteleaf is a content management system designed for a better web.
+- tool: The Cloud CMS for Jekyll - CloudCannon
   date-added: 13/09/2017
   url: https://cloudcannon.com/
-  notes: "Build Jekyll or static websites, have your team and clients update inline"
-- tool: "Static Site CMS - Forestry.io"
+  notes: Build Jekyll or static websites, have your team and clients update inline
+- tool: Static Site CMS - Forestry.io
   date-added: 12/09/2017
   url: https://forestry.io/
-  notes: "A full-featured CMS for your static site with support for Jekyll, Hugo and Git"
-- tool: "gitignore.io"
+  notes: A full-featured CMS for your static site with support for Jekyll, Hugo and
+    Git
+- tool: gitignore.io
   date-added: 12/09/2017
   url: https://www.gitignore.io/
-  notes: "Create Useful .gitignore Files For Your Project"
-- tool: "Page.REST"
-  date-added: 08/09/2017
+  notes: Create Useful .gitignore Files For Your Project
+- tool: Page.REST
+  date-added: '08/09/2017'
   url: https://www.page.rest/
-  notes: "An HTTP API to extract OpenGraph, oEmbed or any other content from any public web page as JSON."
-- tool: "Freezetab"
+  notes: An HTTP API to extract OpenGraph, oEmbed or any other content from any public
+    web page as JSON.
+- tool: Freezetab
   date-added: 03/09/2017
   url: https://freezetab.com/index.html
-  notes: "A powerful alternative to bookmarks"
-- tool: "MkDocs"
+  notes: A powerful alternative to bookmarks
+- tool: MkDocs
   date-added: 03/09/2017
   url: http://www.mkdocs.org/
-  notes: "MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file"
-- tool: "Write.as"
+  notes: MkDocs is a fast, simple and downright gorgeous static site generator that's
+    geared towards building project documentation. Documentation source files are
+    written in Markdown, and configured with a single YAML configuration file
+- tool: Write.as
   date-added: 03/09/2017
   url: https://write.as/about
-  notes: "Write.as is the simplest way to publish to the world. Write.as is for writers, thinkers, and anyone who needs to get their thoughts down fast. It's a distraction-free writing space and a safe home for your thoughts."
-- tool: "Vivino | Price comparison, ratings and reviews for any wine"
+  notes: Write.as is the simplest way to publish to the world. Write.as is for writers,
+    thinkers, and anyone who needs to get their thoughts down fast. It's a distraction-free
+    writing space and a safe home for your thoughts.
+- tool: Vivino | Price comparison, ratings and reviews for any wine
   date-added: 01/09/2017
   url: https://www.vivino.com/
-  notes: "Buy your next bottle of wine with the help of 25 Million friends"
-- tool: "WhatRuns"
+  notes: Buy your next bottle of wine with the help of 25 Million friends
+- tool: WhatRuns
   date-added: 28/08/2017
   url: https://www.whatruns.com/
-  notes: "Discover what runs a website Extension that helps you identify technologies used on any website at the click of a button."
-- tool: "Laverna - keep your notes private"
+  notes: Discover what runs a website Extension that helps you identify technologies
+    used on any website at the click of a button.
+- tool: Laverna - keep your notes private
   date-added: 25/08/2017
   url: https://laverna.cc/
-  notes: "Laverna has a simple and robust markdown editor, which can help you write faster than ever before with our live markdown preview."
-- tool: "TablePlus"
+  notes: Laverna has a simple and robust markdown editor, which can help you write
+    faster than ever before with our live markdown preview.
+- tool: TablePlus
   date-added: 25/08/2017
   url: https://tableplus.io/
-  notes: "Tool for Relational Databases"
-- tool: "Wix Code - Advanced Web Application Development"
+  notes: Tool for Relational Databases
+- tool: Wix Code - Advanced Web Application Development
   date-added: 21/08/2017
   url: https://www.wix.com/code/home
-  notes: "Wix Code makes it easy to build web applications and robust websites. It’s serverless, hassle-free coding. Set up database collections, create content rich websites, add custom forms and change site behavior with our APIs."
-- tool: "Weava: Online Highlight tool for research."
+  notes: Wix Code makes it easy to build web applications and robust websites. It’s
+    serverless, hassle-free coding. Set up database collections, create content rich
+    websites, add custom forms and change site behavior with our APIs.
+- tool: 'Weava: Online Highlight tool for research.'
   date-added: 21/08/2017
   url: https://www.weavatools.com/
-  notes: "Highlight, organize & collaborate your research in one place"
-- tool: "Publii - Open-Source CMS for Static Website"
+  notes: Highlight, organize & collaborate your research in one place
+- tool: Publii - Open-Source CMS for Static Website
   date-added: 18/08/2017
   url: https://getpublii.com/
-  notes: "Make an extremely safe, fast and stylish static blog website in minutes"
-- tool: "Walmart Web Style Guide"
+  notes: Make an extremely safe, fast and stylish static blog website in minutes
+- tool: Walmart Web Style Guide
   date-added: 17/08/2017
   url: http://walmartlabs.github.io/web-style-guide/
-  notes: ""
-- tool: "Kozmos"
+  notes: ''
+- tool: Kozmos
   date-added: 13/08/2017
   url: https://getkozmos.com/
-  notes: "Free, simple and private bookmarking for everyone"
-- tool: "Fast WordPress Hosting + Mobile Responsive Themes by StudioPress"
+  notes: Free, simple and private bookmarking for everyone
+- tool: Fast WordPress Hosting + Mobile Responsive Themes by StudioPress
   date-added: 13/08/2017
   url: https://www.studiopress.com/
-  notes: "WordPress Made Fast, Secure, and Worry Free"
-- tool: "StackBlitz"
+  notes: WordPress Made Fast, Secure, and Worry Free
+- tool: StackBlitz
   date-added: 03/08/2017
   url: https://stackblitz.com/
-  notes: "Online VS Code IDE for Angular & React."
-- tool: "Public APIs"
+  notes: Online VS Code IDE for Angular & React.
+- tool: Public APIs
   date-added: 28/07/2017
   url: https://github.com/toddmotto/public-apis
-  notes: "A collective list of free JSON APIs for use in web development."
-- tool: "Convert CSV files to searchable and sortable HTML table."
+  notes: A collective list of free JSON APIs for use in web development.
+- tool: Convert CSV files to searchable and sortable HTML table.
   date-added: 14/07/2017
   url: https://github.com/vividvilla/csvtotable
-  notes: "Simple command-line utility to convert CSV files to searchable and sortable HTML table"
-- tool: "Safari, the world's most comprehensive tech & business learning platform"
+  notes: Simple command-line utility to convert CSV files to searchable and sortable
+    HTML table
+- tool: Safari, the world's most comprehensive tech & business learning platform
   date-added: 30/06/2017
   url: https://www.safaribooksonline.com/
-  notes: "Learn the way you learn best—on the world’s most comprehensive technology and business learning platform."
-- tool: "Web Starter Kit"
+  notes: Learn the way you learn best—on the world’s most comprehensive technology
+    and business learning platform.
+- tool: Web Starter Kit
   date-added: 30/06/2017
   url: https://developers.google.com/web/tools/starter-kit/
-  notes: "Web Starter Kit is an opinionated boilerplate for web development."
-- tool: "Tesoro"
+  notes: Web Starter Kit is an opinionated boilerplate for web development.
+- tool: Tesoro
   date-added: 30/06/2017
   url: https://tesoro.io/
-  notes: "Save a copy of any webpage, preserving how it appears right now. The page is saved forever, even if the original disappears. Archives are given a unique URL that you can share with the world. "
-- tool: "Kite - The smart copilot for programmers"
+  notes: 'Save a copy of any webpage, preserving how it appears right now. The page
+    is saved forever, even if the original disappears. Archives are given a unique
+    URL that you can share with the world. '
+- tool: Kite - The smart copilot for programmers
   date-added: 27/06/2017
   url: https://kite.com/
-  notes: "Kite brings the web's programming knowledge—intelligently sorted completions, all the documentation, and thousands of great examples—right into your favorite editor."
-- tool: "Tech News | Morning Reader"
+  notes: Kite brings the web's programming knowledge—intelligently sorted completions,
+    all the documentation, and thousands of great examples—right into your favorite
+    editor.
+- tool: Tech News | Morning Reader
   date-added: 26/06/2017
   url: https://morningreader.com/
-  notes: "Tech News"
-- tool: "Atlas Informatics"
+  notes: Tech News
+- tool: Atlas Informatics
   date-added: 26/06/2017
   url: https://www.atlas.co/
-  notes: "Atlas Recall gives you a photographic memory for your digital life."
-- tool: "Twist - Mindful Team Communication"
+  notes: Atlas Recall gives you a photographic memory for your digital life.
+- tool: Twist - Mindful Team Communication
   date-added: 23/06/2017
   url: https://twistapp.com/home
-  notes: "Twist is the communication app for teams who believe there’s more to work than keeping up with group chat apps."
-- tool: "Simul | Version Control for Microsoft Word | Simul Documents"
+  notes: Twist is the communication app for teams who believe there’s more to work
+    than keeping up with group chat apps.
+- tool: Simul | Version Control for Microsoft Word | Simul Documents
   date-added: 23/06/2017
   url: https://www.simuldocs.com/
-  notes: "Advanced document management features such as branching, merging and version comparison for your Word documents "
-- tool: "StatiCrypt: Password protect static HTML"
+  notes: 'Advanced document management features such as branching, merging and version
+    comparison for your Word documents '
+- tool: 'StatiCrypt: Password protect static HTML'
   date-added: 19/06/2017
   url: https://robinmoisson.github.io/staticrypt/
-  notes: "Password protect a static HTML page  "
-- tool: "Monica - a CRM for your friends and family"
-  date-added: 09/06/2017
+  notes: 'Password protect a static HTML page  '
+- tool: Monica - a CRM for your friends and family
+  date-added: '09/06/2017'
   url: https://monicahq.com/
-  notes: "Your social memory"
-- tool: "Some useful websites for programmers"
-  date-added: 09/06/2017
+  notes: Your social memory
+- tool: Some useful websites for programmers
+  date-added: '09/06/2017'
   url: https://github.com/sdmg15/Best-websites-a-programmer-should-visit#when-you-get-stuck
-  notes: ""
-- tool: "Buttercup"
+  notes: ''
+- tool: Buttercup
   date-added: 05/06/2017
   url: https://buttercup.pw/
-  notes: "The Password Manager You Deserve"
-- tool: "Tad - A Desktop Viewer App for Tabular Data"
+  notes: The Password Manager You Deserve
+- tool: Tad - A Desktop Viewer App for Tabular Data
   date-added: 02/06/2017
   url: http://tadviewer.com/
-  notes: "Tad is a free (MIT Licensed) desktop application for viewing and analyzing tabular data."
-- tool: "Notes at the speed of thought. | Notational"
+  notes: Tad is a free (MIT Licensed) desktop application for viewing and analyzing
+    tabular data.
+- tool: Notes at the speed of thought. | Notational
   date-added: 26/05/2017
   url: https://notational.co/
-  notes: "Smart shortcuts, magic save, and incremental search keep your hands on the keyboard—and your brain happy. "
-- tool: "ORY Sites"
+  notes: 'Smart shortcuts, magic save, and incremental search keep your hands on the
+    keyboard—and your brain happy. '
+- tool: ORY Sites
   date-added: 26/05/2017
   url: http://www.ory.am/sites/
-  notes: "ORY Sites is an innovative desktop app and combines the latest technology with ease of use - creating beautiful, responsive websites is now a matter of minutes."
-- tool: "Mavo: A new, approachable way to create Web applications"
+  notes: ORY Sites is an innovative desktop app and combines the latest technology
+    with ease of use - creating beautiful, responsive websites is now a matter of
+    minutes.
+- tool: 'Mavo: A new, approachable way to create Web applications'
   date-added: 26/05/2017
   url: https://mavo.io/
-  notes: "Mavo helps you turn your static HTML into reactive web applications without a single line of programming code and no server backend."
-- tool: "Insomnia REST Client"
+  notes: Mavo helps you turn your static HTML into reactive web applications without
+    a single line of programming code and no server backend.
+- tool: Insomnia REST Client
   date-added: 15/05/2017
   url: https://insomnia.rest/
-  notes: "Debug APIs like a human, not a robot. Finally, a REST client you'll love"
-- tool: "Flow"
+  notes: Debug APIs like a human, not a robot. Finally, a REST client you'll love
+- tool: Flow
   date-added: 15/05/2017
   url: https://flowdash.co/app/about
-  notes: "Flow is a habit tracker and personal data analytics app that lets you keep focus on what matters. Flow owns none of your data. That's yours."
-- tool: "Ora – Task Management done right!"
+  notes: Flow is a habit tracker and personal data analytics app that lets you keep
+    focus on what matters. Flow owns none of your data. That's yours.
+- tool: Ora – Task Management done right!
   date-added: 15/05/2017
   url: https://ora.pm/
-  notes: "More than Kanban, time tracking, reports and team chat - it’s your team’s command center! Each project build exclusively for your needs. No clutter. No distractions. Pure productivity!"
-- tool: "SQL Notebook"
+  notes: More than Kanban, time tracking, reports and team chat - it’s your team’s
+    command center! Each project build exclusively for your needs. No clutter. No
+    distractions. Pure productivity!
+- tool: SQL Notebook
   date-added: 15/05/2017
   url: https://sqlnotebook.com/
-  notes: "SQL Notebook is a free Windows app for exploring and manipulating tabular data. It is powered by a supercharged SQLite engine, supporting both standard SQL queries and SQL Notebook-specific commands."
-- tool: "mStream - Open Source Music Streaming"
+  notes: SQL Notebook is a free Windows app for exploring and manipulating tabular
+    data. It is powered by a supercharged SQLite engine, supporting both standard
+    SQL queries and SQL Notebook-specific commands.
+- tool: mStream - Open Source Music Streaming
   date-added: 05/05/2017
   url: http://www.mstream.io/mstream-express
-  notes: "mStream Express will turn any computer into a music server"
-- tool: "GitPitch"
+  notes: mStream Express will turn any computer into a music server
+- tool: GitPitch
   date-added: 30/04/2017
   url: https://github.com/gitpitch/gitpitch/wiki
-  notes: "Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket"
-- tool: "Cleaver"
+  notes: Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket
+- tool: Cleaver
   date-added: 30/04/2017
   url: http://jdan.github.io/cleaver/#1
-  notes: "30-second slideshows for hackers"
-- tool: "Wikitribune – Evidence-based journalism"
+  notes: 30-second slideshows for hackers
+- tool: Wikitribune – Evidence-based journalism
   date-added: 30/04/2017
   url: https://www.wikitribune.com/
-  notes: "Evidence-based journalism"
-- tool: "AWS CodeStar – Quickly develop, build, and deploy applications on AWS"
+  notes: Evidence-based journalism
+- tool: AWS CodeStar – Quickly develop, build, and deploy applications on AWS
   date-added: 22/04/2017
   url: https://aws.amazon.com/codestar/
-  notes: "Quickly develop, build, and deploy applications on AWS"
-- tool: "To Do List App - Microsoft To-Do Preview"
+  notes: Quickly develop, build, and deploy applications on AWS
+- tool: To Do List App - Microsoft To-Do Preview
   date-added: 22/04/2017
   url: https://products.office.com/en-CA/microsoft-to-do-list-app
-  notes: "From work to play, To-Do is the easiest way to get stuff done, every day. With its intelligent Suggestions, To-Do removes all the clutter and empowers you to focus on what's important, when it's important. "
-- tool: "Eathow"
+  notes: 'From work to play, To-Do is the easiest way to get stuff done, every day.
+    With its intelligent Suggestions, To-Do removes all the clutter and empowers you
+    to focus on what''s important, when it''s important. '
+- tool: Eathow
   date-added: 22/04/2017
   url: https://www.eathow.com/
-  notes: "Figure out what to make with the food you already have and plan your meals ahead of time"
-- tool: "Dnote - Instantly Capture Your Coding Wisdom"
+  notes: Figure out what to make with the food you already have and plan your meals
+    ahead of time
+- tool: Dnote - Instantly Capture Your Coding Wisdom
   date-added: 17/04/2017
   url: https://dnote.io/
-  notes: ""
-- tool: "Context – share whatever you see with others in seconds"
+  notes: ''
+- tool: Context – share whatever you see with others in seconds
   date-added: 31/03/2017
   url: https://ctxt.io/
-  notes: "share whatever you see with others in seconds"
-- tool: "IBM Bluemix - Fast Track App Development"
+  notes: share whatever you see with others in seconds
+- tool: IBM Bluemix - Fast Track App Development
   date-added: 23/03/2017
   url: https://console.ng.bluemix.net/developer/getting-started/
-  notes: "Choose a proven app pattern. Select advanced capabilities like Watson. Download starter code in your language of choice."
-- tool: "OverDRIVE : Smarter Sites for G Suite"
+  notes: Choose a proven app pattern. Select advanced capabilities like Watson. Download
+    starter code in your language of choice.
+- tool: 'OverDRIVE : Smarter Sites for G Suite'
   date-added: 20/03/2017
   url: https://overdrive.io/
-  notes: "BUILD A SITE AUTOMATICALLY Convert Google Drive and G Suite content into web pages automatically"
-- tool: "publishthis.email - Publish Online In Seconds"
+  notes: BUILD A SITE AUTOMATICALLY Convert Google Drive and G Suite content into
+    web pages automatically
+- tool: publishthis.email - Publish Online In Seconds
   date-added: 11/03/2017
   url: http://www.publishthis.email/
-  notes: "The quickest way to create a web page. No account or sign up needed.  Send an email with your content to page@publishthis.email, and we'll reply instantly with a link to your new web page."
-- tool: "gitly.io"
+  notes: The quickest way to create a web page. No account or sign up needed.  Send
+    an email with your content to page@publishthis.email, and we'll reply instantly
+    with a link to your new web page.
+- tool: gitly.io
   date-added: 11/03/2017
   url: https://gitly.io/
-  notes: "Fast and powerful development service"
-- tool: "Make your next read worthwhile - ParrotRead"
+  notes: Fast and powerful development service
+- tool: Make your next read worthwhile - ParrotRead
   date-added: 02/03/2017
   url: http://parrotread.com/
-  notes: "ParrotRead sends you weekly book recommendations from people you follow and respect on Twitter."
-- tool: "Botpress"
+  notes: ParrotRead sends you weekly book recommendations from people you follow and
+    respect on Twitter.
+- tool: Botpress
   date-added: 28/02/2017
   url: https://botpress.io/
-  notes: "An open-source ecosystem for developers to create, manage and extend bots"
-- tool: "txt.fyi"
+  notes: An open-source ecosystem for developers to create, manage and extend bots
+- tool: txt.fyi
   date-added: 28/02/2017
   url: https://txt.fyi/about/
-  notes: "This is the dumbest publishing platform on the web"
-- tool: "Collate | A Cross platform repository for your brain."
+  notes: This is the dumbest publishing platform on the web
+- tool: Collate | A Cross platform repository for your brain.
   date-added: 23/02/2017
   url: http://collatenotes.com/
-  notes: "Cross-platform Note Taking App - no longer being maintained"
-- tool: "Revue"
+  notes: Cross-platform Note Taking App - no longer being maintained
+- tool: Revue
   date-added: 23/02/2017
   url: https://www.getrevue.co/
-  notes: "Get your thoughts into people's inboxes"
-- tool: "Publicate: Beautiful HTML Email Newsletters & Web Roundups"
+  notes: Get your thoughts into people's inboxes
+- tool: 'Publicate: Beautiful HTML Email Newsletters & Web Roundups'
   date-added: 22/02/2017
   url: https://publicate.it/
-  notes: "Finally, a tool to create Email Newsletters & Weekly Web Roundups that doesn't suck"
-- tool: "Amazon Chime - online meetings and video conferencing"
+  notes: Finally, a tool to create Email Newsletters & Weekly Web Roundups that doesn't
+    suck
+- tool: Amazon Chime - online meetings and video conferencing
   date-added: 17/02/2017
   url: https://chime.aws/
-  notes: "Working together, simplified"
-- tool: "Milanote: The notes app for creative work."
+  notes: Working together, simplified
+- tool: 'Milanote: The notes app for creative work.'
   date-added: 13/02/2017
   url: http://www.milanote.com/
-  notes: "For the research, thinking and planning behind your next great piece of work."
-- tool: "Introducing Keybase Chat"
+  notes: For the research, thinking and planning behind your next great piece of work.
+- tool: Introducing Keybase Chat
   date-added: 13/02/2017
   url: https://keybase.io/blog/keybase-chat
-  notes: "an end-to-end encrypted chat built into Keybase"
-- tool: "Persona Generator"
+  notes: an end-to-end encrypted chat built into Keybase
+- tool: Persona Generator
   date-added: 03/02/2017
   url: https://personagenerator.com/
-  notes: "Generate personas with this easy online tool"
-- tool: "Code Cards"
+  notes: Generate personas with this easy online tool
+- tool: Code Cards
   date-added: 03/02/2017
   url: https://codecards.me/
-  notes: "Code Cards helps you remember programming knowledge you don't use on a day to day basis using spaced repetition."
-- tool: "SketchCase"
+  notes: Code Cards helps you remember programming knowledge you don't use on a day
+    to day basis using spaced repetition.
+- tool: SketchCase
   date-added: 27/01/2017
   url: https://www.sketchcase.com/
-  notes: "Simply turns any laptop lid into a portable whiteboard."
-- tool: "SimplCommerce : A super simple, cross platform, modularized ecommerce system built on .NET Core"
+  notes: Simply turns any laptop lid into a portable whiteboard.
+- tool: 'SimplCommerce : A super simple, cross platform, modularized ecommerce system
+    built on .NET Core'
   date-added: 25/01/2017
   url: http://www.simplcommerce.com/
-  notes: "A super simple, cross platform, modularized ecommerce system built on .NET Core"
-- tool: "Standard Notes - standard notes app, un-standard every other way."
+  notes: A super simple, cross platform, modularized ecommerce system built on .NET
+    Core
+- tool: Standard Notes - standard notes app, un-standard every other way.
   date-added: 20/01/2017
   url: https://standardnotes.org/
-  notes: "A standard notes app with an un-standard focus on longevity, portability, and privacy"
-- tool: "Know it all"
+  notes: A standard notes app with an un-standard focus on longevity, portability,
+    and privacy
+- tool: Know it all
   date-added: 13/01/2017
   url: https://know-it-all.io/
-  notes: "Things you don't know"
-- tool: "HackMyResume"
+  notes: Things you don't know
+- tool: HackMyResume
   date-added: 11/01/2017
   url: http://please.hackmyresume.com/
-  notes: "A SWISS ARMY KNIFE FOR RÉSUMÉS AND CVS FOR WINDOWS, OS X, LINUX, AND NODE.JS"
-- tool: "Brave Software | Building a Better Web"
-  date-added: 09/01/2017
+  notes: A SWISS ARMY KNIFE FOR RÉSUMÉS AND CVS FOR WINDOWS, OS X, LINUX, AND NODE.JS
+- tool: Brave Software | Building a Better Web
+  date-added: '09/01/2017'
   url: https://brave.com/
-  notes: "The new Brave browser automatically blocks ads and trackers, making it faster and safer than your current browser."
-- tool: "rckclmbr/pyportify: App to transfer your spotify playlists to Google Play Music"
+  notes: The new Brave browser automatically blocks ads and trackers, making it faster
+    and safer than your current browser.
+- tool: 'rckclmbr/pyportify: App to transfer your spotify playlists to Google Play
+    Music'
   date-added: 05/01/2017
   url: https://github.com/rckclmbr/pyportify
-  notes: "App to transfer your spotify playlists to Google Play Music "
-- tool: "Download Blisk - a browser for web developers"
+  notes: 'App to transfer your spotify playlists to Google Play Music '
+- tool: Download Blisk - a browser for web developers
   date-added: 03/01/2017
   url: https://blisk.io/
-  notes: "Develop and test websites that look great and work fine on any device"
-- tool: "Vectr"
+  notes: Develop and test websites that look great and work fine on any device
+- tool: Vectr
   date-added: 03/01/2017
   url: https://vectr.com/
-  notes: "Vectr is a free graphics software used to create vector graphics easily and intuitively"
-- tool: "Simplenote"
+  notes: Vectr is a free graphics software used to create vector graphics easily and
+    intuitively
+- tool: Simplenote
   date-added: 03/01/2017
   url: https://simplenote.com/
-  notes: "Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web"
-- tool: "CosmicJS"
+  notes: Light, clean, and free. Simplenote is now available for iOS, Android, Mac,
+    Windows, Linux, and the web
+- tool: CosmicJS
   date-added: 31/12/2016
   url: https://cosmicjs.com/
-  notes: "API-first CMS for building content-powered apps in any programming language."
-- tool: "Zim - a desktop wiki"
+  notes: API-first CMS for building content-powered apps in any programming language.
+- tool: Zim - a desktop wiki
   date-added: 31/12/2016
   url: http://www.zim-wiki.org/index.html
   notes: "*Zim* is a graphical text editor used to maintain a collection of wiki pages"
-- tool: "Dynalist"
+- tool: Dynalist
   date-added: 30/12/2016
   url: https://dynalist.io/
-  notes: "Dynalist is the easiest way to be organized and stay on top of things"
-- tool: "Zeal - Offline Documentation Browser"
+  notes: Dynalist is the easiest way to be organized and stay on top of things
+- tool: Zeal - Offline Documentation Browser
   date-added: 20/12/2016
   url: https://zealdocs.org/
-  notes: "Zeal is an offline documentation browser for software developers"
-- tool: "Hyper™"
+  notes: Zeal is an offline documentation browser for software developers
+- tool: Hyper™
   date-added: 13/12/2016
   url: https://hyper.is/
-  notes: "JS/HTML/CSS Terminal"
-- tool: "Malwarebytes | Free Cyber Security & Anti-Malware Software"
+  notes: JS/HTML/CSS Terminal
+- tool: Malwarebytes | Free Cyber Security & Anti-Malware Software
   date-added: 11/12/2016
   url: https://www.malwarebytes.com/
-  notes: "Four layers of malware-crushing tech. Smarter detection. Specialized ransomware protection. It's the security you've been looking for."
-- tool: "staticland"
-  date-added: 09/12/2016
+  notes: Four layers of malware-crushing tech. Smarter detection. Specialized ransomware
+    protection. It's the security you've been looking for.
+- tool: staticland
+  date-added: '09/12/2016'
   url: https://static.land/
-  notes: "Static sites with free, automatic SSL for custom domains"
-- tool: "itsupport.grammable.me/"
-  date-added: 09/12/2016
+  notes: Static sites with free, automatic SSL for custom domains
+- tool: itsupport.grammable.me/
+  date-added: '09/12/2016'
   url: http://itsupport.grammable.me/
-  notes: "This tool will help you troubleshoot your technical issues, please start below. Thank you for using the Grammable IT Support Tool (GIST)."
-- tool: "hack news filter - filter the web by hacker news"
-  date-added: 09/12/2016
+  notes: This tool will help you troubleshoot your technical issues, please start
+    below. Thank you for using the Grammable IT Support Tool (GIST).
+- tool: hack news filter - filter the web by hacker news
+  date-added: '09/12/2016'
   url: https://hackernewsfilter.com/
-  notes: "Automatically find out if the web page you're reading has been discussed on Hacker News"
-- tool: "Gomix"
+  notes: Automatically find out if the web page you're reading has been discussed
+    on Hacker News
+- tool: Gomix
   date-added: 07/12/2016
   url: https://gomix.com/community/
-  notes: "With working example apps to remix, a code editor to modify them, instant hosting and deployment - anybody can build a web app on Gomix, for free"
-- tool: "App Maker  |  Google Developers"
+  notes: With working example apps to remix, a code editor to modify them, instant
+    hosting and deployment - anybody can build a web app on Gomix, for free
+- tool: App Maker  |  Google Developers
   date-added: 04/12/2016
   url: https://developers.google.com/appmaker/
-  notes: "Low-code application development for G Suite"
-- tool: "Migadu.com Email Hosting"
+  notes: Low-code application development for G Suite
+- tool: Migadu.com Email Hosting
   date-added: 02/12/2016
   url: https://www.migadu.com/en/index.html
-  notes: "Have as many email addresses on as many domains you need, anytime. No extra costs. All your projects, ideas, employees, family members and IoT devices are welcome. Pets too."
-- tool: "Amazon LightSail: Simple Virtual Private Servers on AWS"
+  notes: Have as many email addresses on as many domains you need, anytime. No extra
+    costs. All your projects, ideas, employees, family members and IoT devices are
+    welcome. Pets too.
+- tool: 'Amazon LightSail: Simple Virtual Private Servers on AWS'
   date-added: 02/12/2016
   url: https://amazonlightsail.com/
-  notes: "Everything you need to jumpstart your project on AWS—compute, storage, and networking—for a low, predictable price."
-- tool: "Thum.io"
+  notes: Everything you need to jumpstart your project on AWS—compute, storage, and
+    networking—for a low, predictable price.
+- tool: Thum.io
   date-added: 02/12/2016
   url: https://www.thum.io/
-  notes: "Free Website Screenshot Generator The fast reliable website screenshots on the web"
-- tool: "PageCloud - The World's Most Innovative Website Creator"
+  notes: Free Website Screenshot Generator The fast reliable website screenshots on
+    the web
+- tool: PageCloud - The World's Most Innovative Website Creator
   date-added: 02/12/2016
   url: https://www.pagecloud.com/
-  notes: "Welcome to the world’s most innovative website creator."
-- tool: "A List of the Best Flat File CMS"
+  notes: Welcome to the world’s most innovative website creator.
+- tool: A List of the Best Flat File CMS
   date-added: 30/11/2016
   url: https://www.cmscritic.com/posts/flat-file-cms/
-  notes: "Most content management systems tend to use databases to store their content but lately, there's been a trend of flat file CMS coming to market."
-- tool: "A personal computer in the cloud | Sixa"
+  notes: Most content management systems tend to use databases to store their content
+    but lately, there's been a trend of flat file CMS coming to market.
+- tool: A personal computer in the cloud | Sixa
   date-added: 22/11/2016
   url: https://www.sixa.io/
-  notes: "Sixa cloud computers deliver high-powered performance with the ability to deploy and control as many computers as you need to complete your tasks"
-- tool: "Commits.io - Your code has never looked this good!"
+  notes: Sixa cloud computers deliver high-powered performance with the ability to
+    deploy and control as many computers as you need to complete your tasks
+- tool: Commits.io - Your code has never looked this good!
   date-added: 18/11/2016
   url: https://commits.io/
-  notes: "Create a poster entirely from your code"
-- tool: "Winds :: Powered by GetStream.io"
+  notes: Create a poster entirely from your code
+- tool: 'Winds :: Powered by GetStream.io'
   date-added: 18/11/2016
   url: http://winds.getstream.io/
-  notes: "Personalized RSS Reader React,  Sails  & Stream"
-- tool: "Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript"
+  notes: Personalized RSS Reader React,  Sails  & Stream
+- tool: 'Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript'
   date-added: 18/11/2016
   url: https://regex101.com/
-  notes: ""
-- tool: "Buddy - The Development Automation and Continuous Delivery Platform"
+  notes: ''
+- tool: Buddy - The Development Automation and Continuous Delivery Platform
   date-added: 17/11/2016
   url: https://buddy.works/
-  notes: "The Git and Continuous Delivery Platform"
-- tool: "Tower - The most powerful Git client for Mac and Windows"
+  notes: The Git and Continuous Delivery Platform
+- tool: Tower - The most powerful Git client for Mac and Windows
   date-added: 16/11/2016
   url: https://www.git-tower.com/windows
-  notes: "Version control with Git - made easy. In a beautiful, efficient, and powerful app"
-- tool: "Home - Pencil Project"
+  notes: Version control with Git - made easy. In a beautiful, efficient, and powerful
+    app
+- tool: Home - Pencil Project
   date-added: 11/11/2016
   url: http://pencil.evolus.vn/
-  notes: "Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms"
-- tool: "Jasonette - Native App over HTTP"
+  notes: Pencil is built for the purpose of providing a free and open-source GUI prototyping
+    tool that people can easily install and use to create mockups in popular desktop
+    platforms
+- tool: Jasonette - Native App over HTTP
   date-added: 11/11/2016
   url: http://jasonette.com/
-  notes: "Jasonette lets you make an app with nothing but a single declarative recipe, loaded from a remote JSON."
-- tool: "SMS, Chat & Voice - MessageBird"
+  notes: Jasonette lets you make an app with nothing but a single declarative recipe,
+    loaded from a remote JSON.
+- tool: SMS, Chat & Voice - MessageBird
   date-added: 11/11/2016
   url: https://www.messagebird.com/en-ca/
-  notes: "SMS, Chat & Voice - The fastest and most reliable global messaging API."
-- tool: "TaxJar: Automated Sales Tax Reporting & Filing"
-  date-added: 09/11/2016
+  notes: SMS, Chat & Voice - The fastest and most reliable global messaging API.
+- tool: 'TaxJar: Automated Sales Tax Reporting & Filing'
+  date-added: '09/11/2016'
   url: https://www.taxjar.com/
-  notes: ""
-- tool: "Bolt CMS: Easy for editors, and a developer's dream CMS | Bolt CMS"
-  date-added: 09/11/2016
+  notes: ''
+- tool: 'Bolt CMS: Easy for editors, and a developer''s dream CMS | Bolt CMS'
+  date-added: '09/11/2016'
   url: https://bolt.cm/
-  notes: "Bolt is an open source Content Management Tool, which strives to be as simple and straightforward as possible. It is quick to set up, easy to configure, uses elegant templates, and above all: It’s a joy to use."
-- tool: "Digital asset management and collaboration for creatives | Pics.io"
-  date-added: 09/11/2016
+  notes: 'Bolt is an open source Content Management Tool, which strives to be as simple
+    and straightforward as possible. It is quick to set up, easy to configure, uses
+    elegant templates, and above all: It’s a joy to use.'
+- tool: Digital asset management and collaboration for creatives | Pics.io
+  date-added: '09/11/2016'
   url: https://pics.io/?ref=producthunt
-  notes: "Pics.io is a complete solution for managing all your digital assets. Quickly find any of your  creative files, collaborate with colleagues on new projects,  and share your work with clients and partners. "
-- tool: "How To Make Your Own Website - Best Website Builder | Strikingly"
+  notes: 'Pics.io is a complete solution for managing all your digital assets. Quickly
+    find any of your  creative files, collaborate with colleagues on new projects,  and
+    share your work with clients and partners. '
+- tool: How To Make Your Own Website - Best Website Builder | Strikingly
   date-added: 19/10/2016
   url: https://www.strikingly.com/
-  notes: "Create a beautiful website for you & your business, in minutes.  Zero code or design skills required."
-- tool: "ViewedIt - Video for All"
+  notes: Create a beautiful website for you & your business, in minutes.  Zero code
+    or design skills required.
+- tool: ViewedIt - Video for All
   date-added: 14/10/2016
   url: https://viewedit.com/
-  notes: ""
-- tool: "Branded.me - professional network branded website"
+  notes: ''
+- tool: Branded.me - professional network branded website
   date-added: 06/07/2016
   url: https://branded.me/
-  notes: ""
-- tool: "Ghost Theme generator - Calligraphy"
+  notes: ''
+- tool: Ghost Theme generator - Calligraphy
   date-added: 24/06/2016
   url: http://www.calligraphy.io/
-  notes: ""
-- tool: "Bear - Notes for iPhone, iPad and Mac"
+  notes: ''
+- tool: Bear - Notes for iPhone, iPad and Mac
   date-added: 22/06/2016
   url: http://www.bear-app.net/
-  notes: ""
-- tool: "BoldGrid - Website Builder | InMotion Hosting"
+  notes: ''
+- tool: BoldGrid - Website Builder | InMotion Hosting
   date-added: 19/06/2016
   url: http://www.inmotionhosting.com/boldgrid-website-builder-promo
-  notes: ""
-- tool: "HyperDev - fast way to build web apps"
+  notes: ''
+- tool: HyperDev - fast way to build web apps
   date-added: 03/06/2016
   url: https://hyperdev.com/about/
-  notes: ""
-- tool: "Automatic PDF, Word, Excel, and PowerPoint generation for online forms, contracts, applications, and more | WebMerge"
+  notes: ''
+- tool: Automatic PDF, Word, Excel, and PowerPoint generation for online forms, contracts,
+    applications, and more | WebMerge
   date-added: 12/05/2016
   url: https://www.webmerge.me/
-  notes: ""
-- tool: "MEAN.IO - MongoDB, Express, Angularjs Node.js powered fullstack web framework - MEAN.IO - MongoDB, Express, Angularjs Node.js powered fullstack web framework"
-  date-added: 09/04/2016
+  notes: ''
+- tool: MEAN.IO - MongoDB, Express, Angularjs Node.js powered fullstack web framework
+    - MEAN.IO - MongoDB, Express, Angularjs Node.js powered fullstack web framework
+  date-added: '09/04/2016'
   url: http://mean.io/APP_URL
-  notes: ""
-- tool: "Introducing React Storybook — KADIRA VOICE"
-  date-added: 08/04/2016
+  notes: ''
+- tool: Introducing React Storybook — KADIRA VOICE
+  date-added: '08/04/2016'
   url: https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.ph5xpxmez
-  notes: ""
-- tool: "DeskConnect | The missing link between your devices."
+  notes: ''
+- tool: DeskConnect | The missing link between your devices.
   date-added: 03/04/2016
   url: http://deskconnect.com/
-  notes: ""
-- tool: "Bot Framework"
+  notes: ''
+- tool: Bot Framework
   date-added: 01/04/2016
   url: https://dev.botframework.com/
-  notes: ""
-- tool: "Prompt 2"
+  notes: ''
+- tool: Prompt 2
   date-added: 27/03/2016
   url: https://panic.com/prompt/
-  notes: ""
-- tool: "Form.io - Complex Connections Made Simple"
+  notes: ''
+- tool: Form.io - Complex Connections Made Simple
   date-added: 25/03/2016
   url: https://form.io/
-  notes: ""
-- tool: "Headlines news items"
+  notes: ''
+- tool: Headlines news items
   date-added: 22/03/2016
   url: http://headline.adammenges.com/
-  notes: ""
-- tool: "restdb.io Web Form Generator"
+  notes: ''
+- tool: restdb.io Web Form Generator
   date-added: 17/03/2016
   url: https://restdb.io/docs/webform-generator
-  notes: ""
-- tool: "Apter.io - Smart Plug & Play Search for Ecommerce"
+  notes: ''
+- tool: Apter.io - Smart Plug & Play Search for Ecommerce
   date-added: 07/03/2016
   url: http://apter.io/
-  notes: ""
-- tool: "Intro.js - Step-by-step guide and feature introduction for your website"
+  notes: ''
+- tool: Intro.js - Step-by-step guide and feature introduction for your website
   date-added: 04/03/2016
   url: http://introjs.com/
-  notes: ""
-- tool: "Synergy - Mouse and keyboard sharing software"
+  notes: ''
+- tool: Synergy - Mouse and keyboard sharing software
   date-added: 03/03/2016
   url: http://synergy-project.org/
-  notes: ""
-- tool: "Weekly Free Logo Designs For Your Business"
+  notes: ''
+- tool: Weekly Free Logo Designs For Your Business
   date-added: 05/02/2016
   url: http://www.logodust.com/?ope=
-  notes: ""
-- tool: "Quiver - programmers notebook"
+  notes: ''
+- tool: Quiver - programmers notebook
   date-added: 05/02/2016
   url: http://happenapps.com/#quiver?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn
-  notes: ""
-- tool: "Macaw: The Code-Savvy Web Design Tool"
+  notes: ''
+- tool: 'Macaw: The Code-Savvy Web Design Tool'
   date-added: 05/02/2016
   url: http://macaw.co/
-  notes: ""
-- tool: "Bootstrap Studio"
+  notes: ''
+- tool: Bootstrap Studio
   date-added: 05/02/2016
   url: http://bootstrapstudio.io/
-  notes: ""
-- tool: "Keybase"
+  notes: ''
+- tool: Keybase
   date-added: 05/02/2016
   url: https://keybase.io/
-  notes: ""
-- tool: "Fuse"
+  notes: ''
+- tool: Fuse
   date-added: 03/02/2016
   url: https://www.fusetools.com/
-  notes: ""
-- tool: "Omny Studio: Complete audio management for radio and podcasters"
+  notes: ''
+- tool: 'Omny Studio: Complete audio management for radio and podcasters'
   date-added: 02/02/2016
   url: https://omnystudio.com/learn#pricing
-  notes: ""
-- tool: "Using the Nitrogen Atom Plugin · Nitrous Community"
+  notes: ''
+- tool: Using the Nitrogen Atom Plugin · Nitrous Community
   date-added: 28/01/2016
   url: https://community.nitrous.io/docs/using-the-nitrogen-atom-plugin
-  notes: ""
-- tool: "Macroplant - iPod, iPad, iPhone Transfer Software for Mac and PC"
+  notes: ''
+- tool: Macroplant - iPod, iPad, iPhone Transfer Software for Mac and PC
   date-added: 24/01/2016
   url: https://www.macroplant.com/
-  notes: ""
-- tool: "threadbase"
+  notes: ''
+- tool: threadbase
   date-added: 24/01/2016
   url: http://www.threadbase.com/ts
-  notes: ""
-- tool: "TLDR pages"
+  notes: ''
+- tool: TLDR pages
   date-added: 04/01/2016
   url: http://tldr-pages.github.io/
-  notes: ""
-- tool: "Swifty"
+  notes: ''
+- tool: Swifty
   date-added: 16/12/2015
   url: http://swifty-app.com/
-  notes: ""
-- tool: "WorkFlowy - Organize your brain."
+  notes: ''
+- tool: WorkFlowy - Organize your brain.
   date-added: 15/12/2015
   url: https://workflowy.com/
-  notes: ""
-- tool: "Birdly for Slack"
+  notes: ''
+- tool: Birdly for Slack
   date-added: 14/12/2015
   url: http://slack.getbirdly.com/
-  notes: ""
-- tool: "Chesscademy — Learn How To Play Chess Online"
+  notes: ''
+- tool: Chesscademy — Learn How To Play Chess Online
   date-added: 14/12/2015
   url: http://www.chesscademy.com/
-  notes: ""
-- tool: "Amazon Storywriter"
+  notes: ''
+- tool: Amazon Storywriter
   date-added: 12/12/2015
   url: https://storywriter.amazon.com/
-  notes: ""
-- tool: "Listomatic"
+  notes: ''
+- tool: Listomatic
   date-added: 06/12/2015
   url: http://getlistomatic.com/?ref=producthunt
-  notes: ""
-- tool: "TelePromptor"
+  notes: ''
+- tool: TelePromptor
   date-added: 01/12/2015
   url: https://telepromptor.com/#about
-  notes: ""
-- tool: "Caret | Markdown Editor"
+  notes: ''
+- tool: Caret | Markdown Editor
   date-added: 19/11/2015
   url: http://caret.io/
-  notes: ""
-- tool: "Sello - sell anything online"
+  notes: ''
+- tool: Sello - sell anything online
   date-added: 13/11/2015
   url: http://getsello.com/
-  notes: ""
-- tool: "AppGyver Composer 1"
+  notes: ''
+- tool: AppGyver Composer 1
   date-added: 12/11/2015
   url: http://www.appgyver.io/composer
-  notes: ""
-- tool: "Composer 2"
+  notes: ''
+- tool: Composer 2
   date-added: 12/11/2015
   url: http://www.appgyver.com/
-  notes: ""
-- tool: "Aerobatic Static Hosting Features"
-  date-added: 09/11/2015
+  notes: ''
+- tool: Aerobatic Static Hosting Features
+  date-added: '09/11/2015'
   url: http://www.aerobatic.com/features/
-  notes: ""
-- tool: "Netlify: The premium hosting service for modern static websites"
-  date-added: 08/11/2015
+  notes: ''
+- tool: 'Netlify: The premium hosting service for modern static websites'
+  date-added: '08/11/2015'
   url: https://www.netlify.com/
-  notes: ""
-- tool: "Trello Integrations"
+  notes: ''
+- tool: Trello Integrations
   date-added: 06/11/2015
   url: https://trello.com/integrations
-  notes: ""
-- tool: "CleanMyPC. Clean up computer with a fast and proficient tool!"
+  notes: ''
+- tool: CleanMyPC. Clean up computer with a fast and proficient tool!
   date-added: 03/11/2015
   url: http://macpaw.com/cleanmypc/features
-  notes: ""
-- tool: "Resume Creator by Qwilr"
+  notes: ''
+- tool: Resume Creator by Qwilr
   date-added: 21/10/2015
   url: http://resumator.qwilr.com/?ref=producthunt
-  notes: ""
-- tool: "Qwilr - make web pages as easily as documents"
+  notes: ''
+- tool: Qwilr - make web pages as easily as documents
   date-added: 21/10/2015
   url: https://qwilr.com/#/features
-  notes: ""
-- tool: "Welcome to Pipes News"
+  notes: ''
+- tool: Welcome to Pipes News
   date-added: 15/10/2015
   url: http://pipesapp.com/
-  notes: ""
-- tool: "Noteslate /// Noteslate SHIRO - The first pure handwriting device"
-  date-added: 09/10/2015
+  notes: ''
+- tool: Noteslate /// Noteslate SHIRO - The first pure handwriting device
+  date-added: '09/10/2015'
   url: http://www.noteslate.com/
-  notes: ""
-- tool: "Zulip"
+  notes: ''
+- tool: Zulip
   date-added: 02/10/2015
   url: https://www.zulip.org/
-  notes: ""
-- tool: "Posthaven is the safe place for all your blog posts forever"
+  notes: ''
+- tool: Posthaven is the safe place for all your blog posts forever
   date-added: 29/09/2015
   url: https://posthaven.com/
-  notes: ""
-- tool: "U.S. Web Design Standards | U.S. Web Design Standards"
+  notes: ''
+- tool: U.S. Web Design Standards | U.S. Web Design Standards
   date-added: 29/09/2015
   url: https://playbook.cio.gov/
-  notes: ""
-- tool: "The REACHit App"
+  notes: ''
+- tool: The REACHit App
   date-added: 22/09/2015
   url: http://www.getreachit.com/
-  notes: ""
-- tool: "Screencasting in Chrome"
+  notes: ''
+- tool: Screencasting in Chrome
   date-added: 10/09/2015
   url: https://www.screencastify.com/
-  notes: ""
-- tool: "Leanflix"
+  notes: ''
+- tool: Leanflix
   date-added: 10/09/2015
   url: http://www.leanflix.com/
-  notes: ""
-- tool: "Thimble by Mozilla - An online code editor for learners & educators."
-  date-added: 08/09/2015
+  notes: ''
+- tool: Thimble by Mozilla - An online code editor for learners & educators.
+  date-added: '08/09/2015'
   url: https://thimble.mozilla.org/en-US
-  notes: ""
-- tool: "Rizon — Your Golden Hour Companion"
+  notes: ''
+- tool: Rizon — Your Golden Hour Companion
   date-added: 22/08/2015
   url: http://rizonapp.co/
-  notes: ""
-- tool: "Bootstrap Themes"
+  notes: ''
+- tool: Bootstrap Themes
   date-added: 20/08/2015
   url: http://themes.getbootstrap.com/
-  notes: ""
-- tool: "Mailchimp Styleguide"
+  notes: ''
+- tool: Mailchimp Styleguide
   date-added: 19/08/2015
   url: http://styleguide.mailchimp.com/
-  notes: ""
-- tool: "Home | getAwesomeness()"
+  notes: ''
+- tool: Home | getAwesomeness()
   date-added: 19/08/2015
   url: http://getawesomeness.com/
-  notes: ""
-- tool: "Google Hangouts"
+  notes: ''
+- tool: Google Hangouts
   date-added: 18/08/2015
   url: https://hangouts.google.com/
-  notes: ""
-- tool: "Telerik JustDecompiler free .NET decompiler"
+  notes: ''
+- tool: Telerik JustDecompiler free .NET decompiler
   date-added: 15/08/2015
   url: http://www.telerik.com/products/decompiler.aspx
-  notes: ""
-- tool: "FREELETICS ⬢ High Intensity Workouts & Training Plans"
+  notes: ''
+- tool: FREELETICS ⬢ High Intensity Workouts & Training Plans
   date-added: 14/08/2015
   url: https://www.freeletics.com/en
-  notes: ""
-- tool: "How to use Bootcamp to run Windows 10 Preview on OS X Yosemite"
-  date-added: 09/08/2015
+  notes: ''
+- tool: How to use Bootcamp to run Windows 10 Preview on OS X Yosemite
+  date-added: '09/08/2015'
   url: http://jamonholmgren.com/bootcamp-windows-10/
-  notes: ""
-- tool: "Company Autocomplete API"
+  notes: ''
+- tool: Company Autocomplete API
   date-added: 07/08/2015
   url: http://blog.clearbit.com/company-autocomplete-api
-  notes: ""
-- tool: "file.io - Ephemeral file sharing"
+  notes: ''
+- tool: file.io - Ephemeral file sharing
   date-added: 31/07/2015
   url: https://www.file.io/#one
-  notes: ""
-- tool: "Blockspring - web services in spreadsheets"
+  notes: ''
+- tool: Blockspring - web services in spreadsheets
   date-added: 31/07/2015
   url: https://www.blockspring.com/
-  notes: ""
-- tool: "Free CRM for Small Business | HubSpot CRM"
+  notes: ''
+- tool: Free CRM for Small Business | HubSpot CRM
   date-added: 24/07/2015
   url: http://www.hubspot.com/crm
-  notes: ""
-- tool: "import.io | Web Data Platform & Free Web Scraping Tool"
+  notes: ''
+- tool: import.io | Web Data Platform & Free Web Scraping Tool
   date-added: 21/07/2015
   url: https://import.io/
-  notes: ""
-- tool: "Get the Hemingway Editor for Mac and PC"
+  notes: ''
+- tool: Get the Hemingway Editor for Mac and PC
   date-added: 21/07/2015
   url: http://www.hemingwayapp.com/desktop.html
-  notes: ""
-- tool: "Trending Tech News - Index"
+  notes: ''
+- tool: Trending Tech News - Index
   date-added: 20/07/2015
   url: https://index.co/?ref=producthunt
-  notes: ""
-- tool: "Faqt"
+  notes: ''
+- tool: Faqt
   date-added: 20/07/2015
   url: http://faqt.co/
-  notes: ""
-- tool: "Code-Free Responsive Website Design Software | Webydo"
+  notes: ''
+- tool: Code-Free Responsive Website Design Software | Webydo
   date-added: 16/07/2015
   url: http://www.webydo.com/
-  notes: ""
-- tool: "Writage - Markdown plugin for Microsoft Word"
+  notes: ''
+- tool: Writage - Markdown plugin for Microsoft Word
   date-added: 16/07/2015
   url: http://www.writage.com/#
-  notes: ""
-- tool: "NewsBot"
+  notes: ''
+- tool: NewsBot
   date-added: 10/07/2015
   url: https://getnewsbot.com/
-  notes: ""
-- tool: "Company Logo API"
+  notes: ''
+- tool: Company Logo API
   date-added: 10/07/2015
   url: http://blog.clearbit.com/logo
-  notes: ""
-- tool: "GitUp"
-  date-added: 08/07/2015
+  notes: ''
+- tool: GitUp
+  date-added: '08/07/2015'
   url: http://gitup.co/
-  notes: ""
-- tool: "Paste"
+  notes: ''
+- tool: Paste
   date-added: 30/06/2015
   url: http://pasteapp.me/
-  notes: ""
-- tool: "OzCode: Innovative debugging extension for Visual Studio"
+  notes: ''
+- tool: 'OzCode: Innovative debugging extension for Visual Studio'
   date-added: 24/06/2015
   url: http://www.oz-code.com/
-  notes: ""
-- tool: "Due.com - Online Time Tracking and Invoicing"
+  notes: ''
+- tool: Due.com - Online Time Tracking and Invoicing
   date-added: 20/06/2015
   url: https://due.com/features
-  notes: ""
-- tool: "Paw – The ultimate REST client for Mac"
+  notes: ''
+- tool: Paw – The ultimate REST client for Mac
   date-added: 12/06/2015
   url: https://luckymarmot.com/paw
-  notes: ""
-- tool: "Continuous Integration and Deployment service for Windows developers - Appveyor"
+  notes: ''
+- tool: Continuous Integration and Deployment service for Windows developers - Appveyor
   date-added: 10/06/2015
   url: http://www.appveyor.com/
-  notes: ""
-- tool: "Conversion Types - Online file converter"
+  notes: ''
+- tool: Conversion Types - Online file converter
   date-added: 04/06/2015
   url: http://www.conved.com/conversion-types
-  notes: ""
-- tool: "Submit.co – Where to get press coverage for your startup"
+  notes: ''
+- tool: Submit.co – Where to get press coverage for your startup
   date-added: 31/05/2015
   url: http://submit.co/
-  notes: ""
-- tool: "InboxSDK"
+  notes: ''
+- tool: InboxSDK
   date-added: 23/05/2015
   url: https://www.inboxsdk.com/
-  notes: ""
-- tool: "Streak - CRM in your Inbox"
+  notes: ''
+- tool: Streak - CRM in your Inbox
   date-added: 23/05/2015
   url: https://www.streak.com/
-  notes: ""
-- tool: "Windows backup software Download – Syncovery for Windows"
+  notes: ''
+- tool: Windows backup software Download – Syncovery for Windows
   date-added: 11/05/2015
   url: https://www.syncovery.com/download/windows/
-  notes: ""
-- tool: "Why Visual Studio Code?"
+  notes: ''
+- tool: Why Visual Studio Code?
   date-added: 30/04/2015
   url: https://code.visualstudio.com/Docs/whyvscode
-  notes: ""
-- tool: "Wagtail CMS - elegant, easy, open source content management"
+  notes: ''
+- tool: Wagtail CMS - elegant, easy, open source content management
   date-added: 25/04/2015
   url: https://wagtail.io/
-  notes: ""
-- tool: "transformy"
+  notes: ''
+- tool: transformy
   date-added: 24/04/2015
   url: http://www.transformy.io/#/
-  notes: ""
-- tool: "Niltalk — Instant, secure, disposable chat"
+  notes: ''
+- tool: Niltalk — Instant, secure, disposable chat
   date-added: 14/04/2015
   url: https://niltalk.com/
-  notes: ""
-- tool: "Found"
+  notes: ''
+- tool: Found
   date-added: 04/04/2015
   url: https://www.foundapp.com/
-  notes: ""
-- tool: "Onepager™ Website Builder • Namecheap.com"
+  notes: ''
+- tool: Onepager™ Website Builder • Namecheap.com
   date-added: 03/04/2015
   url: https://www.namecheap.com/websites/onepager.aspx
-  notes: ""
-- tool: "Solution for remote control, remote access, home office and TeamViewer features"
+  notes: ''
+- tool: Solution for remote control, remote access, home office and TeamViewer features
   date-added: 03/04/2015
   url: http://www.teamviewer.com/en/products/remotecontrol.aspx
-  notes: ""
-- tool: "Caching Manager in Sitecore 8 - Mark Stiles"
+  notes: ''
+- tool: Caching Manager in Sitecore 8 - Mark Stiles
   date-added: 31/03/2015
   url: https://www.markstiles.net/Blog/2015/03/30/Caching-Manager-in-Sitecore-8.aspx#CTTC
-  notes: ""
+  notes: ''
 - tool: "#1 Free Timeline Maker and Timeline Creator for PowerPoint - Office Timeline"
   date-added: 31/03/2015
   url: https://www.officetimeline.com/
-  notes: ""
-- tool: "Macro software | Text Replacement & Typing Macro | Keystrokes For Windows - ShortKeys"
+  notes: ''
+- tool: Macro software | Text Replacement & Typing Macro | Keystrokes For Windows
+    - ShortKeys
   date-added: 25/03/2015
   url: http://www.shortkeys.com/
-  notes: ""
-- tool: "Moltin: ecommerce API for developers"
+  notes: ''
+- tool: 'Moltin: ecommerce API for developers'
   date-added: 20/03/2015
   url: https://moltin.com/features
-  notes: ""
-- tool: "Paid | Invoicing for Developers"
+  notes: ''
+- tool: Paid | Invoicing for Developers
   date-added: 13/03/2015
   url: https://www.paidapi.com/
-  notes: ""
-- tool: "Pith.li"
+  notes: ''
+- tool: Pith.li
   date-added: 23/02/2015
   url: http://pith.li/
-  notes: ""
-- tool: "#1 Free Online CRM for Small Business: Customer Relationship Software - Insightly - Insightly"
+  notes: ''
+- tool: "#1 Free Online CRM for Small Business: Customer Relationship Software - Insightly
+    - Insightly"
   date-added: 06/02/2015
   url: https://www.insightly.com/index005/
-  notes: ""
-- tool: "Axure RP Features | Axure Software"
+  notes: ''
+- tool: Axure RP Features | Axure Software
   date-added: 06/02/2015
   url: http://www.axure.com/features
-  notes: ""
-- tool: "Tailor"
+  notes: ''
+- tool: Tailor
   date-added: 01/01/2015
   url: https://www.tailorbrands.com/business
-  notes: ""
-- tool: "Reqres - A hosted REST-API ready to respond to your AJAX requests"
+  notes: ''
+- tool: Reqres - A hosted REST-API ready to respond to your AJAX requests
   date-added: 14/11/2014
   url: http://reqr.es/
-  notes: ""
-- tool: "StackEdit – Editor"
+  notes: ''
+- tool: StackEdit – Editor
   date-added: 17/10/2014
   url: https://stackedit.io/editor
-  notes: ""
-- tool: "17hats : The Simple Business Management App For Businesses of One : Features"
+  notes: ''
+- tool: '17hats : The Simple Business Management App For Businesses of One : Features'
   date-added: 16/10/2014
   url: https://www.17hats.com/index.html
-  notes: ""
-- tool: "Slack: Be less busy"
+  notes: ''
+- tool: 'Slack: Be less busy'
   date-added: 12/10/2014
   url: https://slack.com/
-  notes: ""
-- tool: "Quip"
+  notes: ''
+- tool: Quip
   date-added: 12/10/2014
   url: https://quip.com/
-  notes: ""
-- tool: "ReadMe.io : Crowdsource Your Developer Hub"
+  notes: ''
+- tool: 'ReadMe.io : Crowdsource Your Developer Hub'
   date-added: 10/10/2014
   url: https://readme.io/
-  notes: ""
-- tool: "Taiga.Io | Agile, Open Source, Free Project Management System"
+  notes: ''
+- tool: Taiga.Io | Agile, Open Source, Free Project Management System
   date-added: 05/10/2014
   url: https://taiga.io/
-  notes: ""
-- tool: "Setting up a Mac"
+  notes: ''
+- tool: Setting up a Mac
   date-added: 03/10/2014
   url: http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac
-  notes: ""
-- tool: "Online file conversion Rest API - ConvertAPI"
+  notes: ''
+- tool: Online file conversion Rest API - ConvertAPI
   date-added: 27/09/2014
   url: http://www.convertapi.com/
-  notes: ""
-- tool: "Airtable"
+  notes: ''
+- tool: Airtable
   date-added: 27/09/2014
   url: https://airtable.com/features
-  notes: ""
-- tool: "Create infographics & online charts | infogr.am"
+  notes: ''
+- tool: Create infographics & online charts | infogr.am
   date-added: 24/09/2014
   url: http://infogr.am/
-  notes: ""
-- tool: "Features"
+  notes: ''
+- tool: Features
   date-added: 31/08/2014
   url: https://habitrpg.com/static/features
-  notes: ""
-- tool: "Monitorbook | Easily track anything on the web"
+  notes: ''
+- tool: Monitorbook | Easily track anything on the web
   date-added: 29/08/2014
   url: https://monitorbook.com/#features
-  notes: ""
-- tool: "GlassWire Network Security Monitor & Firewall Tool"
+  notes: ''
+- tool: GlassWire Network Security Monitor & Firewall Tool
   date-added: 29/08/2014
   url: https://www.glasswire.com/
-  notes: ""
-- tool: "picdeck"
+  notes: ''
+- tool: picdeck
   date-added: 26/08/2014
   url: http://picdeck.co/
-  notes: ""
-- tool: "Golden Hill Software - CloudPull"
+  notes: ''
+- tool: Golden Hill Software - CloudPull
   date-added: 18/08/2014
   url: http://www.goldenhillsoftware.com/cloudpull/
-  notes: ""
-- tool: "A New Kind of Shared Calendar App - One Diary"
+  notes: ''
+- tool: A New Kind of Shared Calendar App - One Diary
   date-added: 15/08/2014
   url: http://www.onediary.com/
-  notes: ""
-- tool: "MockUPhone - One Click to Wrap App Screenshots in Device Mockup!"
+  notes: ''
+- tool: MockUPhone - One Click to Wrap App Screenshots in Device Mockup!
   date-added: 03/08/2014
   url: http://mockuphone.com/
-  notes: ""
-- tool: "Publish Books Instantly From Evernote - Evernote Blog"
+  notes: ''
+- tool: Publish Books Instantly From Evernote - Evernote Blog
   date-added: 29/07/2014
   url: http://blog.evernote.com/blog/2014/07/29/publish-books-instantly-evernote/
-  notes: ""
-- tool: "Planleaf: Task Management with Email"
+  notes: ''
+- tool: 'Planleaf: Task Management with Email'
   date-added: 20/06/2014
   url: http://www.planleaf.com/
-  notes: ""
-- tool: "Poetica"
+  notes: ''
+- tool: Poetica
   date-added: 18/06/2014
   url: https://poetica.com/
-  notes: ""
-- tool: "Apiary — Home"
+  notes: ''
+- tool: Apiary — Home
   date-added: 13/06/2014
   url: http://apiary.io/
-  notes: ""
-- tool: "Pesticide - Kill Your Css Layout Bugs"
+  notes: ''
+- tool: Pesticide - Kill Your Css Layout Bugs
   date-added: 15/04/2014
   url: http://pesticide.io/
-  notes: ""
-- tool: "These 11 apps are the key to productivity - Quartz"
-  date-added: 08/03/2014
+  notes: ''
+- tool: These 11 apps are the key to productivity - Quartz
+  date-added: '08/03/2014'
   url: http://qz.com/181743/these-11-apps-are-the-key-to-productivity/
-  notes: ""
-- tool: "Softcover"
+  notes: ''
+- tool: Softcover
   date-added: 07/03/2014
   url: https://www.softcover.io/
-  notes: ""
-- tool: "Copy"
+  notes: ''
+- tool: Copy
   date-added: 20/02/2014
   url: https://www.copy.com/home/?r=87Zlts&signup=1
-  notes: ""
-- tool: "Resize multiple images without scripts | sizzlepig"
+  notes: ''
+- tool: Resize multiple images without scripts | sizzlepig
   date-added: 26/01/2014
   url: https://www.sizzlepig.com/
-  notes: ""
-- tool: "Just Delete Me | A directory of direct links to delete your account from web services."
+  notes: ''
+- tool: Just Delete Me | A directory of direct links to delete your account from web
+    services.
   date-added: 19/11/2013
   url: http://justdelete.me/#
-  notes: ""
-- tool: "Gratisography: Free, use as you please, high-resolution pictures."
+  notes: ''
+- tool: 'Gratisography: Free, use as you please, high-resolution pictures.'
   date-added: 19/11/2013
   url: http://www.gratisography.com/
-  notes: ""
-- tool: "BackgroundCheck"
+  notes: ''
+- tool: BackgroundCheck
   date-added: 03/10/2013
   url: http://www.kennethcachia.com/background-check/index.html
-  notes: ""
-- tool: "Free Online Invoice Software - Invoiceable"
+  notes: ''
+- tool: Free Online Invoice Software - Invoiceable
   date-added: 24/09/2013
   url: http://invoiceable.co/
-  notes: ""
-- tool: "Paragon Backup & Recovery Home - Product Tour"
+  notes: ''
+- tool: Paragon Backup & Recovery Home - Product Tour
   date-added: 23/09/2013
   url: http://www.paragon-software.com/home/brh/screenshots.html
-  notes: ""
-- tool: "Personal - Macrium Software"
+  notes: ''
+- tool: Personal - Macrium Software
   date-added: 23/09/2013
   url: http://www.macrium.com/personal.aspx#std
-  notes: ""
-- tool: "XMind: The Most Popular Mind Mapping Tool"
+  notes: ''
+- tool: 'XMind: The Most Popular Mind Mapping Tool'
   date-added: 23/09/2013
   url: http://www.xmind.net/
-  notes: ""
-- tool: "Essential Tools for Starting a Rails App in 2013 | Pete Keen"
+  notes: ''
+- tool: Essential Tools for Starting a Rails App in 2013 | Pete Keen
   date-added: 19/09/2013
   url: http://www.petekeen.net/essential-tools-for-starting-a-rails-app-in-2013
-  notes: ""
-- tool: "The Twelve-Factor App"
+  notes: ''
+- tool: The Twelve-Factor App
   date-added: 19/09/2013
   url: http://12factor.net/
-  notes: ""
-- tool: "generatedata.com"
+  notes: ''
+- tool: generatedata.com
   date-added: 05/09/2013
   url: http://www.generatedata.com/
-  notes: ""
-- tool: "NoteShred"
+  notes: ''
+- tool: NoteShred
   date-added: 11/07/2013
   url: https://www.noteshred.com/
-  notes: ""
-- tool: "LaunchKey - Evolving User Authentication, Killing Passwords"
+  notes: ''
+- tool: LaunchKey - Evolving User Authentication, Killing Passwords
   date-added: 02/07/2013
   url: https://launchkey.com/
-  notes: ""
-- tool: "osx - Please share your hidden OS X features or tips and tricks - Ask Different"
+  notes: ''
+- tool: osx - Please share your hidden OS X features or tips and tricks - Ask Different
   date-added: 28/06/2013
   url: http://apple.stackexchange.com/questions/400/please-share-your-hidden-os-x-features-or-tips-and-tricks
-  notes: ""
-- tool: "Mac App Store - Swing"
+  notes: ''
+- tool: Mac App Store - Swing
   date-added: 23/05/2013
   url: https://itunes.apple.com/us/app/swing/id638793193?ls=1&mt=12
-  notes: ""
-- tool: "A brand new approach to screenshot software | Clarify-it"
+  notes: ''
+- tool: A brand new approach to screenshot software | Clarify-it
   date-added: 06/05/2013
   url: http://www.clarify-it.com/
-  notes: ""
-- tool: "Flat UI"
+  notes: ''
+- tool: Flat UI
   date-added: 06/05/2013
   url: http://designmodo.github.io/Flat-UI/
-  notes: ""
-- tool: "Watch TV shows and know when your shows are next | followshows"
+  notes: ''
+- tool: Watch TV shows and know when your shows are next | followshows
   date-added: 03/05/2013
   url: http://followshows.com/
-  notes: ""
-- tool: "Hex Color Tool"
+  notes: ''
+- tool: Hex Color Tool
   date-added: 30/04/2013
   url: http://hexcolortool.com/
-  notes: ""
-- tool: "Nitrous.IO"
+  notes: ''
+- tool: Nitrous.IO
   date-added: 17/04/2013
   url: https://www.nitrous.io/
-  notes: ""
-- tool: "Forecast for Developers"
+  notes: ''
+- tool: Forecast for Developers
   date-added: 16/04/2013
   url: https://developer.forecast.io/
-  notes: ""
-- tool: "D3.js - Data-Driven Documents"
+  notes: ''
+- tool: D3.js - Data-Driven Documents
   date-added: 15/04/2013
   url: http://d3js.org/
-  notes: ""
-- tool: "Do - get work done."
+  notes: ''
+- tool: Do - get work done.
   date-added: 12/04/2013
   url: https://do.com/
-  notes: ""
-- tool: "Status Board"
+  notes: ''
+- tool: Status Board
   date-added: 10/04/2013
   url: http://panic.com/statusboard/
-  notes: ""
-- tool: "Just Landed Making airport pickup easy"
-  date-added: 09/04/2013
+  notes: ''
+- tool: Just Landed Making airport pickup easy
+  date-added: '09/04/2013'
   url: http://www.getjustlanded.com/
-  notes: ""
-- tool: "MapBox | Fast and beautiful maps"
-  date-added: 09/04/2013
+  notes: ''
+- tool: MapBox | Fast and beautiful maps
+  date-added: '09/04/2013'
   url: http://mapbox.com/
-  notes: ""
-- tool: "AirServer - In Action"
+  notes: ''
+- tool: AirServer - In Action
   date-added: 05/04/2013
   url: http://www.airserver.com/en/Info/InAction
-  notes: ""
-- tool: "Reflector.app - AirPlay mirroring to your Mac or PC, wirelessly."
+  notes: ''
+- tool: Reflector.app - AirPlay mirroring to your Mac or PC, wirelessly.
   date-added: 05/04/2013
   url: http://www.reflectorapp.com/
-  notes: ""
-- tool: "25 Apps That Our Startup Loves To Use | Groove Blog"
+  notes: ''
+- tool: 25 Apps That Our Startup Loves To Use | Groove Blog
   date-added: 02/04/2013
   url: http://blog.groovehq.com/post/46934390013/25-apps-that-our-startup-loves-to-use
-  notes: ""
-- tool: "Login to Draft"
+  notes: ''
+- tool: Login to Draft
   date-added: 02/04/2013
   url: https://draftin.com/draft/users/sign_in
-  notes: ""
-- tool: "Imgembed: Track and monetize your online images with image embeds"
+  notes: ''
+- tool: 'Imgembed: Track and monetize your online images with image embeds'
   date-added: 02/04/2013
   url: http://imgembed.com/
-  notes: ""
-- tool: "The must-have OS X apps for developers and designers | The Tech Block"
+  notes: ''
+- tool: The must-have OS X apps for developers and designers | The Tech Block
   date-added: 28/03/2013
   url: http://thetechblock.com/must-have-osx-apps-designers-developers/
-  notes: ""
+  notes: ''
 - tool: ".Mail is coming to your dock and we would love to have you on board."
   date-added: 28/03/2013
   url: http://dotmailapp.com/
-  notes: ""
-- tool: "Postach.io | The Evernote Site Generator"
+  notes: ''
+- tool: Postach.io | The Evernote Site Generator
   date-added: 27/03/2013
   url: http://postach.io/
-  notes: ""
-- tool: "GitHub Mobile"
+  notes: ''
+- tool: GitHub Mobile
   date-added: 26/03/2013
   url: http://mobile.github.com/
-  notes: ""
-- tool: "Vagrant"
+  notes: ''
+- tool: Vagrant
   date-added: 23/03/2013
   url: http://www.vagrantup.com/
-  notes: ""
-- tool: "Reeder for Mac"
+  notes: ''
+- tool: Reeder for Mac
   date-added: 15/03/2013
   url: http://reederapp.com/mac/screens
-  notes: ""
-- tool: "NewsBlur"
+  notes: ''
+- tool: NewsBlur
   date-added: 15/03/2013
   url: http://www.newsblur.com/
-  notes: ""
-- tool: "Notable - Better Interfaces Through Faster Iterations"
+  notes: ''
+- tool: Notable - Better Interfaces Through Faster Iterations
   date-added: 14/03/2013
   url: http://www.notableapp.com/
-  notes: ""
-- tool: "Feedbin"
+  notes: ''
+- tool: Feedbin
   date-added: 14/03/2013
   url: https://feedbin.me/
-  notes: ""
-- tool: "Express - node.js web application framework"
+  notes: ''
+- tool: Express - node.js web application framework
   date-added: 05/03/2013
   url: http://expressjs.com/
-  notes: ""
-- tool: "Tempo Smart Calendar for iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5, iPod touch (3rd generation), iPod touch (4th generation), iPod touch (5th generation) and iPad on the iTunes App Store"
+  notes: ''
+- tool: Tempo Smart Calendar for iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5, iPod touch
+    (3rd generation), iPod touch (4th generation), iPod touch (5th generation) and
+    iPad on the iTunes App Store
   date-added: 25/02/2013
   url: https://itunes.apple.com/us/app/tempo-smart-calendar/id593819390?mt=8
-  notes: ""
-- tool: "Open Source Rails"
+  notes: ''
+- tool: Open Source Rails
   date-added: 22/02/2013
   url: http://www.opensourcerails.com/
-  notes: ""
-- tool: "doo | Every Document of Your Life"
+  notes: ''
+- tool: doo | Every Document of Your Life
   date-added: 21/02/2013
   url: https://doo.net/en/index.html
-  notes: ""
-- tool: "Any.DO | Make Things Happen"
+  notes: ''
+- tool: Any.DO | Make Things Happen
   date-added: 21/02/2013
   url: http://www.any.do/
-  notes: ""
-- tool: "Send to Dropbox | Email + Dropbox"
+  notes: ''
+- tool: Send to Dropbox | Email + Dropbox
   date-added: 19/02/2013
   url: https://sendtodropbox.com/
-  notes: ""
-- tool: "Sunrise"
+  notes: ''
+- tool: Sunrise
   date-added: 19/02/2013
   url: http://www.sunrise.am/
-  notes: ""
-- tool: "Convert Plain-text Documents to PDF, Docx, and ePub with Docverter:: Docverter"
+  notes: ''
+- tool: 'Convert Plain-text Documents to PDF, Docx, and ePub with Docverter:: Docverter'
   date-added: 15/02/2013
   url: http://www.docverter.com/
-  notes: ""
-- tool: "hhhhold!"
-  date-added: 08/02/2013
+  notes: ''
+- tool: hhhhold!
+  date-added: '08/02/2013'
   url: http://hhhhold.com/
-  notes: ""
-- tool: "Mailbox - Put Email In Its Place organize email like a todo list"
+  notes: ''
+- tool: Mailbox - Put Email In Its Place organize email like a todo list
   date-added: 07/02/2013
   url: http://www.mailboxapp.com/reservations/
-  notes: ""
-- tool: "Discourse"
+  notes: ''
+- tool: Discourse
   date-added: 06/02/2013
   url: http://www.discourse.org/
-  notes: ""
-- tool: "sferik/rails_admin · GitHub"
+  notes: ''
+- tool: sferik/rails_admin · GitHub
   date-added: 03/02/2013
   url: https://github.com/sferik/rails_admin
-  notes: ""
-- tool: "Configurable printable calendar"
+  notes: ''
+- tool: Configurable printable calendar
   date-added: 30/01/2013
   url: http://plaaan.com/
-  notes: ""
-- tool: "Fork the Cookbook"
+  notes: ''
+- tool: Fork the Cookbook
   date-added: 30/01/2013
   url: http://forkthecookbook.com/
-  notes: ""
-- tool: "sprResponsive | Responsive PSD to HTML"
+  notes: ''
+- tool: sprResponsive | Responsive PSD to HTML
   date-added: 28/01/2013
   url: https://sprresponsive.com/
-  notes: ""
-- tool: "sprInvoice Template Released | sprResponsive"
+  notes: ''
+- tool: sprInvoice Template Released | sprResponsive
   date-added: 28/01/2013
   url: https://sprresponsive.com/sprinvoice/
-  notes: ""
-- tool: "Sign up for Standard or Premium! | Cloud9 IDE | Online IDE – Your code anywhere, anytime"
+  notes: ''
+- tool: Sign up for Standard or Premium! | Cloud9 IDE | Online IDE – Your code anywhere,
+    anytime
   date-added: 18/01/2013
   url: https://c9.io/site/pricing/
-  notes: ""
-- tool: "Skrivr - Write freely. Publish beautifully. The future of web typography today."
+  notes: ''
+- tool: Skrivr - Write freely. Publish beautifully. The future of web typography today.
   date-added: 18/01/2013
   url: http://skrivr.com/
-  notes: ""
-- tool: "BugHerd | The worlds simplest bug tracker"
+  notes: ''
+- tool: BugHerd | The worlds simplest bug tracker
   date-added: 16/01/2013
   url: http://www.bugherd.com/
-  notes: ""
-- tool: "What is RubyFrontier?"
+  notes: ''
+- tool: What is RubyFrontier?
   date-added: 16/01/2013
   url: http://www.apeth.com/RubyFrontierDocs/defaultfolder/what.html
-  notes: ""
-- tool: "Pricing | MapBox"
+  notes: ''
+- tool: Pricing | MapBox
   date-added: 14/01/2013
   url: http://mapbox.com/plans/
-  notes: ""
-- tool: "Heello"
+  notes: ''
+- tool: Heello
   date-added: 11/01/2013
   url: https://heello.com/
-  notes: ""
-- tool: "Helpmint - Refreshing customer support"
+  notes: ''
+- tool: Helpmint - Refreshing customer support
   date-added: 11/01/2013
   url: https://helpmint.com/
-  notes: ""
-- tool: "jq"
-  date-added: 09/01/2013
+  notes: ''
+- tool: jq
+  date-added: '09/01/2013'
   url: http://stedolan.github.com/jq/
-  notes: ""
-- tool: "Syncios: Free iPod Transfer, Free iPod to PC Transfer, Transfer App Music Video Photo Ebook from iPod/iPhone/iPad to PC"
-  date-added: 09/01/2013
+  notes: ''
+- tool: 'Syncios: Free iPod Transfer, Free iPod to PC Transfer, Transfer App Music
+    Video Photo Ebook from iPod/iPhone/iPad to PC'
+  date-added: '09/01/2013'
   url: http://www.syncios.com/
-  notes: ""
-- tool: "Top 10 Unix Command Line Utilities 2012 | conflating"
-  date-added: 08/01/2013
+  notes: ''
+- tool: Top 10 Unix Command Line Utilities 2012 | conflating
+  date-added: '08/01/2013'
   url: http://blog.coldflake.com/posts/2012-12-30-Top-10-Unix-Command-Line-Utilities-2012.html
-  notes: ""
-- tool: "Foundation: The Most Advanced Responsive Front-end Framework from ZURB"
+  notes: ''
+- tool: 'Foundation: The Most Advanced Responsive Front-end Framework from ZURB'
   date-added: 07/01/2013
   url: http://foundation.zurb.com/
-  notes: ""
-- tool: "Interactive Guide to Blog Typography"
+  notes: ''
+- tool: Interactive Guide to Blog Typography
   date-added: 07/01/2013
   url: http://kaikkonendesign.fi/typography/
-  notes: ""
-- tool: "A Beginner's Guide to HTML & CSS"
+  notes: ''
+- tool: A Beginner's Guide to HTML & CSS
   date-added: 07/01/2013
   url: http://learn.shayhowe.com/html-css/
-  notes: ""
-- tool: "Andrey Tarantsov: Sublime Text Workflow That Beats Coda and Espresso"
+  notes: ''
+- tool: 'Andrey Tarantsov: Sublime Text Workflow That Beats Coda and Espresso'
   date-added: 20/12/2012
   url: http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/
-  notes: ""
-- tool: "SocialCount, a jQuery Plugin for Lighter & Faster Social Networking Widgets | Filament Group, Inc., Boston, MA"
+  notes: ''
+- tool: SocialCount, a jQuery Plugin for Lighter & Faster Social Networking Widgets
+    | Filament Group, Inc., Boston, MA
   date-added: 18/12/2012
   url: http://filamentgroup.com/lab/socialcount
-  notes: ""
-- tool: "Surreal CMS editable content for clients"
+  notes: ''
+- tool: Surreal CMS editable content for clients
   date-added: 16/12/2012
   url: http://www.surrealcms.com/how-it-works
-  notes: ""
-- tool: "lorempixel - placeholder images for every case"
+  notes: ''
+- tool: lorempixel - placeholder images for every case
   date-added: 14/12/2012
   url: http://lorempixel.com/
-  notes: ""
-- tool: "Data Protection Manager 2010"
+  notes: ''
+- tool: Data Protection Manager 2010
   date-added: 12/12/2012
   url: http://technet.microsoft.com/en-us/library/ff399192.aspx
-  notes: ""
+  notes: ''
