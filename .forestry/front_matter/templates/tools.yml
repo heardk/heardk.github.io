@@ -1,0 +1,20 @@
+---
+label: Tools
+hide_body: true
+fields:
+- type: field_group_list
+  name: Tools
+  label: Tools
+  fields:
+  - type: text
+    name: tool
+    label: tool
+  - type: text
+    name: date-added
+    label: date-added
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: notes
+    label: notes
