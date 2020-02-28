@@ -1,6 +1,6 @@
 ---
 - tool: Tailwind UI
-  date-added: 2/28/2020
+  date-added: 
   url: https://tailwindui.com/
   notes: Beautiful UI components, crafted by the creators of Tailwind CSS
 - tool: 'Userbase: Logins and persistence for static sites'
@@ -13,7 +13,7 @@
   url: https://diaryemail.com/
   notes: Diary as simple as it gets Write private diary using good old email!
 - tool: Paperbits - Drag 'n' drop content builder for web apps
-  date-added: '08/01/2020'
+  date-added: 08/01/2020
   url: https://paperbits.io/
   notes: Give your users a tool to create professional web pages, forms, email templates
     and more.
@@ -51,7 +51,7 @@
   notes: Clubhouse is the first project management platform for software development
     that brings everyone on every team together to build better products.
 - tool: Web Clipper
-  date-added: '09/09/2019'
+  date-added: 09/09/2019
   url: https://clipper.website/
   notes: Save anything on the web to anywhere
 - tool: Lunch Money - A new budgeting tool
@@ -74,22 +74,22 @@
   notes: Drafts lets you turn text into action – it’s a quick notebook, handy editor,
     and writing automation tool, all in one.
 - tool: Retool – The fast way to build internal tools.
-  date-added: '09/08/2019'
+  date-added: 09/08/2019
   url: https://retool.com/
   notes: Custom internal tools have the same building blocks. Retool gives you those
     building blocks, so you can build tools much faster.
 - tool: SeekWell
-  date-added: '09/08/2019'
+  date-added: 09/08/2019
   url: https://seekwell.io/
   notes: SeekWell helps data teams write SQL faster and automate dashboards in Google
     Sheets
 - tool: Kirby - The file-based content management system
-  date-added: '08/08/2019'
+  date-added: 08/08/2019
   url: https://getkirby.com/
   notes: Kirby is the content management system that adapts to your projects like
     no other
 - tool: API-based & Headless CMS as a Service - Storyblok
-  date-added: '08/08/2019'
+  date-added: 08/08/2019
   url: https://www.storyblok.com/
   notes: The Only Headless CMS with a Visual Editor
 - tool: Really Simple Store
@@ -246,7 +246,7 @@
   url: https://inkdrop.app/
   notes: Jot down your daily hacking endeavors. The Note-Taking App for Markdown Lovers
 - tool: My Brand New Logo – logo maker
-  date-added: '08/02/2019'
+  date-added: 08/02/2019
   url: https://mybrandnewlogo.com/
   notes: A professional design for everyone
 - tool: Sheety
@@ -279,11 +279,11 @@
   notes: WireframeSketcher is a wireframing tool that helps designers, developers
     and product managers
 - tool: Bootstrap Shuffle
-  date-added: '09/01/2019'
+  date-added: 09/01/2019
   url: https://bootstrapshuffle.com/
   notes: Bootstrap builder for busy developers
 - tool: POLAR - Easily manage your reading including PDFs, web content, and notes.
-  date-added: '09/01/2019'
+  date-added: 09/01/2019
   url: https://getpolarized.io/
   notes: A powerful document manager for Mac, Windows, and Linux for managing web
     content, books, and notes and supports tagging, annotation, highlighting and keeps
@@ -511,7 +511,7 @@
   url: https://github.com/electron/fiddle
   notes: Electron Fiddle lets you create and play with small Electron experiments.
 - tool: Retool
-  date-added: '09/08/2018'
+  date-added: 09/08/2018
   url: https://tryretool.com/
   notes: Custom internal tools have the same building blocks. Retool gives you those
     building blocks, so you can build them much faster.
@@ -656,7 +656,7 @@
   url: https://www.goodsync.com/
   notes: Take the Hassle Out of File Backup & Synchronization
 - tool: 'Handwrytten: Automated handwritten notes'
-  date-added: '08/05/2018'
+  date-added: 08/05/2018
   url: https://www.handwrytten.com/
   notes: Quality cards. Your words. In pen and ink
 - tool: npoint.io - JSON storage with schema validation
@@ -745,7 +745,7 @@
   notes: Record a high-quality podcast, host unlimited episodes, and distribute everywhere
     with just one click. Plus, it’s 100% free.
 - tool: Flourish | Data Visualisation & Storytelling
-  date-added: '09/02/2018'
+  date-added: 09/02/2018
   url: https://flourish.studio/
   notes: Quickly turn your spreadsheets into stunning online charts, maps and interactive
     stories
@@ -758,7 +758,7 @@
   url: https://jitsi.org/
   notes: The most innovative opensource video conferencing community. Period.
 - tool: Docusaurus
-  date-added: '09/01/2018'
+  date-added: 09/01/2018
   url: http://docusaurus.io/
   notes: Easy to Maintain Open Source Documentation Websites
 - tool: Listly  |  Fully-automated Web Scraping
@@ -796,7 +796,7 @@
   notes: Station is the first smart workstation for busy people. A single place for
     all of your work applications.
 - tool: Shards
-  date-added: '09/11/2017'
+  date-added: 09/11/2017
   url: https://designrevision.com/downloads/shards/
   notes: A free and modern UI toolkit for web makers based on the popular Bootstrap
     4 framework.
@@ -905,7 +905,7 @@
   url: https://www.gitignore.io/
   notes: Create Useful .gitignore Files For Your Project
 - tool: Page.REST
-  date-added: '08/09/2017'
+  date-added: 08/09/2017
   url: https://www.page.rest/
   notes: An HTTP API to extract OpenGraph, oEmbed or any other content from any public
     web page as JSON.
@@ -1026,11 +1026,11 @@
   url: https://robinmoisson.github.io/staticrypt/
   notes: 'Password protect a static HTML page  '
 - tool: Monica - a CRM for your friends and family
-  date-added: '09/06/2017'
+  date-added: 09/06/2017
   url: https://monicahq.com/
   notes: Your social memory
 - tool: Some useful websites for programmers
-  date-added: '09/06/2017'
+  date-added: 09/06/2017
   url: https://github.com/sdmg15/Best-websites-a-programmer-should-visit#when-you-get-stuck
   notes: ''
 - tool: Buttercup
@@ -1209,7 +1209,7 @@
   url: http://please.hackmyresume.com/
   notes: A SWISS ARMY KNIFE FOR RÉSUMÉS AND CVS FOR WINDOWS, OS X, LINUX, AND NODE.JS
 - tool: Brave Software | Building a Better Web
-  date-added: '09/01/2017'
+  date-added: 09/01/2017
   url: https://brave.com/
   notes: The new Brave browser automatically blocks ads and trackers, making it faster
     and safer than your current browser.
@@ -1258,16 +1258,16 @@
   notes: Four layers of malware-crushing tech. Smarter detection. Specialized ransomware
     protection. It's the security you've been looking for.
 - tool: staticland
-  date-added: '09/12/2016'
+  date-added: 09/12/2016
   url: https://static.land/
   notes: Static sites with free, automatic SSL for custom domains
 - tool: itsupport.grammable.me/
-  date-added: '09/12/2016'
+  date-added: 09/12/2016
   url: http://itsupport.grammable.me/
   notes: This tool will help you troubleshoot your technical issues, please start
     below. Thank you for using the Grammable IT Support Tool (GIST).
 - tool: hack news filter - filter the web by hacker news
-  date-added: '09/12/2016'
+  date-added: 09/12/2016
   url: https://hackernewsfilter.com/
   notes: Automatically find out if the web page you're reading has been discussed
     on Hacker News
@@ -1347,17 +1347,17 @@
   url: https://www.messagebird.com/en-ca/
   notes: SMS, Chat & Voice - The fastest and most reliable global messaging API.
 - tool: 'TaxJar: Automated Sales Tax Reporting & Filing'
-  date-added: '09/11/2016'
+  date-added: 09/11/2016
   url: https://www.taxjar.com/
   notes: ''
 - tool: 'Bolt CMS: Easy for editors, and a developer''s dream CMS | Bolt CMS'
-  date-added: '09/11/2016'
+  date-added: 09/11/2016
   url: https://bolt.cm/
   notes: 'Bolt is an open source Content Management Tool, which strives to be as simple
     and straightforward as possible. It is quick to set up, easy to configure, uses
     elegant templates, and above all: It’s a joy to use.'
 - tool: Digital asset management and collaboration for creatives | Pics.io
-  date-added: '09/11/2016'
+  date-added: 09/11/2016
   url: https://pics.io/?ref=producthunt
   notes: 'Pics.io is a complete solution for managing all your digital assets. Quickly
     find any of your  creative files, collaborate with colleagues on new projects,  and
@@ -1398,11 +1398,11 @@
   notes: ''
 - tool: MEAN.IO - MongoDB, Express, Angularjs Node.js powered fullstack web framework
     - MEAN.IO - MongoDB, Express, Angularjs Node.js powered fullstack web framework
-  date-added: '09/04/2016'
+  date-added: 09/04/2016
   url: http://mean.io/APP_URL
   notes: ''
 - tool: Introducing React Storybook — KADIRA VOICE
-  date-added: '08/04/2016'
+  date-added: 08/04/2016
   url: https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.ph5xpxmez
   notes: ''
 - tool: DeskConnect | The missing link between your devices.
@@ -1530,11 +1530,11 @@
   url: http://www.appgyver.com/
   notes: ''
 - tool: Aerobatic Static Hosting Features
-  date-added: '09/11/2015'
+  date-added: 09/11/2015
   url: http://www.aerobatic.com/features/
   notes: ''
 - tool: 'Netlify: The premium hosting service for modern static websites'
-  date-added: '08/11/2015'
+  date-added: 08/11/2015
   url: https://www.netlify.com/
   notes: ''
 - tool: Trello Integrations
@@ -1558,7 +1558,7 @@
   url: http://pipesapp.com/
   notes: ''
 - tool: Noteslate /// Noteslate SHIRO - The first pure handwriting device
-  date-added: '09/10/2015'
+  date-added: 09/10/2015
   url: http://www.noteslate.com/
   notes: ''
 - tool: Zulip
@@ -1586,7 +1586,7 @@
   url: http://www.leanflix.com/
   notes: ''
 - tool: Thimble by Mozilla - An online code editor for learners & educators.
-  date-added: '08/09/2015'
+  date-added: 08/09/2015
   url: https://thimble.mozilla.org/en-US
   notes: ''
 - tool: Rizon — Your Golden Hour Companion
@@ -1618,7 +1618,7 @@
   url: https://www.freeletics.com/en
   notes: ''
 - tool: How to use Bootcamp to run Windows 10 Preview on OS X Yosemite
-  date-added: '09/08/2015'
+  date-added: 09/08/2015
   url: http://jamonholmgren.com/bootcamp-windows-10/
   notes: ''
 - tool: Company Autocomplete API
@@ -1670,7 +1670,7 @@
   url: http://blog.clearbit.com/logo
   notes: ''
 - tool: GitUp
-  date-added: '08/07/2015'
+  date-added: 08/07/2015
   url: http://gitup.co/
   notes: ''
 - tool: Paste
@@ -1872,7 +1872,7 @@
   url: http://pesticide.io/
   notes: ''
 - tool: These 11 apps are the key to productivity - Quartz
-  date-added: '08/03/2014'
+  date-added: 08/03/2014
   url: http://qz.com/181743/these-11-apps-are-the-key-to-productivity/
   notes: ''
 - tool: Softcover
@@ -1981,11 +1981,11 @@
   url: http://panic.com/statusboard/
   notes: ''
 - tool: Just Landed Making airport pickup easy
-  date-added: '09/04/2013'
+  date-added: 09/04/2013
   url: http://www.getjustlanded.com/
   notes: ''
 - tool: MapBox | Fast and beautiful maps
-  date-added: '09/04/2013'
+  date-added: 09/04/2013
   url: http://mapbox.com/
   notes: ''
 - tool: AirServer - In Action
@@ -2079,7 +2079,7 @@
   url: http://www.docverter.com/
   notes: ''
 - tool: hhhhold!
-  date-added: '08/02/2013'
+  date-added: 08/02/2013
   url: http://hhhhold.com/
   notes: ''
 - tool: Mailbox - Put Email In Its Place organize email like a todo list
@@ -2140,16 +2140,16 @@
   url: https://helpmint.com/
   notes: ''
 - tool: jq
-  date-added: '09/01/2013'
+  date-added: 09/01/2013
   url: http://stedolan.github.com/jq/
   notes: ''
 - tool: 'Syncios: Free iPod Transfer, Free iPod to PC Transfer, Transfer App Music
     Video Photo Ebook from iPod/iPhone/iPad to PC'
-  date-added: '09/01/2013'
+  date-added: 09/01/2013
   url: http://www.syncios.com/
   notes: ''
 - tool: Top 10 Unix Command Line Utilities 2012 | conflating
-  date-added: '08/01/2013'
+  date-added: 08/01/2013
   url: http://blog.coldflake.com/posts/2012-12-30-Top-10-Unix-Command-Line-Utilities-2012.html
   notes: ''
 - tool: 'Foundation: The Most Advanced Responsive Front-end Framework from ZURB'

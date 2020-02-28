@@ -15,10 +15,10 @@ fields:
     description: Date tool was added
     config:
       required: false
-      date_format: 
+      date_format: DD/MM/YYYY
       time_format: 
       display_utc: false
-      export_format: MMM YYYY
+      export_format: DD/MM/YYYY
     default: now
   - type: text
     name: url
@@ -26,3 +26,5 @@ fields:
   - type: text
     name: notes
     label: notes
+pages:
+- _data/tools.yml
