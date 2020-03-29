@@ -1,4 +1,9 @@
 ---
+- tool: Fraidycat
+  date-added: 29/03/2020
+  url: https://fraidyc.at
+  notes: Fraidycat is a desktop app or browser extension for Firefox or Chrome. I
+    use it to follow people (hundreds) on whatever platform they choose.
 - tool: Tailwind UI
   date-added: 28/02/2020
   url: https://tailwindui.com/
