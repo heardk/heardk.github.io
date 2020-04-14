@@ -1,4 +1,12 @@
 ---
+- title: Diary of a Bookseller
+  author: Shaun Bythell
+  rating: 5
+  pages: 320
+  date-finished: 11/04/2020
+  buy-url: https://www.amazon.ca/dp/1612197248/
+  cover-image-url: "/public/images/9D4C1D99-92AA-4997-8D98-84F3B814CD0C.png"
+  notes-url: ''
 - title: Digital Minimalism
   author: Cal Newport
   rating: 5
