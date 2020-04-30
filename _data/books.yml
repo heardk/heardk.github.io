@@ -1,4 +1,12 @@
 ---
+- title: 'Startup: A Novel'
+  author: Doree Shafrir
+  rating: 5
+  pages: 304
+  date-finished: 29/04/2020
+  buy-url: https://www.amazon.ca/dp/0316360384/
+  cover-image-url: "/public/images/927DEE7F-6112-4B42-B999-17058557604B.png"
+  notes-url: ''
 - title: The Last Cruise
   author: Kate Christensen
   rating: 4
