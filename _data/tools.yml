@@ -1,4 +1,9 @@
 ---
+- tool: Notebag
+  date-added: 15/05/2020
+  url: https://notebag.app/
+  notes: Organize your notes without getting distracted. Notebag is a fully keyboard-compatible
+    note taking app that links all your knowledge and gets out of your way.
 - tool: Boardist
   date-added: 29/03/2020
   url: https://boardist.io
