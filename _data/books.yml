@@ -1,4 +1,12 @@
 ---
+- title: Company of One
+  author: Paul Jarvis
+  rating: 5
+  pages: 272
+  date-finished: 27/05/2020
+  buy-url: https://www.amazon.ca/Company-One-Staying-Small-Business/dp/0358213258/
+  cover-image-url: "/public/images/companyofone.jpg"
+  notes-url: ''
 - title: Tools Of Titans
   author: Tim Ferris
   rating: 4
