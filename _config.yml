@@ -1,19 +1,7 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-# Permalinks
-permalink:        /blog/:title
-
-# Setup
-title:            'Kelly Heard'
-tagline:          ''
-description:      'Product Manager, Ecommerce & Technology'
-url:              'https://kellyheard.com/'
-baseurl:          ''
-author:
-  name:           'Kelly Heard'
-  twitter:        'kellyheard'
-paginate:         8
-exclude:          [Gemfile, Gemfile.lock, README.Hyde.md]
-plugins:          [github-pages]
+title: Blog & Personal Site of Kelly Heard
+author: Kelly Heard
+email:
+description: > # this means to ignore newlines until "show_exerpts:"
+  Blog and Personal Site for Ottawa-based Product Manager in Ecommerce and Technology
+plugins:
+  - github-pages
