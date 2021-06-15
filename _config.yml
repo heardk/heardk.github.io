@@ -3,35 +3,5 @@ author: Kelly Heard
 email:
 description: > # this means to ignore newlines until "show_exerpts:"
   Blog and Personal Site for Ottawa-based Product Manager in Ecommerce and Technology
-show_excerpts: false # set to true to show excerpts on the homepage
-permalink: /blog/:title
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
-plainwhite:
-  name: Kelly Heard
-  tagline: Product Manager & Technology Enthusiast
-  date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
-  navigation:
-  - title: About
-    url: "/about"
-  - title: Data
-    url: "/books"
-  - title: Projects
-    url: "/projects"
-  - title: Photos
-    url: "https://heard.photo"
-
-  # generate social links in footer
-  social_links:
-    twitter: kellyheard
-    linkedIn: in/kellyheard
-    instagram: mrkellyheard
-    rss: rss
-
 plugins:
-  - jekyll-seo-tag
   - github-pages
