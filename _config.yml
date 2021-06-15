@@ -1,7 +1,7 @@
-title: Blog & Personal Site of Kelly Heard
+title: Kelly Heard
 author: Kelly Heard
 email:
 description: > # this means to ignore newlines until "show_exerpts:"
-  Blog and Personal Site for Ottawa-based Product Manager in Ecommerce and Technology
+  Ottawa-based Product Manager
 plugins:
   - github-pages
