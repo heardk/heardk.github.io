@@ -1,5 +1,7 @@
 /* MVP.css v1.7.4 - https://github.com/andybrewer/mvp */
 
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 :root {
     --border-radius: 5px;
     --box-shadow: 2px 2px 10px;
@@ -216,6 +218,11 @@ h4,
 h5,
 h6 {
     line-height: var(--line-height);
+}
+
+h1 { 
+    font-family: 'Lobster', cursive;
+    font-size: large;
 }
 
 mark {
