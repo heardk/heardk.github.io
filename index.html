@@ -1,26 +1,69 @@
 ---
 layout: default
 ---
-
-<header>
+<header class="site-header">
+  <div class="highlight-wrapper">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" preserveAspectRatio="none" class="highlight-stroke">
+      <defs>
+        <linearGradient id="brushGradient" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#d0e7ff" stop-opacity="1"/>
+          <stop offset="70%" stop-color="#d0e7ff" stop-opacity="0.5"/>
+          <stop offset="100%" stop-color="#d0e7ff" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <path d="M0,65 Q50,30 100,55 T200,60 T300,65 T400,55 L400,100 L0,100 Z" fill="url(#brushGradient)" />
+    </svg>
+    <span class="name-splash">Kelly Heard</span>
+  </div>
 </header>
+
+
+
 <main>
-  <h1>Kelly Heard</h1>
-  <h2>Product Manager</h2>
-  <p>
-    With a mix of product management and technical experience, I develop insights-driven roadmaps focused on the products and experiences 
-    that drive growth and customer success.
+  <img class="profile-pic" src="/assets/profile.jpeg" alt="Kelly Heard">
+
+  <h1>About Me</h1>
+  <p class="description">
+    I spend my time between two different worlds — building software and working behind a camera. One’s all about structure and systems, the other’s about instinct and storytelling. 
+    I’ve never really bought into the idea that you have to be just one thing. The stuff I do — whether it’s writing code or framing a shot — comes from the same place: wanting to make things that are clear, useful, and maybe even a little beautiful.
   </p>
-  <br>
-  <p>
-    <a href="https://www.instagram.com/kelllyheard/" rel="me">Instagram</a> | 
-    <a href="https://bsky.app/profile/kellyheard.com">Bluesky</a> |
-    <a href="https://www.linkedin.com/in/kellyheard/">LinkedIn</a>
-  </p>
+
+  <div class="socials">
+    <a href="https://heard.bearblog.dev" target="_blank" rel="noopener noreferrer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M20.705 5.354c-.443-.542-1.153-.854-1.932-.854-.379 0-.74.091-1.069.252a2.996 2.996 0 00-1.798-1.747A2.994 2.994 0 0012 2c-.761 0-1.459.285-2.005.755a2.996 2.996 0 00-1.798 1.747A2.953 2.953 0 006 4.5c-.779 0-1.489.312-1.932.854C2.696 6.348 2 7.613 2 9v.5c0 2.485 2.014 4.5 4.5 4.5H9v1c0 2.21 1.79 4 4 4s4-1.79 4-4v-1h2.5c2.486 0 4.5-2.015 4.5-4.5V9c0-1.387-.696-2.652-1.795-3.646zM20 9.5c0 1.378-1.122 2.5-2.5 2.5H16v2c0 1.103-.897 2-2 2s-2-.897-2-2v-2h-1.5C9.122 12 8 10.878 8 9.5V9c0-.776.724-1.5 1.5-1.5h.055c.416 0 .82.166 1.125.463.307.297.482.698.482 1.107V9c0 .552.447 1 1 1s1-.448 1-1v-.43c0-.41.175-.81.482-1.107.305-.297.709-.463 1.125-.463H18.5c.776 0 1.5.724 1.5 1.5v.5z"/></svg>
+      Blog
+    </a>
+    
+    <a href="https://www.instagram.com/kelllyheard" target="_blank" rel="noopener noreferrer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M7.75 2h8.5A5.75 5.75 0 0122 7.75v8.5A5.75 5.75 0 0116.25 22h-8.5A5.75 5.75 0 012 16.25v-8.5A5.75 5.75 0 017.75 2zm0 1.5A4.25 4.25 0 003.5 7.75v8.5A4.25 4.25 0 007.75 20.5h8.5a4.25 4.25 0 004.25-4.25v-8.5A4.25 4.25 0 0016.25 3.5h-8.5zM12 7a5 5 0 110 10 5 5 0 010-10zm0 1.5a3.5 3.5 0 100 7 3.5 3.5 0 000-7zm4.75-.75a1 1 0 110 2 1 1 0 010-2z"/></svg>
+      Instagram
+    </a>
+  
+    <a href="https://www.linkedin.com/in/kellyheard" target="_blank" rel="noopener noreferrer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 448 512"><path d="M100.28 448H7.4V148.9h92.88zm-46.44-340c-31.5 0-57-25.7-57-57.3C-3.16 19.6 22.34-6 53.84-6s57 25.7 57 57.3c0 31.6-25.5 57.3-57 57.3zM447.9 448h-92.7V302.4c0-34.7-12.4-58.4-43.4-58.4-23.6 0-37.6 15.8-43.7 31.1-2.2 5.3-2.8 12.6-2.8 20V448h-92.7s1.2-242.3 0-267.1h92.7v37.8c12.3-19 34.3-46 83.6-46 61 0 106.8 39.8 106.8 125.2V448z"/></svg>
+      LinkedIn
+    </a>
+
+    <a href="/contact/" class="contact-button">
+      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2zm0 2l-8 5-8-5h16zm-8 7l8-5v10H4V8l8 5z"/></svg>
+      Contact
+    </a>
+  </div>
+
+  <section class="currently">
+    <h2>Currently:</h2>
+    <p class="interests-line">
+      West Wing rewatch rewatch rewatch rewatch &bullet; Vibe coding &bullet; Listening to the new Teddy Swims album
+    </p>
+  </section>
+
+  <!-- <section class="projects">
+    <h2>Around the web:</h2>
+    <ul class="links">
+      <li><a href="#">My Shopify customization toolkit →</a> <span class="description-small">Tools for checkout and cart UX improvements.</span></li>
+      <li><a href="#">Film projects portfolio →</a> <span class="description-small">Selected work from documentaries and sports broadcasts.</span></li>
+      <li><a href="#">Photography side projects →</a> <span class="description-small">Experiments with light, texture, and memory.</span></li>
+    </ul>
+  </section> -->
+
 </main>
-<footer>
-  <!-- <hr>
-  <p>
-    <small>&copy;2021-2025 Kelly Heard</small>
-  </p> -->
-</footer>
