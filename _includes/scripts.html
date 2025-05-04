@@ -1,7 +1,7 @@
 <script>
 (function() {
     function updateStatus() {
-        fetch('https://statusupdater.mail-0e0.workers.dev/api/latest')
+        fetch('https://statusupdater.mail-0e0.workers.dev/latest')
             .then(response => response.text())
             .then(status => {
                 document.getElementById('latest-status').textContent = status;
