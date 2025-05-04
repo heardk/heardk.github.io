@@ -1,0 +1,21 @@
+<script>
+(function() {
+    function updateStatus() {
+        fetch('https://statusupdater.mail-0e0.workers.dev/latest')
+            .then(response => response.text())
+            .then(status => {
+                document.getElementById('latest-status').textContent = status;
+            })
+            .catch(error => {
+                document.getElementById('latest-status').textContent = 'Error loading status';
+                console.error('Error fetching status:', error);
+            });
+    }
+
+    // Update immediately
+    updateStatus();
+    
+    // Optional: Update every 30 seconds
+    //setInterval(updateStatus, 30000);
+})();
+</script>
