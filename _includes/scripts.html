@@ -1,7 +1,7 @@
 <script>
 (function() {
     function updateStatus() {
-        fetch('https://status.kellyheard.com/latest')
+        fetch('https://status.he4rd.dev/latest')
             .then(response => response.text())
             .then(status => {
                 document.getElementById('latest-status').textContent = status;
